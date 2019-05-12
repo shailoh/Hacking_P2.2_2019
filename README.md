@@ -210,7 +210,7 @@ Location: (WH.04.115)
 
 ## WEEK 4 Presentations
 
-**FRI 6th June: 12h-17h00**
+**THURS 6th June: 12h-17h00**
 
 Location: 
 Group presentations and evaluation;
