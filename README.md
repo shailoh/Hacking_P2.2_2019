@@ -195,14 +195,13 @@ More references from Joana:
 
 ***
 
-## WEEK 3 FHacking in Context and Fieldwork
-
-
-- - -  Shailoh: Anatomy of Connectologogy
-
-Location: 
+## WEEK 3 Hacking in Context and Fieldwork
 
 **MON 27th April:**
+WORKSHOP 10.00-14.00
+- - -  Shailoh: Anatomy of Connectologogy
+
+Location: (WH.04.115) 
 
 
 ***
