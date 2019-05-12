@@ -114,7 +114,7 @@ Forming groups
 
 ***
 
-**THURS 16th April: 13:00 - 15:30 (to be confirmed)**
+**THURS 16th May: 13:00 - 15:30 (to be confirmed)**
 
 LOCATION: Drawing Station
 
@@ -197,7 +197,7 @@ More references from Joana:
 
 ## WEEK 3 Hacking in Context and Fieldwork
 
-**MON 27th April:**
+**MON 27th MAY:**
 WORKSHOP 10.00-14.00
 - - -  Shailoh: Anatomy of Connectologogy
 
