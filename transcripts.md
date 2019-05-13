@@ -30,3 +30,7 @@ even in web page split between thinking head and action movement, as if the body
 First thing we do in a web page is chopping head and body. 
 
 
+These groups are not forever, just for an exercise.
+Try and mix up your groups, so max 1 other person you already know. 
+
+Extract at least 5 keywords from the different manifestos. We have divided 'hacker' manifestos
