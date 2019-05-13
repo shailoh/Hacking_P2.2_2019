@@ -89,7 +89,7 @@ LOCATION:  WH.04.115
 - - - Group #05: [The Conscience of a Hacker](https://monoskop.org/media/text/laboria_cuboniks_the_xenofeminist_manifesto_2018/) - read ' 0X00'; '0X01'; '0X11'; ' 0X14' and ' 0X1A'
 
 
-**4** Set-up Github account; 
+**3** Set-up Github account; 
 
 *homework today* bring an 'inspection tool'.
 
