@@ -66,15 +66,16 @@ to make a clever, benign, and ethical prank or practical joke.
 
 LOCATION:  WH.04.115 
 
-**1** Introduction;
+**1** Introductions;
+
+- - - Introduce yourself through a component that constitutes 'you' (natural or artificial) + ad-hoc hacking reference;
 
 - - -  Shailoh Phillips [studiobabel.nl](http://studiobabel.nl/) #entanglement #tentacular_pedagogies #critical_making #coded_matter #studio_babel #tools_for_action #more_than_human #radical_solidarity #patent_pirates
 
 - - - Joana Chicau [joanachicau.com](http://www.joanachicau.com/); #graphic_design  #computer_programming #interface #web_environments #embodiment #language #scores #scripts  #choreography #codes #performance #improvisation #corporeality #techno-ecologies #techno-feminism
 
-**2** Warm-up exercise: ad-hoc hacking reference;
 
-**3** Reading of manifestos:
+**2** Reading of manifestos:
 
 - - - Group #01: [The Conscience of a Hacker](http://phrack.org/issues/7/3.html)
 
