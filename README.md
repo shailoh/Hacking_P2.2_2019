@@ -27,12 +27,13 @@ Read_Me file to be uploaded by: June 5th by 23h59;
 
 Group presentations: 6th June 12h-16h (WH.04.115);
 
+****
 
-+ - - - - - + +
 
 
 Hacker: n. [originally, someone who makes furniture with an axe](http://www.catb.org/~esr/jargon/html/H/hacker.html) 
 
++ - - - - - + +
 
 To hack:
 to cut with heavy blows in an irregular or random fashion;
