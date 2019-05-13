@@ -7,6 +7,9 @@ During these weeks we ask you to participate in a series of exercises, and in th
 
 In WEEK 4 you will have to deliver a [Read Me File](https://en.wikipedia.org/wiki/README) and upload it to this GitHub repository inside the folder "Read_Me_Files". You can create a simple text file or a [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
+
+****
+
 Check list for the Read_Me file:
  1. select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
  2. write down a reflection paragraph on the observational tool exercises (tip: you can link to images/ drawings);
@@ -15,6 +18,14 @@ Check list for the Read_Me file:
  5. write a summary on the Hacking lecture by Florian Cramer;
  6. write a summary on the exercise you developed at Varia;
  7. revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phygical systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/biased?);
+
+
+
+## DEADLINES
+
+Read_Me file to be uploaded by: June 5th by 23h59;
+
+Group presentations: 6th June 12h-16h (WH.04.115);
 
 
 + - - - - - + +
@@ -114,7 +125,7 @@ Forming groups
 
 ***
 
-**THURS 16th May: 13:00 - 15:30 (to be confirmed)**
+**THURS 16th May: 13:00 - 16:00 **
 
 LOCATION: Drawing Station
 
@@ -145,12 +156,17 @@ Location: [Varia](http://varia.zone/en/): Gouwstraat 3, Rotterdam
 
 **TUE 21th May: 09:00 - 15:00**
 
+*Agenda:*
+
+
+**1** 
+
+- - -  Workshop by Varia member Niek; part of [Varia Curriculum](http://varia.zone/category/curriculum.html).
+
+**2** 
 
 - - -  Joana: [Reverse Engineering Machinic Choreograhies](https://github.com/JoBCB/Rehearsal_Series)
 
-*Agenda:*
-
-**1** 
 
 ⋅⋅⋅ •    15min — embodiment: a series of movement exercises;
 
@@ -189,16 +205,13 @@ More references from Joana:
 
 
 
-**2** 
-
-- - -  Workshop by Varia members Niek and Lidia; part of [Varia Curriculum](http://varia.zone/category/curriculum.html).
-
 ***
 
 ## WEEK 3 Hacking in Context and Fieldwork
 
 **MON 27th MAY:**
 WORKSHOP 10.00-14.00
+
 - - -  Shailoh: Anatomy of Connectologogy
 
 Location: (WH.04.115) 
@@ -210,9 +223,10 @@ Location: (WH.04.115)
 
 ## WEEK 4 Presentations
 
-**THURS 6th June: 12h-17h00**
+**THURS 6th June: 12h-16h00**
 
-Location: 
+LOCATION:  WH.04.115 
+
 Group presentations and evaluation;
 
 *Assignment:*
