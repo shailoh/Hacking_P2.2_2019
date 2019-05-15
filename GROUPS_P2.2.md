@@ -1,4 +1,5 @@
 Please write below your groups and respective members:
 
-* group 01: ..
+* group 01: 
+Beyzâ Uyar, Claudia Kim, Julia Nap, Leonie Edel, Robbin Putter and Marle Rodenburg
 
