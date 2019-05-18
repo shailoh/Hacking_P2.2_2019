@@ -4,4 +4,4 @@ Please write below your groups and respective members:
 Beyzâ Uyar, Claudia Kim, Julia Nap, Leonie Edel, Robbin Putter and Marle Rodenburg
 
 * Group 02: 
-Kim ter horst, Hanna Mansfeld, Rianne beijersbergen, Sientje,...  
+Kim ter horst, Hanna Mansfeld, Rianne beijersbergen, Sientje, sylvia kloren
