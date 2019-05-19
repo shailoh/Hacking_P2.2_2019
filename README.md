@@ -212,9 +212,11 @@ More references from Joana:
 ## WEEK 3 Hacking in Context and Fieldwork
 
 **MON 27th MAY:**
-WORKSHOP 10.00-14.00
+WORKSHOP with Shailoh 10.00-14.00
+**Anatomy of Connectologogy**
+'hacking' requires developing a sensitivity for how systems work and finding an entry point. In this workshop, we will dive into how things are connected, assembled, compiled and held together in a pipeline, looking at the moving parts of feedback loops and switches in order to investigate possible ways of modifying or intervening in existing systems. 
 
-- - -  Shailoh: Anatomy of Connectologogy
+bring: a complex object or system (hardware or software) that consists of multiple parts. 
 
 Location: (WH.04.115) 
 
