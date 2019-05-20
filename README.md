@@ -23,7 +23,7 @@ Check list for the Read_Me file:
 
 ## DEADLINES
 
-Read_Me file to be uploaded by: June 5th by 23h59;
+Read_Me file to be uploaded by: June 4th by 23h59;
 
 Group presentations: 6th June 12h-16h (WH.04.115);
 
@@ -233,8 +233,9 @@ LOCATION:  WH.04.115
 
 Group presentations and evaluation;
 
-*Assignment:*
+
+*Assignment summary (for more details see the beginning of this document)*
 
 1) collectively: inspect (part of) a dynamic system, intervene — 10min group presentations + 10min discussions;
 
-2) individually: document and reflect on this  — deliver as a "read_me" file;
+2) individually: document and reflect on this  — deliver as a "read_me" file — this file to be uploaded by: June 4th by 23h59.
