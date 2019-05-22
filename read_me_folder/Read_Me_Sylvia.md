@@ -1,14 +1,14 @@
-## Read_me file - Sylvia Klören (0949142)
+# Read_me file - Sylvia Klören (0949142)
 
-# Keywords/Woordenlijst:
 
-# reflectie observatieoefeningen inspection tools
+## Keywords/Woordenlijst:
 
-# Lessen van Shailoh and Joana
+## reflectie observatieoefeningen inspection tools
 
-# Les van Florian Cramer
+## Lessen van Shailoh and Joana
 
-# Workshops bij Varia
+## Les van Florian Cramer
 
-# Refelctie practice Hacking
+## Workshops bij Varia
 
+## Refelctie practice Hacking
