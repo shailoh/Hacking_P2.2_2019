@@ -2,8 +2,8 @@
 
 Introduction class 01
 ======
-reflection
-keywords
+reflection.
+keywords.
 
 Core concepts in Hacking Anatomies class 02
 ======
