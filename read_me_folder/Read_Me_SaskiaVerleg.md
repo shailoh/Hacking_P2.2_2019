@@ -3,17 +3,16 @@
 Even testen
 
 ## What is hacking? 
-different kind of hacks:
-- urban hacks : intervention, critical on society, make impact, play with 
+different kind of hacking
+
+- urban hacking : **intervention, critical on society, make impact, play with context**
+- lifestyle hacking : **Make life easier, change patterns, change systems**
+- product hacking : **change products, use products in different way, combine materials, adjust, let go of the standard** 
+
+## Reflection paragraph on the observational tool exercises
 
 
 
-- change
-- adjust
-- critical look
-- seeing the world / materials different
-- change patterns
-- intervention
 
                 
 
