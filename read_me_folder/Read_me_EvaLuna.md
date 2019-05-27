@@ -7,6 +7,7 @@ Hacking at Varia
 - Also here, we were experimenting in a fun way to see what the different posibilities are with hacking. this time we hacked not our own body, but a soop recipy. To me, in this class i was starting to see more context attached to hacking. Where the first class was mostly about experimenting and trying to see things in another light, this class was more about purpose. The purpose of this class was more about being aware of why you are hacking something. In this case it was about being more conciderate with the materials and ingredients you use. In this class i started understanding better what the purpose of hacking can be in a way that i find it interesting. 
 
 Also this way of hacking is something i would like to try to use in my own work and movies. A question i thought about was, what is the most conciderate way to make a movie. With this question there is so much to think about. for example:
+
 -Where do you put the money, into big companies/smaller companies?
 -Who from the crew gets a say in what aspect of the movie
 -What about the cast?
