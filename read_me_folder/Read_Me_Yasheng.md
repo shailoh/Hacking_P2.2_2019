@@ -23,5 +23,19 @@ I sometimes also use it as a decoration.
 I look at it from different angles. I put it on the table, on my hand and put it with paper. 
 I can also use types, folders, or always bring my notebook. But the clip is still the most convenient.
 
+### From another member Phone:
+The phone has already become something everyone takes with every day. There are so many apps inside, which allow people to do anything, calls, documentation, calculation, play games, watch videos, almost everything. And use the phone in every context.
+
+To which context:
+I guess the phone is mostly used to record, including photos, audios, videos, texts as an inspection tool. 
+
+glossary:
+scroll, click, tap, move, focus, search, charge, delete, in a pocket and out, connect, wifi !!! Bluetooth, earphone
+
+members:
+computer, internet, Ipad, camera
+
+reflect:
+It can also be used to beat something or cover something. An Ipad or a computer can replace the phone, but not that portable.
 
 
