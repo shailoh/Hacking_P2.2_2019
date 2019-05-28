@@ -14,3 +14,6 @@ Marine, Eva Luna, Eva, Mate, Jacob
 
 * Group 05:
 Arooj,Hannah,Jamal, Florian, Yasheng ,Haemin
+
+* Group 06:
+Saskia, Kevin, Arman, Lode, Sinead
