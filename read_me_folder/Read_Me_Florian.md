@@ -19,6 +19,7 @@ https://criticalengineering.org
 - Open access
 - jargon - specific terminology/slang
 - jargonfile - http://catb.org/jargon/html/
+- Difference between the “black hat hackers” and “white hat hackers”
 
 <br>playing with systems / do something unexpected with it
 <br>creatively and circumventing overcoming limitations
