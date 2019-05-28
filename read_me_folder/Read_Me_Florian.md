@@ -1,6 +1,6 @@
-#**HACKING**
+# **HACKING**
 
-##WEEK 1
+## WEEK 1
 
 **The Cricitical Engineering Manifesto**
 
