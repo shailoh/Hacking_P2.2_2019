@@ -9,8 +9,7 @@ INSPECT / INTERVENE / DOCUMENT / REFLECT
 
 What means 'HACKING' to me (first thoughts before the practice) 
 
-Hacking to me, reminds me of hacking a system. For example a daily routine. Our lifestyles are changing rapidly throughout 
-different timeframes, this has to do with the fact that there are a lot of changes. Take your mobile phone, it is already part
+Hacking to me, reminds me of hacking a system. For example a daily routine. Our lifestyles are changing rapidly throughout different timeframes, this has to do with the fact that there are a lot of changes. Take your mobile phone, it is already part
 of a changed daily routine. Where we first had to make a call with a telephone book, we are now connected to everyone, 
 everywhere. 
 
@@ -69,8 +68,7 @@ have a language of its own”’ you can look into references and find “member
 
 OBJECT = My telephone 
 
-My telephone can be used in a social context, it is a tool to communicate with others. I can also use my phone to search for 
-information on the internet. I can make pictures with it, and videos, by that, record sound and documentate it immediately. 
+My telephone can be used in a social context, it is a tool to communicate with others. I can also use my phone to search for information on the internet. I can make pictures with it, and videos, by that, record sound and documentate it immediately. 
 I can use my phone to look at the time, it is a machine which brings me to reality, even though it is a ‘machine’. It is a 
 wireless thing which can be with or without me. With me it has extra data, without me it is just ‘a phone’. The phone has got 
 a lot of information on it, such as contacts, photos and other media. The phone is a box and the data is within it. Without 
@@ -106,8 +104,7 @@ OBJECT = Keys
 Keys can be used to open a door. A backdoor, a front door, the door from your room. Keys can also be used for a bike, or an 
 other public transport use. As well, keys can be used if you want to protect yourself. A key is sharp. A key is unique, every 
 door has got a different key. A key can also be used for a locker, to hide something. A key is only for you. A key is a 
-connection to a ‘diary’ as well. It is personal. Do you want to give your keys to anyone else? A key is there to hide 
-something. You hold your keys close to you, don’t want to loose them. 
+connection to a ‘diary’ as well. It is personal. Do you want to give your keys to anyone else? A key is there to hide something. You hold your keys close to you, don’t want to loose them. 
 I am a key. Connected to my ‘key family’. I am the key of your front door. Your front door is connected to your home, 
 a place where are your personal belongings are stored. A place in which you sleep, you dress, you shower. You meet other 
 people in your place and you have loads of memories in your home. Where would your home be without me? I am literally the 
