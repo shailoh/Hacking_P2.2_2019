@@ -46,3 +46,5 @@ It can also be used to beat something or cover something. An Ipad or a computer 
 <br>1. an act of computer hacking. 
 <br>2. cut with rough or heavy blows. cough persistently. 
 <br>3. Hacking in Art- Destory an existing system.
+to cut, to embarrass, to annoy, to disconcert, to confuse, to cope with, to manage, to accomplish, to tolerate, to comprehend, to hesitate in speech, to stammer, to break, to indiscriminate, to chop off
+
