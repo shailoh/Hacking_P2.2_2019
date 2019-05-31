@@ -87,17 +87,6 @@ Sometimes the phone, just as in a human relationship, cheats on you. It gives yo
 to one another. But you as phone user can also cheat, you can use Facebook, Instagram or another organisation to give them 
 your photos. But the phone thought, the photos were only for me?) 
 
-hahaha echt niet
-kom chatten
-
-send nudes
-
-ok ;)
-
-nice 
-
--0
-
 
 OBJECT = Keys
 
