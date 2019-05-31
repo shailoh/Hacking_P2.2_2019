@@ -51,3 +51,7 @@ It can also be used to beat something or cover something. An Ipad or a computer 
 ## **Notes for Shailoh**
 
 ## **Notes for Joana**
+
+## **Summary for Florian**
+
+## **Summary for Varia**
