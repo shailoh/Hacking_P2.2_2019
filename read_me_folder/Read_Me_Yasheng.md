@@ -5,6 +5,7 @@
 **More precise example:Square-dancing granny**
 <br> In China, square dancing or plaza dancing is an exercise routine performed to music in squares, plazas or parks of the nation's cities. It is popular with middle-aged and retired women who have been referred to as "dancing grannies" in the English-language media. Due to its low cost and ease of participation, it has been estimated to have over 100 million practitioners.
 <br>The groups congregate in the early morning and evening, any time of year, at parks or public squares, or anywhere they can find enough space, regardless of what other use that space may nominally have, such as a parking lot.  In the evening they tend to start dancing after dinner.
+<br> Bascially, these dancing grannies hack squares near home as dancing places, hacking their peers to join and hack people passing by.
 
 ## **An Inspection Tool**
 ### Individual:
