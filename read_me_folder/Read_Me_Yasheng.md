@@ -1,8 +1,8 @@
 ## **What is Hacking?**
-The example: Flash mode. 
+### The example: Flash mode. 
 <br> A flash mob is a group of people who assemble suddenly in a public place, perform an unusual and seemingly pointless act for a brief time, then quickly disperse, often for the purposes of entertainment, satire, and artistic expression. Flash mobs are organized via telecommunications, social media, or viral emails.
 
-More precise example:Square-dancing granny.
+### More precise example:Square-dancing granny.
 <br> In China, square dancing or plaza dancing is an exercise routine performed to music in squares, plazas or parks of the nation's cities. It is popular with middle-aged and retired women who have been referred to as "dancing grannies" in the English-language media. Due to its low cost and ease of participation, it has been estimated to have over 100 million practitioners.
 
 
