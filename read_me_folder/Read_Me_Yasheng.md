@@ -1,6 +1,6 @@
 ## **What is Hacking?**
 The example: Flash mode. 
-A flash mob is a group of people who assemble suddenly in a public place, perform an unusual and seemingly pointless act for a brief time, then quickly disperse, often for the purposes of entertainment, satire, and artistic expression. Flash mobs are organized via telecommunications, social media, or viral emails.
+<br> A flash mob is a group of people who assemble suddenly in a public place, perform an unusual and seemingly pointless act for a brief time, then quickly disperse, often for the purposes of entertainment, satire, and artistic expression. Flash mobs are organized via telecommunications, social media, or viral emails.
 
 ## **An Inspection Tool**
 ### Individual:
