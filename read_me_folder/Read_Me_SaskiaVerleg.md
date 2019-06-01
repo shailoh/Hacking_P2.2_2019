@@ -72,6 +72,55 @@ How to live outside the system - Abbie
 The Jargon File
 http://catb.org/jargon/html/
 
+### les 27 mei (ziek)
+last class: hacking soup, change ingredients. 
+where is the line of hacking? : depends on context. 
+pushing boundary, not crossing 
+
+### les 13 mei aantekeningen
+
+scamper: behavior movement . structured way to think out of the box 
+
+S substitute, comes up with another topic that is equivalent to the present topic.
+C combine, adds information to the original topic.
+A adapt, identifies ways to construct the topic in a more flexible and adjusted material.
+M modify, creatively changes the topic or makes a feature/idea bigger or smaller.
+P put to another use, identifies the possible scenarios and situations where this topic can be used.
+E eliminate, removes ideas or elements from the topic that are not valuable.
+R reverse,  rearrange evolves a new concept from the original concept. 
+
+
+something already present in world that u has hacker didn’t put there 
+things full of things that are now in a way that doesn’t make sense anymore. maybe did before? 
+what is a  system? 
+- group of interacting or interrelated entities that form a unified whole. surrounded by environment. 
+- close system has no input and no output. But everything is part of system, things exchange. 
+example: sub system: metro 
+people 
+metro 
+incheck point 
+etc
+
+more focus: 
+chairs
+schroeven
+fabric
+plastic 
+
+Everything is connected.
+7 degrees of separation: een theorie die stelt dat eenieder op onze planeet, door een netwerk met zes tussenstappen of vijf tussenpersonen, met elkaar verbonden is
+
+globalisation, market, internet. 
+question : can u undo the connection without any damage? 
+example: fabric with zipper u can stretch it apart without any damage. Without zipper the fabric will be damaged. U CAN put it back together but never will be a s it started. 
+what is the input and output that the connection support? 
+connection can be transportation system to go from 1 place to another. 
+How many connection can support 
+look at quality, how is something made up? how easy is it to break it open? 
+focus connection: looking at connection is looking in to the system. start looking to the world in a different way. 
+
+
+
 ###### SAMENVATTING 
 
 
