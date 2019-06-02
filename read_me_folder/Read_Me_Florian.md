@@ -22,12 +22,13 @@ https://criticalengineering.org
 - jargonfile - http://catb.org/jargon/html/
 - Difference between the “black hat hackers” and “white hat hackers”
 
-<br>playing with systems / do something unexpected with it
-<br>creatively and circumventing overcoming limitations
-<br>Hacked technologies forming a whole subculture (with magazines e.g. YIPL)
-<br>“Steal this Book“ by Abbie Hoffmann asa na example to outsmart commercial system
-<br>Look at what else can we do with something rather than using it the way were being told to use it originally
-<br>ubu.com archive / monoskop.org / aaaaarg.fail
+It´s about playing with systems and to do something unexpected with it, by 
+creatively and circumventing overcoming limitations. In the past, hacked technologies were forming a whole subculture (with magazines like YIPL) and literature like “Steal this Book“ by Abbie Hoffmann as an example to outsmart commercial system. Looking at what else can we do with something, rather than using it the way we were being told to use it originally is a way to help broadening the personal point of view on habits and beliefs and community life in general. 
+
+An essential part of hacking culture is free access to media of all kind, not necessarily of illegal nature. A few examples:
+
+ubu.com archive / monoskop.org / aaaaarg.fail
+
 <br>Categorization often comes with inspecting something, projection something useful in the future
 
 
