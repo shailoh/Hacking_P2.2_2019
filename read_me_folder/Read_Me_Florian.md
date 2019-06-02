@@ -37,6 +37,7 @@ During the lessons I also learned about **Anatomy:**
 
 ### OBSERVATION TOOL EXERCISES 
 
+**Personal Object**
 Since it is one of my most important everyday objects, I decided to bring my keychain to look beyond its simple use of opening locks. Each key has its personal assigned function and a counterpart-lock, yet they all hang onto the same keychain, connected by a ring. It comes with components of different materials (soft - medium - strong). On main feature on first sight is its sharp structure.
 
 **Members of same family:** lock and key model -> enzymes/DNA, receptors and Passwords 
@@ -48,6 +49,17 @@ Since it is one of my most important everyday objects, I decided to bring my key
 - wrenching the keychain around hand
 - Soundcreating (jingle-like)
 
+**Groupmembers' object**
+Smartphone with cover - Most striking details are its soft shape rounded corners, smooth screen, back cover textured. The screen cracked, cover from leather, with a purse on the back next to a small hole for the camera and a zipper made from metal
+
+**Members of same family:**  Handheld devices like Tablets, laptop etc., Cellphones, TV, Books, Musicplayer
+
+**Different uses:** 
+
+- WIFI-source
+- Speaker
+- Notebook
+- Photo album
 
 ## WEEK 2
 ## WEEK 3
