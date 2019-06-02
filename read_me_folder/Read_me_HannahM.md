@@ -38,8 +38,11 @@ words of Hacking:2
   - repurposing
   - intervention
   - deviation
+
 Research Refs:
-[Hacking of the teeth-brushing routine](https://www.instagram.com/p/BYUVDSsjbs_/?igshid=k3k5cmweugsc)
+
+- [Hacking of the teeth-brushing routine](https://www.instagram.com/p/BYUVDSsjbs_/?igshid=k3k5cmweugsc)
+- 
   
   (ADD REFS)
   
