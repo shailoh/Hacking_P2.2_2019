@@ -5,6 +5,7 @@
 **The Cricitical Engineering Manifesto**
 
 https://criticalengineering.org
+<br>**KEYWORDS ON HACKING**
 <br>Impact of Technology
 <br>Exploitation and Sabotage
 <br>Repurposing processes/beliefs etc.
