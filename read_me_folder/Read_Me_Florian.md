@@ -2,10 +2,11 @@
 
 ## WEEK 1
 
-**The Cricitical Engineering Manifesto**
+### The Cricitical Engineering Manifesto ###
 https://criticalengineering.org
 
-**KEYWORDS ON HACKING**
+### KEYWORDS ON HACKING ###
+
 <br>Impact of Technology
 <br>Exploitation and Sabotage
 <br>Repurposing processes/beliefs etc.
@@ -13,9 +14,7 @@ https://criticalengineering.org
 <br>Breaking through the walls, beyond the limits
 <br>Ownership - you don’t own it unless you know how to (make) use (of) it
 
-## WEEK 2
-
-**Principles of hacking with Florian Cramer**
+### Principles of hacking with Florian Cramer ###
 
 - Open access
 - jargon - specific terminology/slang
@@ -31,5 +30,5 @@ ubu.com archive / monoskop.org / aaaaarg.fail
 
 <br>Categorization often comes with inspecting something, projection something useful in the future
 
-
+## WEEK 2
 
