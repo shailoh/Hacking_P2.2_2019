@@ -26,7 +26,7 @@ creatively and circumventing overcoming limitations. In the past, hacked technol
 
 An essential part of hacking culture is free access to media of all kind, not necessarily of illegal nature. A few examples:
 
-* *ubu.com archive / monoskop.org / aaaaarg.fail
+* *ubu.com archive / monoskop.org / aaaaarg.fail* *
 
 <br>Categorization often comes with inspecting something, projection something useful in the future
 
