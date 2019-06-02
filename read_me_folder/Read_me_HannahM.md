@@ -22,10 +22,15 @@ WIP
   - Intervention
   - expose
   - exploit
-- 
+-  THE XENOFEMINIST MANIFESTO
+  - Alienation
+  - interupt
+  - Trap
+  - anti-nature
   
-  Observational tools excersizes:
-  I brought a hammer multitool in for the observational tool excersize where we observed an observational tool.(ADD MORE LATER)
+  
+#### Observational tools excersizes:
+I brought a hammer multitool in for the observational tool excersize where we observed an observational tool.(ADD MORE LATER)
   
   MY PERSONAL HACKING DICTIONARY AND DEFINITION
   - re-imagining
