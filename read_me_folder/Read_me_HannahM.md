@@ -22,7 +22,7 @@ WIP
   - Intervention
   - expose
   - exploit
--  THE XENOFEMINIST MANIFESTO
+-  THE XENOFEMINIST MANIFESTO 
   - Alienation
   - interupt
   - Trap
@@ -30,11 +30,17 @@ WIP
   
   
 #### Observational tools excersizes:
-I brought a hammer multitool in for the observational tool excersize where we observed an observational tool.(ADD MORE LATER)
+I brought a hammer multitool in for the observational tool excersize where we observed an observational tool. It was very interesting to turn a tool of inspection into the object of inspection, though some of the exersizes I found unessesary and somewhat redundant. I made a text of what the tool migjt be saying as part of the exersize. (ADD IMAGES) When we switched tools with someone I did the same for their tool of a mirror.(add Image).
   
-  MY PERSONAL HACKING DICTIONARY AND DEFINITION
+#### MY PERSONAL HACKING DICTIONARY AND DEFINITION
+words of Hacking:2
   - re-imagining
   - repurposing
+  - intervention
+  - deviation
+Research Refs:
+[Hacking of the teeth-brushing routine](https://www.instagram.com/p/BYUVDSsjbs_/?igshid=k3k5cmweugsc)
+  
   (ADD REFS)
   
   WORKSHOP DOCUMENTATION
