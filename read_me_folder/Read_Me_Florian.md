@@ -2,10 +2,10 @@
 
 ## WEEK 1
 
-### THE CRITICAL ENGINEERING MANIFESTO ###
+### THE CRITICAL ENGINEERING MANIFESTO 
 https://criticalengineering.org
 
-### KEYWORDS ON HACKING ###
+### KEYWORDS ON HACKING 
 
 <br>Impact of Technology
 <br>Exploitation and Sabotage
@@ -14,7 +14,7 @@ https://criticalengineering.org
 <br>Breaking through the walls, beyond the limits
 <br>Ownership - you don’t own it unless you know how to (make) use (of) it
 
-### PRINCIPLES OF HACKING WITH FLORIAN CRAMER ###
+### PRINCIPLES OF HACKING WITH FLORIAN CRAMER 
 
 - Open access
 - jargon - specific terminology/slang
@@ -27,7 +27,6 @@ creatively and circumventing overcoming limitations. In the past, hacked technol
 An essential part of hacking culture is free access to media of all kind, not necessarily of illegal nature. A few examples:
 
 **_ubu.com archive / monoskop.org / aaaaarg.fail_**  
-<br>Categorization often comes with inspecting something, projection something useful in the future
 
 During the lessons I also learned about **Anatomy:**
 
@@ -36,7 +35,7 @@ During the lessons I also learned about **Anatomy:**
 - Anatomical procedures - cutting - intervening something
 - Synonynms: analysis, examination, inspection, survey, study 
 
-### OBSERVATION TOOL EXERCISES ###
+### OBSERVATION TOOL EXERCISES 
 
 Since it is one of my most important everyday objects, I decided to bring my keychain to look beyond its simple use of opening locks. Each key has its personal assigned function and a counterpart-lock, yet they all hang onto the same keychain, connected by a ring. It comes with components of different materials (soft - medium - strong). On main feature on first sight is its sharp structure.
 
@@ -51,4 +50,5 @@ Since it is one of my most important everyday objects, I decided to bring my key
 
 
 ## WEEK 2
-
+## WEEK 3
+## WEEK 4
