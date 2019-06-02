@@ -1,10 +1,28 @@
 WIP
-Read_me file of Hannah Mansfield, Student of Illustration and destroyer of fictional worlds.
+## Read_me file of Hannah Mansfield, Student of Illustration and destroyer of fictional worlds.
 
-List of Keywords associated with the manifestos:
-- Conscience of a Hacker(1980 something one)
-  - crime, judgment, The same, Curiosity, 
-  
+#### List of Keywords associated with the manifestos:
+- Conscience of a Hacker(1986)
+  - crime
+  - judgment
+  - The same/alike
+  - Curiosity
+- A Hacker Manifesto [version 4.0]
+  - Abrstaction
+  - New things
+  - an abstract class
+  - Manisfest existence
+- FemTechNet
+  - no observers, only participants
+  - Accountability
+  - Collectivity
+  - social network
+- The Critical Engineering Manifesto
+  - Adapting
+  - Intervention
+  - expose
+  - exploit
+- 
   
   Observational tools excersizes:
   I brought a hammer multitool in for the observational tool excersize where we observed an observational tool.(ADD MORE LATER)
