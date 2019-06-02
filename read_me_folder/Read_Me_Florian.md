@@ -29,6 +29,13 @@ An essential part of hacking culture is free access to media of all kind, not ne
 **_ubu.com archive / monoskop.org / aaaaarg.fail_**  
 <br>Categorization often comes with inspecting something, projection something useful in the future
 
+During the lessons I also learned about **Anatomy:**
+
+- The study of the structure or internal workings of something
+- Bodily structures of an organism
+- Anatomical procedures - cutting - intervening something
+- Synonynms: analysis, examination, inspection, survey, study 
+
 ### OBSERVATION TOOL EXERCISES ###
 
 Since it is one of my most important everyday objects, I decided to bring my keychain to look beyond its simple use of opening locks. Each key has its personal assigned function and a counterpart-lock, yet they all hang onto the same keychain, connected by a ring. It comes with components of different materials (soft - medium - strong). On main feature on first sight is its sharp structure.
@@ -36,9 +43,11 @@ Since it is one of my most important everyday objects, I decided to bring my key
 **Members of same family:** lock and key model -> enzymes/DNA, receptors and Passwords 
 
 **Different uses:** 
+
 - Scratching in softer materials than metal - wood, glass etc.
-- Maassaging, scratching body
+- Massaging, scratching body
 - wrenching the keychain around hand
+- Soundcreating (jingle-like)
 
 
 ## WEEK 2
