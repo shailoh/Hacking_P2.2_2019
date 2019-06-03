@@ -49,12 +49,12 @@ It can also be used to beat something or cover something. An Ipad or a computer 
 <br>to cut, to embarrass, to annoy, to disconcert, to confuse, to cope with, to manage, to accomplish, to tolerate, to comprehend, to hesitate in speech, to stammer, to break, to indiscriminate, to chop off
 
 ## **Notes for Shailoh**
-FemTechNet Keywords:
-1.
-2.
-3.
-4.
-5.
+We Are FemTechNet Keywords:
+<br>1.
+<br>2.
+<br>3.
+<br>4.
+<br>5.
 ## **Notes for Joana**
 
 ## **Summary for Florian**
