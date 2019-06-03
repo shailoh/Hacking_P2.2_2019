@@ -1,7 +1,7 @@
 # :scroll: _Read_Me_Jacob_ :scroll:
 ***
 
-## Checklist
+## :pencil2: :clipboard: Checklist
 
 
 - [ ] select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
