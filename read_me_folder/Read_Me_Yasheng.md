@@ -62,7 +62,7 @@ We Are FemTechNet Keywords:
 <br>Modes of inspection: observing, noticing and intervening.
 <br>Affordance:a chair not only “affords” being “sat on,” but also “thrown,” “stood on,” etc.
 <br>Interfacing: interface as action
-Language as interface
-Body as interface
-Interface between the technical and the cultural
+<br>1.Language as interface
+<br>2.Body as interface
+<br>3.Interface between the technical and the cultural
 ## **Summary for Varia**
