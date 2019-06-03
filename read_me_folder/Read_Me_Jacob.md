@@ -7,7 +7,7 @@
 
 - [x] select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
 
-- [ ] write down a reflection paragraph on the observational tool exercises (tip: you can link to images/ drawings);
+- [x] write down a reflection paragraph on the observational tool exercises (tip: you can link to images/ drawings);
 
 - [ ] grow the keywords/ glossary about what Hacking (tip: add your own references);
 
@@ -77,6 +77,27 @@ _It is a pleasure to serve a purpose_
 
 ###### Reflection
 The flashing was a good breakdown of the object's form, disassociating myself from its purpose and viewing its shapes and silhouettes. With my eyes closed, it became personal. I explored the weight and texture, and how it felt to use it. It provided the set up for the point of view. The context allowed for brainstorming alternative uses. The point of view was very valuable. Giving the object a personality and background created a thread to follow in terms of language and meaning of the object beyonds its rudimentary function.
+
+***
+
+
+## :lock_with_ink_pen: Hacking Glossary :unlock:
+#### _Reference Edition_
+
+- Subvert: _undermine the power and authority of (an established system or institution)_
+
+- Loophole: _an ambiguity or inadequacy in the law or a set of rules_
+
+- Guerilla: _referring to actions or activities performed in an impromptu way, often without authorization_
+
+- Integrate: _combine (one thing) with another to form a whole_
+
+- Outlier: _a person or thing situated away or detached from the main body or system_
+
+***
+
+
+##Documentation
 
 
 
