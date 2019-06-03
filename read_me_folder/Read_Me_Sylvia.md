@@ -3,7 +3,7 @@
 
 ## Keywords/Woordenlijst:
 
-## reflectie observatieoefeningen inspection tools
+## Reflectie observatieoefeningen inspection tools
 
 ## Lessen van Shailoh and Joana
 
