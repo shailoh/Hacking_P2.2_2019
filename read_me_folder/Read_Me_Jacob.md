@@ -1,4 +1,5 @@
 # :scroll: _Read_Me_Jacob_ :scroll:
+
 ***
 
 ## :checkered_flag:  Checklist  :checkered_flag:
@@ -20,6 +21,7 @@
 
 ***
 
+
 ## :lock: Hacking Glossary :unlock:
 #### _Manifesto Edition_
 
@@ -35,7 +37,18 @@
 
 ***
 
+
 ## :scissors: Observational Tool Reflection :crystal_ball:
+#### _Paper Scissors_
+
+###### Performance
+Separation, destruction, dissection, multiplication, reproduction, finesse, precision, calculation.
+###### Context
+Targeted task, crafts and creativity. To change the physical nature of your medium, or the perception.
+###### The Point of View
+Consumption of others. To be utilized is sustenance. Balance and contrast. The safety and the danger: weighted equally. Yin and Yang. Each side now separated. A rule of two's: two legs, two hands. Diverse yet familiar, interchangeable but not the same. The legs form the mouth. They provide locomotion of the task. Mirrors of each other. Centered on a fulcrum, tipping back and forth rythmically. It is a pleasure to serve a purpose.
+###### Reflection
+The flashing was a good breakdown of the object's form, disassociating myself from its purpose and viewing its shapes and silhouettes. With my eyes closed, it became personal. I explored the weight and texture, and how it felt to use it. It provided the set up for the point of view. The context allowed for brainstorming alternative uses. The point of view was very valuable. Giving the object a personality and background created a thread to follow in terms of language and meaning of the object beyonds its rudimentary function.
 
 
 
