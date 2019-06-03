@@ -48,22 +48,4 @@ It can also be used to beat something or cover something. An Ipad or a computer 
 <br>3. Hacking in Art- Destory an existing system.
 <br>to cut, to embarrass, to annoy, to disconcert, to confuse, to cope with, to manage, to accomplish, to tolerate, to comprehend, to hesitate in speech, to stammer, to break, to indiscriminate, to chop off
 
-## **Notes for Shailoh**
-We Are FemTechNet Keywords:
-<br>1.
-<br>2.
-<br>3.
-<br>4.
-<br>5.
-## **Notes for Joana**
 
-## **Summary for Florian**
-<br>Hacker: Originally, someone who makes furniture with an axe.
-<br>Modes of inspection: observing, noticing and intervening.
-<br>Affordance:a chair not only “affords” being “sat on,” but also “thrown,” “stood on,” etc.
-<br>Interfacing: interface as action
-<br>1.Language as interface
-<br>2.Body as interface
-<br>3.Interface between the technical and the cultural
-<br>"Anatomy is a branch of natural science which deals with the structural organization of living things."
-## **Summary for Varia**
