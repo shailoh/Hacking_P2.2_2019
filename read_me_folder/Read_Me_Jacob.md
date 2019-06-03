@@ -1,4 +1,7 @@
-### Checklist
+# _Read_Me_Jacob_
+***
+
+## Checklist
 
 
 - [ ] select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
@@ -18,5 +21,12 @@
 ***
 
 ## Hacking Glossary
+#### _Manifesto Edition_
+
+- _Reinscribe:_ 
+- _Divergent:_
+- _Network:_
+- _Expertise:_
+- _Innovation:_
 
 
