@@ -20,7 +20,7 @@
 
 ***
 
-## :bookmark_tabs: Hacking Glossary :bookmark_tabs:
+## :lock: Hacking Glossary :unlock:
 #### _Manifesto Edition_
 
 - Reinscribe: _to reestablish or rename in a new and especially stronger form or context_
