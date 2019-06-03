@@ -3,14 +3,14 @@
 
 # Keywords to describe hacking:
 
-Coding
-experiments
-changing a system
-loopholes
-lifehacks
-hacking yourself. You can hack your own feelings and emotions by listening to music or eating something etc. But you could also hack your motivation by watching a ted talk.
-performence, like a flashmob
-medicine
+- Coding
+- experiments
+- changing a system
+- loopholes
+- lifehacks
+- hacking yourself. You can hack your own feelings and emotions by listening to music or eating something etc. But you could also hack your motivation by watching a ted talk.
+- performence, like a flashmob
+- medicine
 
 As soon as it becomes commercialised, it’s not a hack anymore. At least that how Shailoh interpreters it. I think this is very interesting. A hack is not just a solution to something, but also unconventional. 
 
