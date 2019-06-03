@@ -37,6 +37,5 @@
 
 ## :scissors: Observational Tool Reflection :crystal_ball:
 
-/play 56k
 
 
