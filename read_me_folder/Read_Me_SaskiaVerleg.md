@@ -4,7 +4,7 @@ _Even testen_**
 
 ____
 
-###### DOCUMENTATION Shailoh and Joana;
+###### DOCUMENTATION Shailoh and Joanna
 
 The first class was about what hacking means for you (as designer). I'm a Lifestyle Transformation Design student and i'm allawys busy with the people around me and how they move in the society. My focus is on digital media and how the behavior of the people has changed due the internet and all the screens. I like to make a statement with my products/ designs to make people think about their behavior. Most of the time i show it in a future scenario. I think for me hacking is to change products and 'normal' enviroment to something else. To change the context, so people notice it and remind them of what they do and how + why they do it. To make them aware. 
 _____
@@ -143,6 +143,10 @@ Now we had to go to the next step. How are we going to show our hack and how to 
 
 We decided to make a video of our test in combination with a  closeups of the jewelery. We split our group in teams. 2 thought about how to make the video, 2 were making the jewelery ready for the shoot and 1 was doing the voice over. It all went really well and everybody was continuously showing what they had found / did so we could give feedback on it. 
 
+The jewellery had to be handy, hold your drug and you have to take it of easilly. These things looked hard in the beginning but then we came with the idea of clips. So you can easilly put your pill in a clip and take it out. this was our starting point and then we made some test with it to see what did work and what didn't. At first I wanted to look pretty but after some hours in the metal station, when i still not made any progress i remembered that it isn't about the product itself but about the hack. So then i focused more on the function and how to wear it. We bought some extra jewelery tools to connect things to each other. 
+
+**MEETING 4** 
+shoot!  
 
 
 
