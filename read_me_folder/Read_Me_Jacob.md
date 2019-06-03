@@ -99,5 +99,9 @@ The flashing was a good breakdown of the object's form, disassociating myself fr
 
 ## :arrows_clockwise: Gather Documentation :books:
 
+#### _Reverse Engineering Machinic Choreographies_
+
+
+#### _Anatomy of Connectologogy_
 
 
