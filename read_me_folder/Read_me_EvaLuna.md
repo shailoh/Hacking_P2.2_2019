@@ -14,6 +14,11 @@
 
 As soon as it becomes commercialised, it’s not a hack anymore. At least that how Shailoh interpreters it. I think this is very interesting. A hack is not just a solution to something, but also unconventional. 
 
+# The sessions with Shailoh and Joana
+
+In the first session we had with Shailoh and Joana we firstly introduced ourselves and talked about how we were already familiar with hacking and what hacking meant to us. This was quite interesting because already i heard a lot of different experiences and ideas. To some people hacking meant coding for the biggest part. To there people hacking was way bigger than that. A big could even be a hack to make someone feel better, so to speak. It was clear that the lines to what hacking was and is were still very vague to me at that point. After the presentations of Shailoh and Joana about what they do as hackers, it became a little clearer to me what possibilities were. It wasn't until the second session, when the man from the research station came to give us a presentation about the history of hacking, that the concept of hacking was more accessible to me. I understood now that you don’t have to be a technical owner to hack something, you just have to be able to look at things differently. 
+After the presentation we could immediately use this new knowledge in the observational tool exercise. 
+
 # Observational tool exercise
 
 For the observational tool exercise we had to take an inspection tool with us. I took a knife with me. During class we had to observe the tools for about 15 minutes. At some point we had to close our eyes and just feel the tools. While touching my knife i felt every detail and realised what other things you could do with a knife beside just cutting stuff. This was probably the point of the exercise as hacking is al about using a system or tool in a different way. It was quite insightful to realise this first hand during a more simple exercise than having it explained in a presentation with lots of examples. Afterwards we had to write about how the object would feel. I decided to write about what the knife feels like and how people don't see its full potential.
