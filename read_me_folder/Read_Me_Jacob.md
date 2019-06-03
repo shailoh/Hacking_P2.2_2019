@@ -1,7 +1,7 @@
 # :scroll: _Read_Me_Jacob_ :scroll:
 ***
 
-## :checkered_flag: Checklist :checkered_flag:
+## :checkered_flag:  Checklist  :checkered_flag:
 
 
 - [ ] select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
@@ -23,10 +23,14 @@
 ## Hacking Glossary
 #### _Manifesto Edition_
 
-- _Reinscribe:_ to reestablish or rename in a new and especially stronger form or context
-- _Divergent:_ 
-- _Network:_
-- _Expertise:_
-- _Innovation:_
+- Reinscribe: _to reestablish or rename in a new and especially stronger form or context_
+
+- Divergent: _using a variety of premises, especially unfamiliar premises, as bases for inference, and avoiding common limiting assumptions in making deductions._
+
+- Network: _a group or system of interconnected people or things with a similar motive_
+
+- Expertise: _a high degree of skill or knowledge in a particular field_
+
+- Innovation: _a change of the form or nature of a thing or person into a new method, idea, product_
 
 
