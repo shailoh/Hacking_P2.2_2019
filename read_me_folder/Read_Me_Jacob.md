@@ -9,7 +9,7 @@
 
 - [x] write down a reflection paragraph on the observational tool exercises (tip: you can link to images/ drawings);
 
-- [ ] grow the keywords/ glossary about what Hacking (tip: add your own references);
+- [x] grow the keywords/ glossary about what Hacking (tip: add your own references);
 
 - [ ] gather documentation on the two sessions with Shailoh and Joana;
 
@@ -97,7 +97,7 @@ The flashing was a good breakdown of the object's form, disassociating myself fr
 ***
 
 
-##Documentation
+## :arrows_clockwise: Gather Documentation :books:
 
 
 
