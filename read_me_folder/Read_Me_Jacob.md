@@ -4,7 +4,7 @@
 ## :checkered_flag:  Checklist  :checkered_flag:
 
 
-- [ ] select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
+- [x] select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
 
 - [ ] write down a reflection paragraph on the observational tool exercises (tip: you can link to images/ drawings);
 
@@ -32,5 +32,9 @@
 - Expertise: _a high degree of skill or knowledge in a particular field_
 
 - Innovation: _a change of the form or nature of a thing or person into a new method, idea, product_
+
+***
+
+## :scissors: Observational Tool Reflection :crystal_ball:
 
 
