@@ -1,15 +1,16 @@
 # Read_me file - Sylvia Klören (0949142)
 
 
-## Keywords/Woordenlijst:
+### Keywords/Woordenlijst:
+Hacken:  Het vinden van toepassingen die niet door de maker van het middel bedoeld zijn, speciaal met betrekking tot computers. Complexiteit speelt hierbij geen rol, integendeel, gemakkelijke en snelle alternatieve oplossingen hebben de voorkeur. https://nl.wikipedia.org/wiki/Hacken 
 
-## Reflectie observatieoefeningen inspection tools
+### Reflectie observatieoefeningen inspection tools
 
-## Lessen van Shailoh and Joana
+### Lessen van Shailoh and Joana
 
-## Les van Florian Cramer
+### Les van Florian Cramer
 
-## Workshops bij Varia
+### Workshops bij Varia
 
 ## Refelctie practice Hacking
 
