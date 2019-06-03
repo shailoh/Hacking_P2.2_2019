@@ -31,7 +31,7 @@ ____
 
 We had to bring an inspection tool. I choose for a scissor because I use a scissor a lot to cut out images i like. We had to feel the object with our eyes closed and en look to the object in different perspectives. This excersize was hard for me, i still looked at it as a scissor. 
 
-**We had to write down in whitch context the object could be used and how you can use it as an inspection tool. I didn't understand the assignment very well. My inspection ** (dutch): 
+**We had to write down in whitch context the object could be used and how you can use it as an inspection tool. I didn't understand the assignment very well. My inspection** (dutch): 
 
 *scherp aan ene kant, zacht en bol aan andere kant. 2 materialen, bedoeld om dingen los van elkaar te halen, werkt alleen dmv interactief bezig te zijn, doet uit zichzelf niks, scheiden, 2 kleuren, 2 materialen, 2 losse onderdelen, knippen, loshalen, bevrijden, interactie, plek voor hand / vingers, rechtshandig?, snijden, snel te gebruiken, geen gebruiksaanwijzing, handig, licht van gewicht, te bewegen, open en dicht, 2 tegenpolen in 1 object, uit elkaar te halen, te verstellen, diverse maten, te gebruiken om iets los te halen, iets open te maken, iets te verwijderen.*
 
@@ -118,7 +118,31 @@ focus connection: looking at connection is looking in to the system. start looki
 
 _____
 
-###### SAMENVATTING 
+### GROUP PROJECT 
+
+**MEETING 1**
+
+Samen video gekeken over artikel 13. Wat is het, wat zijn de gevolgen en hoe is het op stand gekomen? Erna bespreking wat wij willen. Hoe en welke aanpassingen daarvoor nodig? idee nog te groot, hoe verkleinen? en TESTEN? 
+
+artikel 13: focus memes. Zelf filter maken om te testen hoe het werkt? probleem: nog geen bestaand systeem.. Hoe past binnen opdracht? Oplossing misschien bestaande memes door programma heen gooien die het vergelijkt met bestanden die hij wel kent en zelf beeld met die bestaanden beelden maakt. Zelf memes maken? Analoog?? 'zo gaan memes er uit zien?', Interview regelen met iemand die verstand heeft van ae systeem? vanuit daar eigen systeem maken wat er op lijkt.  
+
+Na eind van meeting toch niet zeker van idee. Persoon die we wilde contacten voor informatie niet aanwezig op academie. Verder gebrainstormd : wat vinden we lastig in aller daags leven? waar ergeren we ons aan? Welk systeem kunnen we veranderen? 
+
+Met groep diverse ideen bedacht. Uiteindelijk gekozen om het smokkelen van drugs te hacken. Tegenwoordig worden veel drugs gebruikt en naar binnengesmokkeld tijdens het uitgaan en festivals. Deze worden op diverse manieren verstopt zodat bewaking niet achter komt dat je het bij hebt. Wat als we nu juist open en bloot onze drugs bij ons houden? Zouden we dan nog binnenkomen? Idee: drugs dragen als sierraden. TESTEN! 
+
+**MEETING 2**
+
+some people made allready designes. We discusses what the best way of bringing your drugs to a festival can be. At first the idea was to made really jewelery and 'hide' the drugs in there but that wasn't our goal and then it wouln't be a hack. So we decide to make the drugs jewelery as open as possible. We went to the shops to get some jewerelry kit and then we discussed how we could test it and where. On thursday there was a party in Now&Wow, we didn't had much time so 4 of us bought a ticket. 
+
+The day after 2 of us made the jewelery and later in the evening we went out to Now&Wow. 2 of us wore the neckalaces, armlaces and earrings, the other 2 were filming and document the test. It wasn't busy at all so it was going really fast. I even had a small chat with one guard because i didn't wanted to go inside so soon. It was hard to film and make photos due the dark and also because there where no other people at the door. When we were inside some people noticed the drugs and we started a conversation. A lot of people thought it was a nice hack and some of them even liked it as a jewelery. Also a lot of people only saw the drugs after we told them what we were doing. 
+
+(foto's) 
+
+**MEETING 3**
+Now we had to go to the next step. How are we going to show our hack and how to improve the jewelery? We now know that you CAN smuggle drugs into a festival when you wear it really exposed. How to send this message? How to present and how can we send our message? 
+
+We decided to make a video of our test in combination with a  closeups of the jewelery. We split our group in teams. 2 thought about how to make the video, 2 were making the jewelery ready for the shoot and 1 was doing the voice over. It all went really well and everybody was continuously showing what they had found / did so we could give feedback on it. 
+
 
 
 
