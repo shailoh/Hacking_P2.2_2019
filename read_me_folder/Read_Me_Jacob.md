@@ -1,4 +1,4 @@
-# _Read_Me_Jacob_
+# :floppy_disk: _Read_Me_Jacob_ :floppy_disk:
 ***
 
 ## Checklist
@@ -23,8 +23,8 @@
 ## Hacking Glossary
 #### _Manifesto Edition_
 
-- _Reinscribe:_ 
-- _Divergent:_
+- _Reinscribe:_ to reestablish or rename in a new and especially stronger form or context
+- _Divergent:_ 
 - _Network:_
 - _Expertise:_
 - _Innovation:_
