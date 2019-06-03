@@ -58,5 +58,7 @@ We Are FemTechNet Keywords:
 ## **Notes for Joana**
 
 ## **Summary for Florian**
-
+Hacker: Originally, someone who makes furniture with an axe.
+Modes of inspection: observing, noticing and intervening.
+Affordance:a chair not only “affords” being “sat on,” but also “thrown,” “stood on,” etc.
 ## **Summary for Varia**
