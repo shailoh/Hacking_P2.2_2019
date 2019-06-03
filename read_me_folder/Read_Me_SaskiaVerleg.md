@@ -2,6 +2,13 @@
 
 _Even testen_**
 
+____
+
+###### DOCUMENTATION Shailoh and Joana;
+
+The first class was about what hacking means for you (as designer). I'm a Lifestyle Transformation Design student and i'm allawys busy with the people around me and how they move in the society. My focus is on digital media and how the behavior of the people has changed due the internet and all the screens. I like to make a statement with my products/ designs to make people think about their behavior. Most of the time i show it in a future scenario. I think for me hacking is to change products and 'normal' enviroment to something else. To change the context, so people notice it and remind them of what they do and how + why they do it. To make them aware. 
+_____
+
 ### What is hacking? 
 different kind of hacking
 
@@ -16,49 +23,38 @@ To Watch –  If it were up to me, I would have written point-of-viewing. The br
 To Observe – This is the ultimate level, in which sight becomes intelligence, an ordered and lucid internal knowledge.
 To View –   (by spectators), on the other hand, is a way of looking that involves a threat, an expectation... 
                                                                                         Source: Noa Eshkol, In Her Words_**
-
+____
 
 ### REFLECTION PARAGRAPH ON THE OBSERVATIONAL TOOL EXERCISES
 
-##### EXERCISE  CLASS 2 
+##### EXERCISE,  CLASS 2 
 
-**what are its performative qualities and affordances; in which context can it be used? how can you use it as an inspection / intervention tool?**
-#### Schaar
-Scherp aan ene kant, zacht en bol aan andere kant. 2 materialen, bedoeld om dingen los van elkaar te halen, werkt alleen dmv interactief bezig te zijn, doet uit zichzelf niks, scheiden, 2 kleuren, 2 materialen, 2 losse onderdelen, knippen, loshalen, bevrijden, interactie, plek voor hand / vingers, rechtshandig?, snijden, snel te gebruiken, geen gebruiksaanwijzing, handig, licht van gewicht, te bewegen, open en dicht, 2 tegenpolen in 1 object, uit elkaar te halen, te verstellen, diverse maten, te gebruiken om iets los te halen, iets open te maken, iets te verwijderen.  
+We had to bring an inspection tool. I choose for a scissor because I use a scissor a lot to cut out images i like. We had to feel the object with our eyes closed and en look to the object in different perspectives. This excersize was hard for me, i still looked at it as a scissor. 
 
-**Build a small glossary for the object — "as if it would speak and have a language of its own"; you can look into references and find "members of the same family”;**
-#### Schaar
-Ik ben een schaar, ik ben scherp, handig, nodig. Ik ben licht van gewicht maar vanwege mijn hefboom effect kan ik meer door knippen dan je denkt, ik besta uit 2 materialen, ik  ben 2 tegenpolen in 1 object: scherp en koud aan de ene kant, bol en rond aan de andere kant, ik wil je geen pijn doen maar je moet me wel goed gebruiken, ik ben makkelijk te bedienen. Als je denkt dat je teveel kracht moet zetten me te gebruiken, blijf dan niet duwen: ik zal breken. Ik ben te verstellen mocht dit nodig zijn, ik ben vriendelijk voor je handen. Zal mijn best doen zo scherp mogelijk te zijn, ik kom voor in kleurtjes en maten: voor ieder wat wils. ik ben er voor jou om dingen van elkaar te scheiden. 
+**We had to write down in whitch context the object could be used and how you can use it as an inspection tool. I didn't understand the assignment very well. My inspection ** (dutch): 
 
-#### Reflect
-**make notes on the different processes/ procedures it allows you to undertake; what methods of observation and annotation did you use? is there an alternative to them?**
-Lastig om iets anders te zien dan het object zelf. lukte me niet. Het omschrijven wat het object is  was makkelijker dan vanuit het perspectief van het object zelf. 
-methode van observatie waren voelen, ruiken, object draaien en kijken. vanuit hier gekeken of ik het in andere context kon plaatsen. 
+*scherp aan ene kant, zacht en bol aan andere kant. 2 materialen, bedoeld om dingen los van elkaar te halen, werkt alleen dmv interactief bezig te zijn, doet uit zichzelf niks, scheiden, 2 kleuren, 2 materialen, 2 losse onderdelen, knippen, loshalen, bevrijden, interactie, plek voor hand / vingers, rechtshandig?, snijden, snel te gebruiken, geen gebruiksaanwijzing, handig, licht van gewicht, te bewegen, open en dicht, 2 tegenpolen in 1 object, uit elkaar te halen, te verstellen, diverse maten, te gebruiken om iets los te halen, iets open te maken, iets te verwijderen.*
 
-**Build a small glossary for the object — "as if it would speak and have a language of its own"; you can look into references and find "members of the same family”;**
-#### passer
-voelt koud en hard aan, vreemde vorm, te bewegen en scherp puntje aan de ene kant. 2 kleuren, verschillende cijfers en lijnen te zien, klein object, makkelijk in de hand te houden, plat, rond dingetje aan, als je niet weet wat het is, weet je niet wat het is denk ik, gaatjes aan ene kant van platte kant. 
+**Then we had to write down what it would like if the object would have it's own language** 
 
-**Build a small glossary for the object — "as if it would speak and have a language of its own"; you can look into references and find "members of the same family”;**
-#### passer
-ik ben een passer, met mij kun je perfecte rondjes tekenen op de maat die jij instelt. Ik ben scherp dus pas op, tevens kun je met mij cirkels uitsnijden, ik wil je geen pijn doen maar kan dit wel per ongelijk doen met mijn scherpe punt. Je kunt me bewegen maar wees voorzichtig. 
+*ik ben een schaar, ik ben scherp, handig, nodig. Ik ben licht van gewicht maar vanwege mijn hefboom effect kan ik meer door knippen dan je denkt, ik besta uit 2 materialen, ik  ben 2 tegenpolen in 1 object: scherp en koud aan de ene kant, bol en rond aan de andere kant, ik wil je geen pijn doen maar je moet me wel goed gebruiken, ik ben makkelijk te bedienen. Als je denkt dat je teveel kracht moet zetten me te gebruiken, blijf dan niet duwen: ik zal breken. Ik ben te verstellen mocht dit nodig zijn, ik ben vriendelijk voor je handen. Zal mijn best doen zo scherp mogelijk te zijn, ik kom voor in kleurtjes en maten: voor ieder wat wils. ik ben er voor jou om dingen van elkaar te scheiden.*
+
+After this assignment we had to switch our item. I got an passer and did the assignment again. It was hard to do this assignment becuase i couldn't really put the itemt out of its context. 
+____
 
 ##### Hackinglijst verlengen
-Copy mywdka: 
-to cut with heavy blows in an irregular or random fashion;
-to embarrass, annoy;
-to disconcert, confuse;
-to cope with, manage, accomplish; to tolerate, accept;
-to comprehend; to hesitate in speech; to stammer;
-to break into a computer system by hacking;
-to make a hack of, to put to indiscriminate or promiscuous use; to make common, vulgar, or stale, by such treatment;
-to cut or chop up or into pieces, to chop off;
-to make a clever, benign, and ethical prank or practical joke.
 
-###### DOCUMENTATION Shailoh and Joana;
+adjust, durven, grenzen net niet overgaan, risico opzoeken, discussion piece, small adjustment big impact, change behaviour, limit, research, intervention, testing, making, doing, experience. 
+___
 
-The first class was about what hacking means for you (as designer). I'm a Lifestyle Transformation Design student and i'm allawys busy with the people around me and how they move in the society. My focus is on digital media and how the behavior of the people has changed due the internet and all the screens. I like to make a statement with my products/ designs to make people think about their behavior. Most of the time it's sort of a future scenario. I think for me the hacking part is to change products or 'normal' enviroment to something else. To change the context so people notice it and remind them of what they do and how they do it. 
+#### CLASS JOSEPH 
 
+We had to bring a piece of fruit and 11 parts of your body (scanned, A3 format). At first Joseph showed us a dia show in which he showed us some hacking things he liked. After that we had to make our own hack in pairs, in 20 minutes. I went downstairs and rigth away was thinking about what i could hack. I thought about some struggles i had in school, this was my starting point. After this me and my teammate coudn't really think of a big problem we could solve so we made a 'hack' with the water machine. In some kinda funny way we managed to get a drink with 2 people instead of 1. 
+
+*for me this assignment was fun. There weren't any rules so you could do anything. This exercise made me realise that with just a small adjustment you can hack allmost everything. The 'hack' doesn't have to be so intens and big to make impact and change the system your working in. you also just have to start, don't think just do it.*
+
+After this we had to re-created our body again. I started to cut and came out with a new body. 
+_____
 
 ### LECTURE FLORIAN CRAMER  
 
@@ -71,55 +67,56 @@ How to live outside the system - Abbie
 
 The Jargon File
 http://catb.org/jargon/html/
+_____
 
-### les 27 mei (ziek)
+### class 27 mei (ziek)
 last class: hacking soup, change ingredients. 
 where is the line of hacking? : depends on context. 
 pushing boundary, not crossing 
+______
 
-### les 13 mei aantekeningen
+### class 13 mei aantekeningen
 
 scamper: behavior movement . structured way to think out of the box 
 
-S substitute, comes up with another topic that is equivalent to the present topic.
-C combine, adds information to the original topic.
-A adapt, identifies ways to construct the topic in a more flexible and adjusted material.
-M modify, creatively changes the topic or makes a feature/idea bigger or smaller.
-P put to another use, identifies the possible scenarios and situations where this topic can be used.
-E eliminate, removes ideas or elements from the topic that are not valuable.
-R reverse,  rearrange evolves a new concept from the original concept. 
+**S** substitute, comes up with another topic that is equivalent to the present topic.
+**C** combine, adds information to the original topic.
+**A** adapt, identifies ways to construct the topic in a more flexible and adjusted material.
+**M** modify, creatively changes the topic or makes a feature/idea bigger or smaller.
+**P** put to another use, identifies the possible scenarios and situations where this topic can be used.
+**E** eliminate, removes ideas or elements from the topic that are not valuable.
+**R** reverse,  rearrange evolves a new concept from the original concept. 
 
+something already present in world that u has hacker didn’t put there. Things full of things that are now in a way that doesn’t make sense anymore. maybe did before? 
 
-something already present in world that u has hacker didn’t put there 
-things full of things that are now in a way that doesn’t make sense anymore. maybe did before? 
-what is a  system? 
+**what is a  system?**
 - group of interacting or interrelated entities that form a unified whole. surrounded by environment. 
 - close system has no input and no output. But everything is part of system, things exchange. 
-example: sub system: metro 
-people 
-metro 
-incheck point 
-etc
 
-more focus: 
-chairs
-schroeven
-fabric
-plastic 
+examples: sub system: metro 
+1. people 
+2. metro 
+3. incheck point 
 
-Everything is connected.
-7 degrees of separation: een theorie die stelt dat eenieder op onze planeet, door een netwerk met zes tussenstappen of vijf tussenpersonen, met elkaar verbonden is
+focus chairs in metro: 
+1. bouten
+2. schroeven
+3. fabric
+4. plastic 
 
-globalisation, market, internet. 
+**Everything is connected**
+7 degrees of separation: een theorie die stelt dat eenieder op onze planeet, door een netwerk met zes tussenstappen of vijf tussenpersonen, met elkaar verbonden is. 
+
+Globalisation, market, internet. 
 question : can u undo the connection without any damage? 
+
 example: fabric with zipper u can stretch it apart without any damage. Without zipper the fabric will be damaged. U CAN put it back together but never will be a s it started. 
 what is the input and output that the connection support? 
 connection can be transportation system to go from 1 place to another. 
-How many connection can support 
-look at quality, how is something made up? how easy is it to break it open? 
+How many connection can support. Look at quality, how is something made up? how easy is it to break it open? 
 focus connection: looking at connection is looking in to the system. start looking to the world in a different way. 
 
-
+_____
 
 ###### SAMENVATTING 
 
