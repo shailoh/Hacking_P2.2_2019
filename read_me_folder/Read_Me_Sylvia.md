@@ -2,17 +2,22 @@
 
 
 ### Keywords/Woordenlijst:
-Hacken:  Het vinden van toepassingen die niet door de maker van het middel bedoeld zijn, speciaal met betrekking tot computers. Complexiteit speelt hierbij geen rol, integendeel, gemakkelijke en snelle alternatieve oplossingen hebben de voorkeur. https://nl.wikipedia.org/wiki/Hacken 
+- Hacken:  Het vinden van toepassingen die niet door de maker van het middel bedoeld zijn, speciaal met betrekking tot computers. Complexiteit speelt hierbij geen rol, integendeel, gemakkelijke en snelle alternatieve oplossingen hebben de voorkeur. https://nl.wikipedia.org/wiki/Hacken 
 
 ### Reflectie observatieoefeningen inspection tools
 
 ### Lessen van Shailoh and Joana
 
 ### Les van Florian Cramer
+De geschiedenis van Hacken begint volgens velen bij de studentengroep Tech Modal Railroad Club. Zij 'hackte' modeltreintjes en verbeterde de circuits dit was in 1946. 
+In de capn crunch pakken zaten fluitjes die precies de goede toon had om gratis mee te kunnen bellen. Hier kwam John Draper in de jaren 70 achter. 
+https://www.ad.nl/tech/hackerslegende-captain-crunch-beveilig-je-smartphone~a577b788/ 
+Youth international party line: YIPL opgericht in 1971 door Abbie Hoffman en Al Bell. Was een magazine waarin hacks werden gedeeld. 
+The Pirate Bay: download programma's voor muziek, films, games enz. 
 
 ### Workshops bij Varia
 
-## Refelctie practice Hacking
+### Refelctie practice Hacking
 
 1. select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
 2. write down a reflection paragraph on the observational tool exercises (tip: you can link to images/ drawings);
