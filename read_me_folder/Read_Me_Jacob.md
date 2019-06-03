@@ -78,6 +78,10 @@ _It is a pleasure to serve a purpose_
 ###### Reflection
 The flashing was a good breakdown of the object's form, disassociating myself from its purpose and viewing its shapes and silhouettes. With my eyes closed, it became personal. I explored the weight and texture, and how it felt to use it. It provided the set up for the point of view. The context allowed for brainstorming alternative uses. The point of view was very valuable. Giving the object a personality and background created a thread to follow in terms of language and meaning of the object beyonds its rudimentary function.
 
+#### _Anatomical Anatomic Drawing Lessons_
+
+
+
 ***
 
 
@@ -103,5 +107,6 @@ The flashing was a good breakdown of the object's form, disassociating myself fr
 
 
 #### _Anatomy of Connectologogy_
+
 
 
