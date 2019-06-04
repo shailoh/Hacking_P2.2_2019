@@ -109,7 +109,6 @@ Elevator - connected with screws and on a rope, take it off the system by switch
  - Metal/Plastic
 
 ## WEEK 4
-
 **IDEA FINDING**
 
  <br>Hacking ownership -> from private art to public exhibition space
