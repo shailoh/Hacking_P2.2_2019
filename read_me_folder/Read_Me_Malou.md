@@ -29,24 +29,23 @@ Core concepts in Hacking Anatomies class 02
 observational tool exercises
 
 LECTURE BY FLORIAN CRAMER 
-De geschiedenis van hacking: Het is allemaal begonnen met modeltreinen die werden toegepast op computers, er was behoefte aan het spelen met systemen en de grenzen hiervan opzoeken. 
 
-De Amerikaanse hack geschiedenis: Het Cap'n Crunch fluitje dat werd geleverd bij een pak cornflakes zorgde er met zijn toonhoogte voor dat mensen konden bellen zonder daarvoor te hoeven betalen. Deze ontdekking werd verspreid en mensen kwamen met alternatieven zoals de blue box met dezelfde toonhoogte. Blue Box dealers (o.a. Steve Jobs) verdienden geld met het doorverkopen hiervan. 
+1. De geschiedenis van hacking: Het is allemaal begonnen met modeltreinen die werden toegepast op computers, er was behoefte aan het spelen met systemen en de grenzen hiervan opzoeken. 
 
-Cornelia Sollfrank - Ovulatie meter lost and found. 
+2. De Amerikaanse hack geschiedenis: Het Cap'n Crunch fluitje dat werd geleverd bij een pak cornflakes zorgde er met zijn toonhoogte voor dat mensen konden bellen zonder daarvoor te hoeven betalen. Deze ontdekking werd verspreid en mensen kwamen met alternatieven zoals de blue box met dezelfde toonhoogte. Blue Box dealers (o.a. Steve Jobs) verdienden geld met het doorverkopen hiervan. 
+
+3. Cornelia Sollfrank - Ovulatie meter lost and found. (conceptueel feminisme hacking)
 
 Meerdere voorbeelden die zijn genoemd tijdens de presentatie:
-
-Abbie Hofman - Steal this book 1970
-
-2600 magazine 
-
-Foodstation WDKA
-
-The Pirate Bay
-
-Heath Bunting, Identiteits bureau ( het legaal veranderen 
-
+1. Abbie Hofman - Steal this book 1970
+2. 2600 magazine 
+3. Foodstation WDKA
+4. The Pirate Bay
+5. Heath Bunting, Identiteits bureau (het legaal veranderen van identiteit) Zorg dat er rekeningen op je naam komen te staan. wachtwoorden, water, energy, telefoon etc. 
+6. US militarian Patches by Jacob Appelbaum en Trevor Paglen. 
+7. AH Bonuskaart met klantenprofielen en ook het voorbeeld van de Target in de US waar het promoten van babyvoeding werd gedaan bij iemand die de eetgewoonten had van een zwangere vrouw. Zonder dat deze vrouw zelf wist dat ze zwanger was. 
+8. The Yes Man
+9. Ingold Airlines - leuk voorbeeld, dit triggerde mij wel om na te denken over een mogelijke hack bij het beinvloeden van mensen en ze overhalen tot actie terwijl het iets is wat eigenlijk niet bestaat. (terug te zien in ons groepsproject)
 
 Tips:
 ubuweb.com
@@ -58,11 +57,8 @@ De definitie van een hacker:
 Een persoon die graag de details van programmeersystemen verkent en zijn mogelijkheden tracht uit te breiden.
 Wat heeft een hacker nodig: 
 Een oog voor de situatie.
-
-
-
-
-
+Final defenitie:
+mentaal denken rondom systemen.
 
 Anatomical Anatomic Drawing Lesson class 03
 ======
