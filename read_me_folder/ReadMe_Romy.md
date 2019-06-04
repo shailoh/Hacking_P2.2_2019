@@ -33,11 +33,67 @@ Link to Florians website: http://floriancramer.nl/
 
 Link to the presentation and exercises http://joanachicau.com/Hacking.html
 
+Link to the notes I took from Florians lecture (I really enjoyed and absorbed everything):
+
+Link to the notes from the exercise with the inspection tool:
+
 # THURSDAY 16th May
 Drawing Sation with Joseph Hughes
 
 - Introducing systems by closing a door and writing down the steps.
 - Collecting the fruit and making a smoothie
 - Presentation about Autonomous Hacking with a video
+- Some drawing exercises
+- Making a 'new me' with the printed body parts we brought
+- Collectively drinking the smoothie
 
 Link to the presentation: 
+https://github.com/somsromy/Files/blob/master/Autnomous%20hacking.pdf
+
+Link to the drawing exercises:
+
+# TUESDAY 21th May
+Workshop with Niek at Varia
+
+- Introduction about food hacking by Niek and making a soup with the ingredients we brought
+- Small presentation about hacking food
+- Hacking an existing receipe in a group, to make it as 'considerate' possible
+- Eating the soup from the other group
+
+- Embodiment: a series of movement exercises
+- Presentation by Joana about Geographic Coding
+- Reading the text 'Geographic Object'
+- Exercise: connecting terms with theories
+
+- Practice: work in groups and choose an object to inspect the choreography of it, make a new choreography.
+- Group presentations of choreographies
+
+Link to the curriculum of Varia: http://varia.zone/category/curriculum.html
+
+Link to the 'considerate' receipe we made: 
+
+Link to the overview of terms and theories:
+
+Link to the notes from the soup and rechoreographing:
+
+# MONDAY 27th May
+Workshop with Shailoh about the 'Anatomy of Connectology;'
+
+- Shailoh explaining connectology and systems, and discussing with the class
+- Looking for an existing system and how it's connected, how and if it can be disconnected and what happens
+- Started brainstorming on our own idea of a hack, using the SCAMPER method.
+
+# FRIDAY 31th May
+Self directed working on a hack
+
+# MONDAY 3th June
+Self directed working on the production
+
+# TUESDAY 4th June
+Self directed working on the marketing
+
+# WEDNESDAY 5th June
+Self directed working on the presentation
+
+# THURSDAY 6th June
+Final Presentations
