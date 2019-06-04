@@ -155,7 +155,7 @@ https://imgur.com/a/D1N2LXX
 
 ### REFELCTION 
 
-At the beginning of this practice i had no idea what hacking was. After the first lesson i started to think what hacking means for me and looked into my own projects and found out that i allready did hack al lot with my interventions and products. This was fun to see. I like to change an enviroment and with this to tell your story. The story doesn't have to be so clear for me, what I like is to let people think for themself and interpret it on their own way. 
+At the beginning of this practice I had no idea what hacking was. After the first lesson i started to think what hacking means for me and looked into my own projects and found out that i allready did hack al lot with my interventions and products. This was fun to see. I like to change an enviroment and with this to tell your story. The story doesn't have to be so clear for me, what I like is to let people think for themself and interpret it on their own way. 
 
 For the group project it was nice to test it in real life. We never could have done this without testing and i learned that testing is a big part with in hacking. With testing you get to know your adience and can play with this. I would like to test it more and even to test it with real drugs but i know this is not aloud within the academy.
 
