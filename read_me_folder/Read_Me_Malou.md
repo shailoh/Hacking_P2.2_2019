@@ -30,14 +30,21 @@ observational tool exercises
 
 LECTURE BY FLORIAN CRAMER 
 De geschiedenis van hacking: Het is allemaal begonnen met modeltreinen die werden toegepast op computers, er was behoefte aan het spelen met systemen en de grenzen hiervan opzoeken. 
+
 De Amerikaanse hack geschiedenis: Het Cap'n Crunch fluitje dat werd geleverd bij een pak cornflakes zorgde er met zijn toonhoogte voor dat mensen konden bellen zonder daarvoor te hoeven betalen. Deze ontdekking werd verspreid en mensen kwamen met alternatieven zoals de blue box met dezelfde toonhoogte. Blue Box dealers (o.a. Steve Jobs) verdienden geld met het doorverkopen hiervan. 
+
 Cornelia Sollfrank - Ovulatie meter lost and found. 
 
 Meerdere voorbeelden die zijn genoemd tijdens de presentatie:
+
 Abbie Hofman - Steal this book 1970
+
 2600 magazine 
+
 Foodstation WDKA
+
 The Pirate Bay
+
 Heath Bunting, Identiteits bureau ( het legaal veranderen 
 
 
