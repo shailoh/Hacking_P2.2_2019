@@ -5,7 +5,7 @@ Checklist Hacking
 4. gather documentation on the two sessions with Shailoh and Joana;
 5. write a summary on the Hacking lecture by Florian Cramer;
 6. write a summary on the exercise you developed at Varia;
-7. revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phygical systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/based?);
+7. revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phygical systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/based?)
 
 # MONDAY 13th May
 Class with Shailoh and Joana
@@ -29,7 +29,8 @@ Lecture with Florian Cramer and exercises with Shailoh and Joana
 - Warming up exercise with our brought inspection tool
 - Formed a group for the project with Malou (Product Design), Steffie (Product Design), Oreane (Graphic Design) and me, Romy (Fine Arts & Teacher Training).
 
-Link to Florians website: http://floriancramer.nl/ 
+Link to Florians website: http://floriancramer.nl/
+
 Link to the presentation and exercises http://joanachicau.com/Hacking.html
 
 # THURSDAY 16th May
