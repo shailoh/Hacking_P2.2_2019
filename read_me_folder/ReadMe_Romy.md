@@ -54,7 +54,7 @@ Link to my notes https://github.com/somsromy/Files/blob/master/Notes%20day%201.j
 # WEDNESDAY 15th May
 Lecture with Florian Cramer and exercises with Shailoh and Joana
 
-Florian is a great teacher, if u'd ask me. He really cares about what he stands for and less about the rules and ways things are 'supposed' to be. In my dummy I made so many notes that I can't tell what hit me the most. Of course it was exciting that he gave us an insight of the illegal activities that a big part of hacking also consists of. What really intregues me was his ability to make these illegal activities seem legal, accessible and even 'fair'. In a way he hacked our minds, because we all know very well certain things are unacceptable, but he mastered the way of speaking and almost infiltrating in our minds, to make us doubt the damage these tings do.
+Florian is a great teacher, if you would ask me. He really cares about what he stands for and less about the rules and ways things are 'supposed' to be. In my dummy I made so many notes that I can't tell what hit me the most. Of course it was exciting that he gave us an insight of the illegal activities that a big part of hacking also consists of. What really intregues me was his ability to make these illegal activities seem legal, accessible and even 'fair'. In a way he hacked our minds, because we all know very well certain things are unacceptable, but he mastered the way of speaking and almost infiltrating in our minds, to make us doubt the damage these tings do.
 
 He also really interacted with us and listened to what we had to say, ask and use it to go somewhere.
 To me, his lecture was very useful in a way that the examples weren't the main information that helped me, but his lecture in general gave me a boost.
