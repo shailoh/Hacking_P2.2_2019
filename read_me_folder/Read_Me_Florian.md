@@ -78,7 +78,7 @@ Dissecting the life-size scan of our body as an example of literal hacking. The 
 
 **VARIA**
 
-The class was about hacking an existing receipe in a group, to make it suitable to eat for everyone and sharing the soups among the groups. Next to a presentation on hacking food, there was a presentation on geographic coding.
+Since I missed this class, I got up to date by asking classmates. The class was about hacking an existing receipe in a group, to make it suitable to eat for everyone and sharing the soups among the groups. Next to a presentation on hacking food, there was a presentation on geographic coding.
 
 ## WEEK 3
 
