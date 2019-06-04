@@ -128,7 +128,7 @@ During the exploration of hacks, I looked at 4 different objects in the fifteen 
 
 ![20190527_111521](https://user-images.githubusercontent.com/50584006/58902138-d08b8680-8702-11e9-9cca-3ac28f3e2d50.jpg)
 
-###### *Click image to view proper orientation*
+###### *Click image to view unhacked orientation*
 
 ```
 
@@ -147,7 +147,7 @@ expectations can be exploited.
 
 ![20190527_112111](https://user-images.githubusercontent.com/50584006/58902175-e13bfc80-8702-11e9-8429-aad506aa71ff.jpg)
 
-###### *Click image to view proper orientation*
+###### *Click image to view unhacked orientation*
 
 ```
 
@@ -164,7 +164,7 @@ the paper should in fact be on top and not underneath.)
 
 ![20190527_110650](https://user-images.githubusercontent.com/50584006/58902194-ea2cce00-8702-11e9-9060-64030b431a7a.jpg)
 
-###### *Click image to view proper orientation*
+###### *Click image to view unhacked orientation*
 
 ```
 
@@ -180,7 +180,7 @@ to the same family, such as a sausage or a political message.
 
 ![20190527_111449](https://user-images.githubusercontent.com/50584006/58902196-eac56480-8702-11e9-84dd-a136861ddd8b.jpg)
 
-###### *Click image to view proper orientation*
+###### *Click image to view unhacked orientation*
 
 ```
 
