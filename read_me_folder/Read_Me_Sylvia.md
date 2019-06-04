@@ -38,20 +38,29 @@ De workshop bij Varia ging over foodhacking. dit was geinspireerd op de Victoria
 In de middag kregen we nog een les van Joana over choreografie. Ik heb hierbij geleerd dat choreografie veel meer is dan alleen het bedenken van een dans. Het is ook op te vatten voor alles waar beweging is uitgestippeld of geschreven. Hierbij is het voorbeeld over de Ikea handleiding blijven hangen en de plattegrond van een stad met veel grachtjes. Choreografie is aan hacken te koppelen omdat in computers ook alles wat er kan gebeuren in code's staat beschreven en dit net als de andere voorbeelden een systeem is wat veranderd kan worden. Toen de les begon moesten we met onze ogen dicht gaan staan en nadenken over alles in ons lichaam wat beweegt, dit deed mij erg denken aan een workshop die ik aan het begin van dit jaar gehad heb, met de cross over met codarts, van Connor Schumacher (https://www.instagram.com/connorschumacher/)
 
 #### Workshop van Joseph Hughes
+Ik vond de wijze waarin Joseph zijn les gaf erg inspirerend, doordat hij veel opdrachten gaf zoals bijvoorbeeld: aan mensen om de deur dicht te doen en ze de stappen op te laten schrijven. En iedereen en stuk fruit mee te laten nemen om uiteindelijk een gezamelijke smoothie van te maken, leerde ik ongemerkt zonder lang naar een verhaal te luisteren toch best een hoop. Ook de opdracht om met foto's van mijn lichaam, mezelf te hacken vond ik erg leuk. Hier kon ik lekker bezig zijn en ontstonden er vanzelf steeds meer ideen. 
 
+   Powers of Ten:          https://www.youtube.com/watch?v=0fKBhvDjuy0
+   
+   Gehackte film remake:   https://www.youtube.com/watch?v=hK45ZscEolM
+   
+   Link naar presentatie:  https://hrnl-my.sharepoint.com/personal/hugja_hr_nl/_layouts/15/onedrive.aspx?cid=737c06c1-0990-4141-826a-1bcb6271c67d&FolderCTID=0x01200076B02450EB88E54EAE3947D446F770E7&id=%2Fpersonal%2Fhugja_hr_nl%2FDocuments%2FAutonomous%20Hacking%20AP2%20Class%202%2FPresentation%20-%20Drawing%20Station-Joseph%E2%80%99s%20MacBook%20Air%2FAutnomous%20hacking%2Epdf&parent=%2Fpersonal%2Fhugja_hr_nl%2FDocuments%2FAutonomous%20Hacking%20AP2%20Class%202%2FPresentation%20-%20Drawing%20Station-Joseph%E2%80%99s%20MacBook%20Air
 
-   Link naar presentatie: https://hrnl-my.sharepoint.com/personal/hugja_hr_nl/_layouts/15/onedrive.aspx?cid=737c06c1-0990-4141-826a-1bcb6271c67d&FolderCTID=0x01200076B02450EB88E54EAE3947D446F770E7&id=%2Fpersonal%2Fhugja_hr_nl%2FDocuments%2FAutonomous%20Hacking%20AP2%20Class%202%2FPresentation%20-%20Drawing%20Station-Joseph%E2%80%99s%20MacBook%20Air%2FAutnomous%20hacking%2Epdf&parent=%2Fpersonal%2Fhugja_hr_nl%2FDocuments%2FAutonomous%20Hacking%20AP2%20Class%202%2FPresentation%20-%20Drawing%20Station-Joseph%E2%80%99s%20MacBook%20Air
+#### Ons project
+Wij zijn met de groep gaan zitten en waren het er al snel over eens dat wij iets wilde gaan doen met een beetje humor en verschillende kleine hacks. We hebben ieder een paar kleie irritaties opgeschreven en deze bij elkaar gelegt. Veel gingen over haast en de ochten routine. Hier zijn wij ons dan ook op gaan focussen. 
+
+We hebben drie hacks verzonnen voor in de ochtend en hier een karakter aan gekoppeld (Henry de hacker). Over dit karakter hebben wij een animatie gemaakt waarin duidelijk de hacks naarvoren komen. Met deze animatie willen wij ook duidelijk maken dat bij elke hack een voor en nadeel zit en het niet altijd voordeliger hoeft te zijn. Niet voor alles hoeft een hack worden verzonnen, dingen zijn soms niet voor niks zoals ze zijn. Wel zijn ze soms heel grappig, denk aan chindogu. De video is eigenlijk een critische blik op hacken zelf terwijl wij ook voor Henry deze hacks zelf hebben bedacht. 
+
+Door de vorm van animatie en een verhaatje hebben wij hacken een minder zwaar begrip gemaakt terwijl je het nu als nog kunt doortrekken zo ver je wilt. Voor mij en mijn groepje voelde het na alle lessen alsof bijna alles gehackt kon worden en het hele leven bijna een hack kan zijn. Dit werd voor ons een beetje grijpen in het niets vandaar dat we het zo hebben aangepakt. 
 
 #### Refelctie practice Hacking
+
 
 ##### Eigen interesses
 -   https://www.instagram.com/mvrc.t/
 -   https://www.instagram.com/randy.cano/
 -   https://www.instagram.com/antonitudisco/
 -   https://www.dubbelfrisss.nl/lifehack/
-
-#### Ons project
-
 
 1. select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
 2. write down a reflection paragraph on the observational tool exercises (tip: you can link to images/ drawings);
