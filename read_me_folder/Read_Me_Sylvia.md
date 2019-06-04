@@ -4,8 +4,8 @@
 ### Keywords/Woordenlijst:
 - Hacken:  Het vinden van toepassingen die niet door de maker van het middel bedoeld zijn, speciaal met betrekking tot computers. Complexiteit speelt hierbij geen rol, integendeel, gemakkelijke en snelle alternatieve oplossingen hebben de voorkeur. https://nl.wikipedia.org/wiki/Hacken 
 - white hat hacker, gray hat hacker, black hat hacker. 
-- lifehack, computer, food, 
-- systeem, constructie, connectie, routine, gewoonte, 
+- lifehack, computer, 
+- systeem, constructie, connectie, routine, gewoonte, cultuur, food 
 - veranderen, verbreken, los maken, anders toepassen, overdenken,  
 
 ### Observatieoefeningen inspection tools
@@ -20,6 +20,7 @@ Youth international party line: YIPL opgericht in 1971 door Abbie Hoffman en Al 
 The Pirate Bay: download programma's voor muziek, films, games enz. 
 
 ### Workshops bij Varia
+De workshop bij Varia ging over foodhacking. dit was geinspireerd op de Victoria sponge cake, dit is de cake van de bruiloft van koningin Victoria waarbij de taart in kleine stukjes voor heel duur werden verkocht. De workshop ging over het hacken van eten, verschillende culturen, afkomst van producten en manieren om iets te bereiden. We gingen soep maken, de eerste soep avn het ingredient wat iedereen had meegenomen zonder te weten wat we er mee zouden doen, en de tweede met een recept en ingredienten die daar bij hoorde. Het idee achter de eerste opdracht was dat  https://eatartcollective.nl/ 
 
 ### Refelctie practice Hacking
 
