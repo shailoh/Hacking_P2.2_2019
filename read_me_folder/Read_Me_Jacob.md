@@ -80,6 +80,18 @@ The flashing was a good breakdown of the object's form, disassociating myself fr
 
 #### _Anatomical Anatomic Drawing Lessons_
 
+After some warm-up exercises, I came up with two simple hacks using the automatic doors as a mechanical tool.
+
+<a href="https://imgflip.com/gif/32n7pg"><img src="https://i.imgflip.com/32n7pg.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/32n7y3"><img src="https://i.imgflip.com/32n7y3.gif" title="made at imgflip.com"/></a>
+
+Once I printed my body, I decided to explore ways to recreate my identity using my own body, collaging myself into a new living being.
+
+
+
+
+This instigated the thought process for me in terms of the group hack, relating to both collaborating with technology, and reinventing identity. It also led me to introduce the idea of using actual face masks and facial recognition software.
+
 
 
 ***
