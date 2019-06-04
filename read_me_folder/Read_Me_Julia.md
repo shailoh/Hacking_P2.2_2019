@@ -205,5 +205,7 @@ Questions about connection: Can you undo the connection without any damage? (ex.
 ### reflection and group project
 
 With our group-project we discussed the safety in Rotterdam and decided to go for urban-hacking. The system we chose is the area around school, because (especially at night) it can feel quite unsafe to walk here. We wanted to know more about why it feels uncomfortable walking at those dangerous places, what made it so dangerous and how we could possibly turn this around.
+
 After this we looked into how to hack the walking pattern of the people around those areas. Eventually we decided to make the surrounding / the dangerous place less dangerous and safer.
+
 We researched the area and made a map by pointing out the places that we find scary around our school; for our intervention we picked is a little further from school where they are building next to the water - that path is so narrow and surrounded with construction. Imagine walking alone at night that would be really uncomfortable. Our hacking method would be that making the place less dangerous as possible by adding lights or other elements to the surrounding. We analysed the system and used it to change it.
