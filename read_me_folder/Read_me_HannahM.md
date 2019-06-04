@@ -1,4 +1,4 @@
-WIP
+
 ## Read_me file of Hannah Mansfield, Student of Illustration and destroyer of fictional worlds.
 
 #### List of Keywords associated with the manifestos:
