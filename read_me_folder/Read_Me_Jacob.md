@@ -87,8 +87,8 @@ After some warm-up exercises, I came up with two simple hacks using the automati
 
 Once I printed my body, I decided to explore ways to recreate my identity using my own body, collaging myself into a new living being.
 
-
-
+![20190516_160538](https://user-images.githubusercontent.com/50584006/58900803-26aafa80-8700-11e9-8c7a-7b9c8e06e7b7.jpg)
+![IMG_20190516_161104_771](https://user-images.githubusercontent.com/50584006/58900814-2b6fae80-8700-11e9-8ec5-3535f170f862.jpg)
 
 This instigated the thought process for me in terms of the group hack, relating to both collaborating with technology, and reinventing identity. It also led me to introduce the idea of using actual face masks and facial recognition software.
 
