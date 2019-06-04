@@ -8,6 +8,7 @@
 
 
 	Lessons
+#### Tool
 The most intersting about the observational tool exercise was that I found out things I didn't know. 
 My tool was key, wich have multiple things you can use them for. Opening doors, obviously. 
 But also cutting, stabbing, and the keychain was for recognizability. After the exercise with closing your eyes I forgot a lot of thing.
