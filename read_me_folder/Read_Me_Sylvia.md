@@ -93,6 +93,8 @@ We hebben drie hacks verzonnen voor in de ochtend en hier een karakter aan gekop
 
 Door de vorm van animatie en een verhaatje hebben wij hacken een minder zwaar begrip gemaakt terwijl je het nu als nog kunt doortrekken zo ver je wilt. Voor mij en mijn groepje voelde het na alle lessen alsof bijna alles gehackt kon worden en het hele leven bijna een hack kan zijn. Dit werd voor ons een beetje grijpen in het niets vandaar dat we het zo hebben aangepakt. 
 
+Link naar de video: (komt nog)
+
 ----
 
 ### Refelctie practice Hacking
@@ -100,7 +102,7 @@ Tijden deze practice heb ik heel veel nieuwe dingen geleerd. Ik heb tijdens term
 
 Tijdens het groepproject heb ik ook nieuwe dingen geleerd. We hebben een animatie gemaakt en dit had ik nog nooit gedaan. Het maken van een script en storybord was nieuw en ik vond het leuk te leren van medestudenten met een andere studie. 
 
-   link naar artikel lessen over algoritmes van levien: https://kunstzone.nl/welkom-in-een-algoritmische-cultuur/ 
+   Link naar artikel lessen over algoritmes van levien: https://kunstzone.nl/welkom-in-een-algoritmische-cultuur/ 
 
 ##### Dingen die ik toevallig tegenkwam en waarbij ik aan hacken moest denken deze periode:
 -   https://www.instagram.com/mvrc.t/
@@ -110,3 +112,6 @@ Tijdens het groepproject heb ik ook nieuwe dingen geleerd. We hebben een animati
 -   https://www.instagram.com/p/BubbPeGnLME/
 -   https://www.instagram.com/p/BYUVDSsjbs_/
 
+
+
+(Het is mij helaas niet gelukt om foto's/afbeeldingen toe te voegen, deze zijn er wel)
