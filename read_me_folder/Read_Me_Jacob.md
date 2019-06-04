@@ -121,18 +121,35 @@ This instigated the thought process for me in terms of the group hack, relating 
 
 
 #### _Anatomy of Connectologogy_
-###### Click to view proper orientation
+
+During the exploration of hacks, I looked at 4 different objects in the fifteen minutes.
+
+##### _Object 1: Fire Escape Map_
 
 ![20190527_111521](https://user-images.githubusercontent.com/50584006/58902138-d08b8680-8702-11e9-9cca-3ac28f3e2d50.jpg)
 
+###### *Click image to view proper orientation*
+
+
+##### _Object 2: Light Table_
 
 ![20190527_112111](https://user-images.githubusercontent.com/50584006/58902175-e13bfc80-8702-11e9-8429-aad506aa71ff.jpg)
 
+###### *Click image to view proper orientation*
+
+
+##### _Object 3: Vest on Display_
 
 ![20190527_110650](https://user-images.githubusercontent.com/50584006/58902194-ea2cce00-8702-11e9-9060-64030b431a7a.jpg)
 
+###### *Click image to view proper orientation*
+
+
+##### _Object 4: Emergency Exit Sign_
 
 ![20190527_111449](https://user-images.githubusercontent.com/50584006/58902196-eac56480-8702-11e9-84dd-a136861ddd8b.jpg)
+
+###### *Click image to view proper orientation*
 
 
 
