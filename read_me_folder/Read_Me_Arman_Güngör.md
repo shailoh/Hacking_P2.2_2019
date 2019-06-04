@@ -164,3 +164,31 @@ Disobedient technology, The object serves a activist/critical purpose
 
 Tools of anatomy
 
+#### Sources:
+
+https://www.theguardian.com/commentisfree/2015/oct/28/why-are-drugs-illegal-google-answer
+
+https://constantdullaart.com/%E2%9C%8A%E2%98%94%E2%98%81%E2%98%81%E2%98%81%E2%98%A0%E2%9B%94%E2%98%81%E2%98%81%E2%98%81%E2%8F%B3%E2%98%94%E2%9A%A0%E2%98%81%E2%98%81%E2%9B%94%E2%8F%B3%E2%98%A0%F0%9F%92%A3%E2%9C%8A%F0%9F%8F%BE/
+
+https://jamesbridle.com/works
+
+http://www.kesselskramer.com/project/hans-brinker-budget-hotel/
+
+http://www.kesselskramer.com/
+
+https://en.wikipedia.org/wiki/The_Yes_Men
+
+https://www.theguardian.com/media/2004/dec/13/mondaymediasection5
+
+https://beautifultrouble.org/case/dow-chemical-apologizes-for-bhopal/
+
+https://en.wikipedia.org/wiki/Voteauction
+
+https://www.vpro.nl/programmas/tegenlicht/lees/specials/big-data.html
+
+https://www.volkskrant.nl/nieuws-achtergrond/moet-de-overheid-zich-ontfermen-over-de-productie-van-xtc-groenlinks-vindt-van-wel~b7fffb6a/?referer=https%3A%2F%2Fwww.google.com%2F
+
+https://www.volkskrant.nl/nieuws-achtergrond/groenlinks-wil-xtc-reguleren-is-dat-haalbaar-dit-vinden-betrokkenen~bc5ebca9/
+
+https://www.youtube.com/watch?v=CDpjvFn4wgM
+
