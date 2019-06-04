@@ -74,7 +74,8 @@ Dissecting the life-size scan of our body as an example of literal hacking.
 ## WEEK 2
 
 **VARIA**
-- Hacking the recipes of soups
+
+The class was about hacking an existing receipe in a group, to make it suitable to eat for everyone and sharing the soups among the groups. Next to a presentation on hacking food, there was a presentation on geographic coding.
 
 ## WEEK 3
 
