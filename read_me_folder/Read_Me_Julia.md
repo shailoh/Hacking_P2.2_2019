@@ -53,6 +53,69 @@ You make something that doesn’t exist yet, but when you hack you change someth
     -Ramez Naam, 2013     
 
 
+### Manifesto
+
+**Conscience of a Hacker**
+
+It’s one of the first hacking manifesto’s, written in 1986
+
+kid that got arrested —> against the system —> a bit of a very subjective autobiography (like an angry tumblr post) —> kind of hate the world/self righteous —> becomes a hacker
+
+	- alike: crowds, people belonging together, positive and negative meaning
+	- problems of the time he lived in
+	
+
+
+**A HACKER MANIFESTO [4.0]**
+
+How to identify the identity as a hacker; We do not own what we produce, it owns us; 
+
+- virtuality
+- ownership
+- abstraction
+- new possibilities
+- free circulation of information
+- crisis of identity
+
+
+**We Are FemTechNet**
+
+Cyber feminists, role of technology in oppression. Tech as a tool to oppress and create awareness about it. Change people’s perception and the idea’s they’ve build. 
+
+- cyberfeminst
+- anti-establishment
+- education
+- collaboration
+- accountability
+
+
+**THE CRITICAL ENGINEERING MANIFESTO**
+
+- transformative
+- repurposing
+- tech is both a challenge and threat
+- raises awareness
+- different discipline
+- exploitation/sabotage
+- hacking goes beyond limits
+- freedom
+
+
+
+**THE XENOFEMINIST MANIFESTO:**
+
+Feminists talking about the future of feminists. ‘Against nature itself’ – fields of science and tech more inclusive for women. Want to see more inclusiveness
+
+-	feminism
+-	naturalism
+-	emancipation
+-	techno-science
+-	patriarchy 
+
+
+
+
+
 
 
 
