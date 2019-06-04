@@ -7,9 +7,10 @@ IDEAS FOR HACKING
 2. Persuading people. Normally we speak to people, ask things of them and show the most beautiful image to convince them. It has also been proven that if you forbid people they will do it anyway. With as an example the book with the title: Steal this book. people will steal it or at least buy it because it attracts. I myself am thinking about an advertising spot that is so negative about a product that it will receive a lot of attention and people will find it funny and still buy it.
 3. Map reading, what would happen if you let people walk a route with a certain idea but then adjust their route so that they would be traveling for hours. I myself have the example of the marathon in Utrecht in my mind. Through the card you have influence on the people who follow the card. to what extent do you retain this influence and from what point do they decide to go their own way.
 4. filters, everywhere you see the face swap filters nowadays, your head will look like you are a man, a woman, a girlfriend or something other than a human. Could it be that you are going to hack something using the filter you are using? hacking your own identity.
+_____ Na deze info te hebben gedeeld met mijn groepje hebben we samen een concept bedacht en de manier van uitwerken. Deze informatie zal worden gegeven tijdens de groepspresentatie donderdag. Ik ben tevreden over het resultaat en denk dat deze manier van werken me zeer bewust heeft gemaakt over het feit dat 'dure merken' vaak niet eens laten zien hoe iets gemaakt wordt wat vervolgens weer meer vragen oproept als je kijkt naar het prijskaartje. 
 -----
 
-INDIVIDUAL PART 
+INDIVIDUAL PART
 
 Introduction class 01
 ======
@@ -97,3 +98,12 @@ Trisha Brown - beperkende systemen instellen. Voorbeelden: Kanalen in Nederland,
 3. Plastic eten in plaats van de wortels.
 4. Hergebruik het plastic, dit gaat nooit over de datum. Waarom staat de datum om het plastic en niet op ieder worteltje appart? 
 5. Laat het lang op een plek liggen en ga zien wat het gebeurd, ontploft het zakje of gaat het schimmelen in het zakje. Zie het als een kunstobject in plaats van als voedsel. 
+
+Hacking Shailoh class 05
+======
+
+Reflection
+======
+
+Ik ben begonnen met de gedachte dat hacking vooral gericht zou zijn op computers, coderen en ook het aanpakken van systemen en bewegingen. Dat het veel meer is dan dat daar ben ik nu achter gekomen. Het kan van toepassing zijn op kunst, of op een interventie die de kijker dwingt het gedrag aan te passen of de manier van handelen door middel van het bewust maken van de situatie (hier ook het voorbeeld van de les van Joseph) Graag zou ik zelf dieper ingaan op het hacken van technieken en materialen etc. Dit omdat het mij meer trekt als een product ontwerper en ik vraag me af in hoe verre dit ook mogelijk zou zijn mocht ik uiteindelijk kiezen voor een practice als hacking. 
+
