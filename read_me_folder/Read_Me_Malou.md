@@ -108,7 +108,7 @@ Lijn tussen hacken en al het andere:
 Een ei invriezen,
 Wat zou het verschil zijn als een professional dit doet of ik het zelf thuis doe?
 De grens tussen betwistbaar, wat is hacken en wat is commercie.
-Zodra het status-quo is, genormaliseerd. het is niet meer hacken. Niemand kan beweren dat iets hackt of niet. Invriezen in een ei is niet meer hacken.
+Zodra het status-quo is, genormaliseerd, is het niet meer hacken. Niemand kan beweren dat iets hackt of niet. Invriezen in een ei is niet meer hacken.
 
 SCAMPER
 Methode gebruikt in huisstijl
