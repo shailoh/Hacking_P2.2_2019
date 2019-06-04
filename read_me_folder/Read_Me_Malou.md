@@ -103,6 +103,68 @@ Trisha Brown - beperkende systemen instellen. Voorbeelden: Kanalen in Nederland,
 
 Hacking Shailoh class 05
 ======
+Lijn tussen hacken en al het andere:
+
+Een ei invriezen,
+Wat zou het verschil zijn als een professional dit doet of ik het zelf thuis doe?
+De grens tussen betwistbaar, wat is hacken en wat is commercie.
+Zodra het status-quo is, genormaliseerd. het is niet meer hacken. Niemand kan beweren dat iets hackt of niet. Invriezen in een ei is niet meer hacken.
+
+SCAMPER
+Methode gebruikt in huisstijl
+Plaatsvervanger
+Combineren
+Zich aanpassen
+Wijzigen
+Gebruik voor een ander doel
+Verwijderen
+Omgekeerde
+Als je deze opties doorloopt, eindig je met veel resultaten voor een hack.
+Kijkend naar de wereld, hoe zijn dingen verbonden, waarom gebeuren ze?
+
+
+SYSTEEM
+Gescheiden in tijd en ruimte,
+Wat er in het systeem gebeurt, kunnen we niet altijd van buitenaf zien
+OPEN SYSTEEM
+input en output
+grenzen
+omgeving
+Het testen van een systeem, wat zijn de verschillende onderdelen, kunt u de werking beïnvloeden?
+METRO - werkende mensen, onder voorbehoud, tijdschema, zitplaatsen, deuren, schoonmakers.
+Zitting, textiel, plastic, schroeven, vulling, patronen, mensen die erop zitten, schoonmakers,
+
+COFFEEMACHINE - koffiebonen, suiker, melk, water, bekers, geld, scan, scherm, stoom, elektriciteit
+Wat kunt u doen: kunt u betalen met munten, niet betalen, kan u de ingrediënten wijzigen? Hack het koffiezetapparaat.
+
+Voorbeeld: camerasysteem en koffie.
+HDMI-poort in de koffiemachine, eenvoudig te hacken.
+Een systeem heeft andere systemen binnen en maakt ook deel uit van een ander groter systeem.
+
+ALLES IS VERBONDEN
+Je hoort best veel, da Vinci, Steve Jobs, verklaring.
+
+Verbinding kan een transportsysteem zijn.
+Wat is de hoeveelheid verbindingen?
+Wat is de kwaliteit van verbindingen?
+Lijm de poten op de tafel, benen vallen ineen vanwege de lijm,
+
+HET KIJKEN VAN VERBINDINGEN BEKIJKT EEN MANIER IN HET SYSTEEM,
+WAT ZIJN VERSCHILLENDE AANSLUITINGEN, kun je het ongedaan maken, zal het schade aanrichten,
+
+BlackBoard, mechanisch,
+koperdraad elektromagneet - https://www.youtube.com/watch?v=buxZR4ilMvI
+Train met naar stations, blokkeer de tussenliggende plaatsen,
+Dingen die verbinden kunnen ook uiteenvallen.
+
+Plaatsvervanger - komt met een ander onderwerp
+Combineren - voegt informatie toe aan het origineel
+Adapt - identificeert manieren om de topix te construeren in een meer flecibel en aangepast materiaal
+Wijzigen - vergroten, creatief bewerken verandert het onderwerp of maakt een idee groter of kleiner
+Gebruik voor een ander doel - identificeert de mogelijke scenario's
+Elimineren - verwijdert ideeën of elementen
+Omkeren - herschikken houdt een nieuw concept van het oorspronkelijke concept in.
+
 
 Reflection
 ======
