@@ -134,7 +134,10 @@ During the exploration of hacks, I looked at 4 different objects in the fifteen 
 
 Social System - information
 Tells you your location, but only when you can see it
-Made up of a map of the floor, exits, points of relevant interest, a legend to define key parts, tips and instructions for specific situations, information that connects it to an electronic social system through the emergency number. the paper and frame are susceptible to fire, not very sturdy. Can be replaced with your own information or edited in some way. Can replace the phone number or give alternative instructions. Can be enhanced or destroyed, it holds the trust of the user, and its expectations can be exploited.
+Made up of a map of the floor, exits, points of relevant interest, a legend to define key parts, tips and instructions for specific 
+situations, information that connects it to an electronic social system through the emergency number. the paper and frame are 
+susceptible to fire, not very sturdy. Can be replaced with your own information or edited in some way. Can replace the phone number or 
+give alternative instructions. Can be enhanced or destroyed, it holds the trust of the user, and its expectations can be exploited.
 
 ```
 
@@ -148,7 +151,9 @@ Made up of a map of the floor, exits, points of relevant interest, a legend to d
 
 Mechanical System - electronic
 Wheels, cable, light, glass, switches, hinges
-Used to create transparency through electricity, in combination with paper. A giant light without a user, otherwise a tool for a typically social purpose (art). Can be used as a sign through silhouettes imprinted on the cover. Without a power source it is an expensive table or paperweight, (which is ironic considering the paper should in fact be on top and not underneath.)
+Used to create transparency through electricity, in combination with paper. A giant light without a user, otherwise a tool for a 
+typically social purpose (art). Can be used as a sign through silhouettes imprinted on the cover. Without a power source it is an 
+expensive table or paperweight, (which is ironic considering the paper should in fact be on top and not underneath.)
 
 ```
 
@@ -163,7 +168,8 @@ Used to create transparency through electricity, in combination with paper. A gi
 Social system - piece of art
 Made up of phones, controllers, plugs, adapters, lights, beer, logos, vest, hat, pockets
 Each piece can have its own mechanical function or purpose, but together they do not serve a mechanical function.
-The message of the piece can be hacked by replacing one object with another that does not belong to the same family, such as a sausage or a political message.
+The message of the piece can be hacked by replacing one object with another that does not belong to the same family, such as a sausage 
+or a political message.
 
 ```
 
