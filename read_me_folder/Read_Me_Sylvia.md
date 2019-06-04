@@ -4,14 +4,14 @@
 #### Keywords/Woordenlijst:
 - Hacken:  Het vinden van toepassingen die niet door de maker van het middel bedoeld zijn, speciaal met betrekking tot computers. Complexiteit speelt hierbij geen rol, integendeel, gemakkelijke en snelle alternatieve oplossingen hebben de voorkeur. 
 - white hat hacker, gray hat hacker, black hat hacker
-- lifehack, computer, interface, chindogu, prank, algoritme
+- lifehack, computer, interface, chindogu, prank, algoritme, anatomie, choreografie
 - systeem, constructie, connectie, routine, gewoonte, cultuur, eten
 - veranderen, verbreken, los maken, anders toepassen, overdenken  
 
 #### Observatieoefeningen inspection tools
 Als inspection tool had ik een spiegel meegenomen. Tijdens de opdrachten heb ik dit geschreven:
 
----
+--
 In deze spiegel kun je op een andere manier naar dingen kijken, in spiegelbeeld. Het spiegelbeeld kunnen je andre dingen laten zien dan je op het eerste gezicht ziet. Met de spiegel kun je je eigen gezicht zien en om een hoekje kijken zoals bijvoorbeeld met de achteruitkijkspiegel in de auto. Met meerdere spiegels kun je je zicht nog meer uitbereiden zodat je bv de achterkant van je eigen hoofd kunt zien. Daarnaast kun je met een spiegel ook meer licht creeren. 
 
 Ik ben een spiegel en ik zie dingen die jij niet altijd kan zien. Ik vind zelf dat ik een van de mooiste ben van onze familie. Ik schitter het mooiste en als je naar mij kijkt zie je de ware onvervormde schoonheid. Mensen zijn soms bang om naar mij te kijken omdat ze er onzeker van worden, andere kunnen hun ogen niet van mij afhouden. Ik vind het nooit leuk om mensen onzeker te maken maar ben toch blij dat ik niet op mijn broer lijk. Hij is een lachspiegel en vervormd dus alle waarheid. Alle mensen lachen hem uit. Mijn broer zou een inpection tool kunnen zijn voor een sociaal experiment maar veder niet echt zover ik weet. Ik kan daarintegen voor veel doeleinde ingezet worden.
@@ -21,7 +21,13 @@ De opdrachten voor het bestuderen van de inspection tool vond ik leuk bedacht ma
 
    Link naar presentatie en opdrachten: http://joanachicau.com/Hacking.html 
 
-#### Lessen van Shailoh and Joana
+#### Notities lessen van Shailoh en Joana
+- Anatomie: naar het binnenste komen en daar kijken naar de binnenkant van een systeem. 
+- Connectie tussen verschillende dingen (sociaal, organisch, mechanisch, electrich) 
+- SCAMPER is a mnemonic that stands for: Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, Reverse.
+- Wanneer is een deur een deur en een raam een raam? 
+- Moet je een systeem begrijpen voor het hacken of tijdens het hacken?
+- Wanneer maak je iets? Veel is al gemaakt en je gebruikt dingen die al bestaan. 
 
 #### Les van Florian Cramer
 - De geschiedenis van Hacken begint volgens velen bij de studentengroep Tech Modal Railroad Club. Zij 'hackte' modeltreintjes en verbeterde de circuits dit was in 1946. 
@@ -29,13 +35,13 @@ De opdrachten voor het bestuderen van de inspection tool vond ik leuk bedacht ma
 - Youth international party line: YIPL opgericht in 1971 door Abbie Hoffman en Al Bell. Was een magazine waarin hacks werden gedeeld. 
 - The Pirate Bay: download programma's voor muziek, films, games enz. 
 ---
-###### Sites om te gebruiken in de toekomst:
+##### Sites om te gebruiken in de toekomst:
 - http://ubu.com/ 
 - https://aaaaarg.fail/
 - https://monoskop.org/log/
 
---- 
-###### Voorbeelden van hacks:
+--
+##### Voorbeelden van hacks:
 - Foodstation
 - Sexual hacking, worm rotterdam
 - Cornelia Sollfrank
@@ -76,7 +82,7 @@ We hebben drie hacks verzonnen voor in de ochtend en hier een karakter aan gekop
 
 Door de vorm van animatie en een verhaatje hebben wij hacken een minder zwaar begrip gemaakt terwijl je het nu als nog kunt doortrekken zo ver je wilt. Voor mij en mijn groepje voelde het na alle lessen alsof bijna alles gehackt kon worden en het hele leven bijna een hack kan zijn. Dit werd voor ons een beetje grijpen in het niets vandaar dat we het zo hebben aangepakt. 
 
-#### Refelctie practice Hacking
+### Refelctie practice Hacking
 
 
 ##### Dingen die ik tegenkwam en waarbij ik aan hacken moest denken:
