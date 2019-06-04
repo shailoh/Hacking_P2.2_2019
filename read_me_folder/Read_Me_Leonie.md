@@ -1,22 +1,22 @@
+
+  **List of keywords/glossary**
+
+Hacking:
+- invading a system, with or without destroying it, depending on your intentions
+- most common interpretation: hacking computer systems 
+- one of the oldest ‘hack’s known to man: the trojan horse
+- hacking can be for good or bad intentions: very simply put there are ‘blackhead’ and ‘whitehead’ hackers
+- to use something in a different way that what it is originally used for
+- to change something by using an ‘out of the box’ mindset
+
 Quote in the spirit of hacking the body and mind
 
 "You still have a lot of time to make yourself be what you want." 
 
     - S.E. Hinton, The Outsider
     
-    
-    List of keywords/glossary
 
-Hacking:
-invading a system, with or without destroying it, depending on your intentions
-most common interpretation: hacking computer systems 
-one of the oldest ‘hack’s known to man: the trojan horse
-hacking can be for good or bad intentions: very simply put there are ‘blackhead’ and ‘whitehead’ hackers
-to use something in a different way that what it is originally used for
-to change something by using an ‘out of the box’ mindset
-
-
-Conscience of a Hacker
+**Conscience of a Hacker**
 
 written in 1986
 
@@ -29,7 +29,7 @@ It’s one of the first hacking manifesto’s
 	
 
 
-A HACKER MANIFESTO [version 4.0] — (read ‘Manifestation & Hacking’)
+**A HACKER MANIFESTO [version 4.0] — (read ‘Manifestation & Hacking’)**
 
 How to identify the identity as a hacker; We do not own what we produce, it owns us; potentiality of the hacker; 
 
@@ -42,7 +42,7 @@ free circulation of information
 crisis of identity
 
 
-We Are FemTechNet
+**We Are FemTechNet**
 
 Focus on cyberfeminism; what role tech plays in oppression; understand limitations; changing the ideas that exist
 
@@ -53,7 +53,7 @@ collaboration
 accountability
 
 
-THE CRITICAL ENGINEERING MANIFESTO
+**THE CRITICAL ENGINEERING MANIFESTO**
 
 
 repurposing
@@ -65,7 +65,7 @@ freedom
 
 
 
-The Conscience of a Hacker
+**The Conscience of a Hacker**
 
 group of feminists
 ‘against nature’
@@ -75,8 +75,8 @@ want to see more inclusiveness
 
 
 
-15 may
-Summary of the lecture of Florian Cramer
+**15 may
+Summary of the lecture of Florian Cramer**
 
 
 There are three main characteristics of hacker culture:
@@ -95,9 +95,6 @@ the inspecting and experimenting with systems with or without ‘breaking’ the
 The hacker attitude is to say that something IS possible, instead of not possible.
 
 
-Number 1, 6, 7 and 8 are key points to describe a hacker and its attitude.
-
-
 Hacking often happens by accident. A good example of accidental hacking is the Capn Crunch whistle. This whistle came as a toy in a cereal box, and it was discovered that it could be blown into a phone to get a free phone call.
  —> this evolved into “blue boxes” — little circuits to generate this tone and outsmart the phones.
 eventually this hack evolved into a subculture with its own zine.
@@ -110,11 +107,11 @@ Another example is the one of Cornelia Sollfrank. She did an intervention at Cha
 Cornelia hacked them by thinking about their blind spot — since it was a group of men, they’d never seen the device she hacked with because it was a machine that determined your fertility days. By doing this she pointed out that there are still things unknown to this club and that any other member can contribute valuable knowledge to their organisation. 
 
 
-Introduction class of Shailoh and Joana
+**Introduction class of Shailoh and Joana**
 
 This first lesson took into account what hacking actually means for us, and how broad the term is. An important term was anatomy.
 
-Anatomy: structure of something, learning about a system before breaking into it, just like surgeons do. 
+**Anatomy:** structure of something, learning about a system before breaking into it, just like surgeons do. 
 
 but also;
 
@@ -129,7 +126,7 @@ to hack: is more about taking an existing thing and altering it, without destroy
 
 
 
-Observational tool excercise: a reflection
+**Observational tool excercise: a reflection**
 
 The inspection tool I brought to class was a little tea spoon. I use these for a lot of different purposes in the kitchen. We looked at the affordances of the tool (for ex. to taste with, throw, break, transport with, stir with, poke with…). We also looked at the tool from our own point of view and then from the tool’s point of view. 
 The change of perspective was very intriguing to me, because when I started thinking from the spoon’s point of view I started thinking about it in a way I had not done before. I think that this shift in thinking is crucial to be a successful hacker, because in order to hack a system you need to be able think from inside the system.
@@ -148,13 +145,13 @@ Phone’s point of view: “I’m always carried in someones hand, left everywhe
 methods of observation used: looking, feeling, imagining
 
 
-Class at Varia:
+**Class at Varia:**
 
 I was ill and couldn’t be there. I asked my classmates to inform me about the class.
 Hacking soup: everyone brought an ingredient and made a soup out of it together. Something that’s easily hackable, because once someone changes an ingredient, it changes the recipe, improving it or making it worse. It also questions the line of when something is hacking or not. Recipes are very open source of course. 
 
 
-Second class of Shailoh
+**Second class of Shailoh**
 SCAMPER method: substitute, combine, adapt, modify, put to another use, eliminate and reverse. 
 This method is a hacker mentality. It looks at existing things in the world and changes it’s current form in some way. “How are they connected? How are they composed” is the way to think if you want to start hacking something.
 System: A group of interacting of interrelated entities that form a unified whole.(see wiki for more). Open systems have input and output flows, representing exchanges of matter, energy or information. A closed system, by definition, has no input or output. 
