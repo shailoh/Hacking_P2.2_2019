@@ -43,6 +43,8 @@ Put me in some ink and use me as a pen, I could create the most beautiful poetry
 # Anatomical drawing
 We hacked into our own bodies by cutting into life size pictures of ourselves. This was an interesting way to start being creative with the concept of hacking. What i took out of this is that there's always ways to look at things differently and to hack into them by changing things up. Even in the things that seem realy set, like your own body. 
 
+The teacher also told us about Chindogu. It's a japanese movement of all sorts of small hacks that look ridicilous that are usefull but also useless. It's become a culture and an attitude in japan to create these small little hacks. In the west a lot of people see these hacks and think they are serious about them.
+
 # Hacking at Varia
 Also here, we were experimenting in a fun way to see what the different posibilities are with hacking. this time we hacked not our own body, but a soop recipy. To me, in this class i was starting to see more context attached to hacking. Where the first class was mostly about experimenting and trying to see things in another light, this class was more about purpose. The purpose of this class was more about being aware of why you are hacking something. In this case it was about being more conciderate with the materials and ingredients you use. In this class i started understanding better what the purpose of hacking can be in a way that i find it interesting. 
 
