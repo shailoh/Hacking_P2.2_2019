@@ -125,8 +125,10 @@ Elevator - connected with screws and on a rope, take it off the system by switch
 **HOW WE ASSOCIATE SMELL WITH COLOR** 
 
 pink and red = fruity
-orange = musty
+orange = musty, also chemical notion
 green and yellow = sour
+yellow = sweet + spicy
+brown = woody/nature
 white/grey = neutral (plastic)
 
 Perfume, Spices, Soap, Flowers + Fruit
