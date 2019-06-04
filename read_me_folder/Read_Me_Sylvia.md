@@ -4,7 +4,7 @@
 ### Keywords/Woordenlijst:
 - Hacken:  Het vinden van toepassingen die niet door de maker van het middel bedoeld zijn, speciaal met betrekking tot computers. Complexiteit speelt hierbij geen rol, integendeel, gemakkelijke en snelle alternatieve oplossingen hebben de voorkeur. https://nl.wikipedia.org/wiki/Hacken 
 - white hat hacker, gray hat hacker, black hat hacker. 
-- lifehack, computer,
+- lifehack, computer, food, 
 - systeem, constructie, connectie, routine, gewoonte, 
 - veranderen, verbreken, los maken, anders toepassen, overdenken,  
 
