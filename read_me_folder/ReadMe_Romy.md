@@ -29,7 +29,7 @@ Lecture with Florian Cramer and exercises with Shailoh and Joana
 - Warming up exercise with our brought inspection tool
 - Formed a group for the project with Malou (Product Design), Steffie (Product Design), Oreane (Graphic Design) and me, Romy (Fine Arts & Teacher Training).
 
-Link to Florians website: http://floriancramer.nl/
+Link to Florians website: http://floriancramer.nl/ 
 Link to the presentation and exercises http://joanachicau.com/Hacking.html
 
 # THURSDAY 16th May
