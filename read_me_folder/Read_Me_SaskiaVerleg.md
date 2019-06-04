@@ -58,10 +58,11 @@ _____
 
 ### LECTURE FLORIAN CRAMER  
 
+Florian showed us more examples of hacking and told us about old hacks from years ago. One example was John Draper (Captain Crunch / Crunch or Crunchman) He is an american computer programmer and former of the legendary phone phreak. He managed to make free phone calls with a toy. 
+
+
 Tech mode Railroad club (TMRC) MIT
 Massachusetts institute of Technology (MIT), 1946. FIRST HACKERS, PEOPLE WHO HACKED THEIR OWN SYSTEM 
-
-Capʼn crunch: Hacked the phone counter, in that way the whistle allowed free calling
 
 How to live outside the system - Abbie
 
