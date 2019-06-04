@@ -1,7 +1,7 @@
 ~Checked list of the Read_Me check list file~
 
-
-	Hacking keyword list :smile: 
+:smile:
+	Hacking keyword list  
 (that keeps growing); invading, sharing, changing, food, ajusting, invisible, cheating, playing, creating, deleting
 
 	Lessons
