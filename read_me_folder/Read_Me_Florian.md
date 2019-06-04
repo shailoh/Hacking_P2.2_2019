@@ -6,7 +6,6 @@
 https://criticalengineering.org
 
 ### KEYWORDS ON HACKING 
-
 <br>Impact of Technology
 <br>Exploitation and Sabotage
 <br>Repurposing processes/beliefs etc.
