@@ -64,7 +64,8 @@ Smartphone with cover - Most striking details are its soft shape rounded corners
 ### SEEING LOOKING OBSERVING & INTERVENING WITH JOSEPH HUGHES
 
 Hacking is an attitude. It’s a way of seeing the world differently and to understand the relationship between habits and beliefs. I learned about difference between looking and seeing, observing and intervening.
-<br>The lesson was built up in several exercises:
+
+The lesson was built up in several exercises:
 
 **Creating a hack** in pairs of 2 in 20 minutes was a pressure cooking project to get a mindset of hacks that are not perfect in the first place but have a spontaneous character, like Chindogu, a japanese movement of ridiculous hacks, that started out as a prank and are taken as something serious in western culture.
 
