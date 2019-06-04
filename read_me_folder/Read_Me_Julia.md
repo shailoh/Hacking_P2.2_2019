@@ -1,17 +1,8 @@
 Check list for the Read_Me file:
-
-1) select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
-2) write down a reflection paragraph on the observational tool exercises (tip: you can link to images/ drawings);
-3) grow the keywords/ glossary about what Hacking (tip: add your own references);
-4) gather documentation on the two sessions with Shailoh and Joana;
-5) write a summary on the Hacking lecture by Florian Cramer;
-6) write a summary on the exercise you developed at Varia;
 7) revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phygical systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/biased?);
 
 
-# Week #1 | 13 t/m 17 May 
-
-**What do you think that hacking is? / What does hacking mean to you? -->**
+## **What do you think that hacking is? / What does hacking mean to you? -->**
 
 >"Hacking generally refers to unauthorized intrusion into a computer or a network. The person engaged in hacking activities is known as a hacker. This hacker may alter system or security features to accomplish a goal that differs from the original purpose of the system."
 >"Hacking is finding applications that are not intended by the creator of the resource."
@@ -196,11 +187,27 @@ I enjoy helping her draw most of the times :) But I hate it when she uses me to 
 
 ## Joseph @ Drawing station
 
+Hacking by just doing without thinking too much - we printed lifesize pictures of ourselves and tried to hack ourselves.
 
+_**I'm sorry but I cannot figure out how to put images into this document**_
+
+The 20-minute assignment (go out and find a hack) made me curious whether it would be possible to help Joseph with his fine at the library in Wijnhaven (he told us many times that he keeps forgetting to pay and also forgets to bring the books back) - I decided to go to the library and see whether it would be possible to take a book without actually renting it (and thus avoid getting a fine). Turns out the detection gates don't beep when you just walk out with a book. (yay lifehack)
 
 ## Class at VARIA
 
 _Hacking as a methodology_
 Cooking as a cultural outing (you could hack) - We made two soups. Firstly, we made a soup with random ingredients - nobody would know on forehand that we would make a soup so we just used what we had (e.g. chocolate, avocado, apples, onion and pasta) the message/idea behind this was that _without too much communication and by just throwing items together your project doesn't really result in a very exiting endproduct._  Secondly, we hacked a soup recipe by asking ourselfs whether the ingredients would be considerate - we all tried to made a soup which everyone would like according to the recipe.
 
-##
+## SCAMPER method - class
+SCAMPER method: substitute, combine, adapt, modify, put to another use, eliminate and reverse. = core of what happens with hacking. Why are the things the way they are? -> this method is a hacker mentality. “How are they connected? How are they composed” is the way to think if you want to start hacking something. 
+
+System: A group of interacting of interrelated entities that form a unified whole.(see wiki for more). Open systems have input and output flows, representing exchanges of matter, energy or information. A closed system, by definition, has no input or output. Almost anything is open to a certain extent. A system is always connected to other systems; has a system inside it and is also connected to a bigger system. (zoom in and zoom out – at what level does the system become intervenable) *connectology / everything is connected*
+
+Questions about connection: Can you undo the connection without any damage? (ex. a zipper) (anatomy) What is the kind of input/output that the connection can support? How many connections can something support? _Looking at connections is looking at how to get into a system._ 
+
+
+### reflection and group project
+
+With our group-project we discussed the safety in Rotterdam and decided to go for urban-hacking. The system we chose is the area around school, because (especially at night) it can feel quite unsafe to walk here. We wanted to know more about why it feels uncomfortable walking at those dangerous places, what made it so dangerous and how we could possibly turn this around.
+After this we looked into how to hack the walking pattern of the people around those areas. Eventually we decided to make the surrounding / the dangerous place less dangerous and safer.
+We researched the area and made a map by pointing out the places that we find scary around our school; for our intervention we picked is a little further from school where they are building next to the water - that path is so narrow and surrounded with construction. Imagine walking alone at night that would be really uncomfortable. Our hacking method would be that making the place less dangerous as possible by adding lights or other elements to the surrounding. We analysed the system and used it to change it.
