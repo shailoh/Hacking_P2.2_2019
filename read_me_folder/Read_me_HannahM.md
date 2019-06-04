@@ -48,21 +48,24 @@ Research Refs:
  
 
 #### Workshop/Classes Documentation
-The intructors gave us some interesting ideas about how to view Hacking. From social hacking to how to uderstanding how thing are connected, either physically or
+The intructors gave us some interesting ideas about how to view Hacking. From social hacking to how thing are connected, either mechanically, electronically, or socially. They also introduced ways/reasons for hacking, such as understanding technology or changing sociopolitical culture.
   
-  Florian's lecture, my summary:
-  I will write this at somepoint
+ #### Florian's lecture, my summary:
+During Florian's lecture he introduced a number of websites and resources that are useful to artists and hackers alike. He spoke at length about what types of hackers there are, what they do, and what motivates them.
   
-  Varia workshops summary:
-  gonna write about it later
+#### Varia workshops summary:
+The Varia workshops were during the D and D week and took place at the Varia building which is south of the river in Rotterdam ( aka a really long bike ride for me)
+The first workshop was about recipe hacking and considerate recipes, where our first exersize was to bring a food item which everyone would put into a stew, and of course it was a mess, it wasn't HORRIBLE (I tried it) but it wasn't gonna be intentionally made again. ever. After that happened we looked at how to change/hack recipes to our will and adding or deleting ingredients that may not agree with an eater. To put this into practice we divided into 2 groups to hack a tomato soup and cabbage soup recipe to try and make it considerate for eveyone, we tried our best but only the cabbage soup turned out ok. 
+The second workshop was after lunch and honestly i was crashing from the lunch and needed a nap, but we looked at how different systems interacted as well as what the meaning of what choreography was. My group was kinda tired but we did the excersizes, like inspecting an item (dreamcatcher for our group) and finding a choreography to it, how to use it and such, we also watched the other groups tell about their choreographies.
   
-  reflection about what i've seen and what hacking now means: 
-  will post soon
-  
-  revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phygical systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/biased?);
+#### What I think hacking is: 
+My views of Hacking were definietly were challenges during this practice, Most of my ideas about it revloved around coding, programming, and a variety of other electronic and technological means. And while I believe that to still be a version of hacking, I also know it can apply to art, or a social intervention that forces the audience to change how they act or make them aware of their situation. Hacking can be an agent of change and awareness that leads into new things that are no longer a Hack but the new status quo. Hacking asks questions, like "Why?" and artful hacking has the oppertunity to answer it.
 
+###### The project:
+During the group project where we inspected and intervenned in a system, my group decided to inspect and observe our own morning routines and what we found annoying or tedious. We spent time recording our observations and we came together to converge on a few we would try to hack in some way, I focused on how to get out of bed, looking to inspirations like Wallace and Gromit who have built crazy contraptions to aid their morning routine, one of which being that the bed dumps the sleeper out of it to get them out. That was what I rought to the table, and others in the group thought of ways to make the bed, butter their bread, and brush their teeth.
+We really focused on the idea of interupting a routine as means of hacking, not the technology nvolved but the changing of the ritual. That became our toolset.
 
-
+###### Group notes:
 Hacking for us was funny annd light hearted, cuz we had seen the heavy and serious side of it, 
 we wanted to choose something familiar
 when you think of hacking you think of people who hack the government and banks
