@@ -65,6 +65,7 @@ Smartphone with cover - Most striking details are its soft shape rounded corners
 Hacking is an attitude. It’s a way of seeing the world differently and to understand the relationship between habits and beliefs. I learned about difference between looking and seeing, observing and intervening.
 
 The lesson was built up in several exercises:
+
 **SMOOTHIE AND DRAWING EXERCISES** 
 Everyone had to bring a piece of fruit of their choice, which formed a base for a smoothie which was prepared during the lesson. Next to that we did exercises like drawing from our memory in the beginning to get started.
 
