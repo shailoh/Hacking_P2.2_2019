@@ -117,6 +117,13 @@ This instigated the thought process for me in terms of the group hack, relating 
 
 #### _Reverse Engineering Machinic Choreographies_
 
+Unfortunately I was unable to attend this lesson, however I read through the documentation, discussed it with my group, and did some independent application. These are the insights I gathered from this.
+
+The rehearsal series was an interesting take on brainstorming techniques that I had not previously considered, and redefined the use of the word "rehearsal" in my vocabulary. This step of redefining the process and allowing it to find presence above the product is vital to refreshing my perspective within production. I can find myself overanalyzing and fine tuning a concept by tunnel-visioning on the aspects that are already present, and with this methodology can step back into a new space and navigate in a more suitable direction and finding new solutions, without losing the essence of the project.
+
+Along the same veins of redefinition, the dive into etymology and origin of words is incredibly insightful. Traditionally I have only broken down words into its parts in order to understand the traditional definition, however in Joana's exploration of choreography and rehearsal, I understand that there are many loopholes and branches for interpretation that can be explored.
+
+Through this process I was able to push our group toward a more developed concept, as the initial idea was not much of an alteration of a system, but more of a removal of an element in a system. We stepped back to the overarching elements and were able to go through the process to identify what was lacking.
 
 
 
