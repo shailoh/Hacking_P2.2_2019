@@ -170,9 +170,9 @@ the paper should in fact be on top and not underneath.)
 
 Social system - piece of art
 Made up of phones, controllers, plugs, adapters, lights, beer, logos, vest, hat, pockets
-Each piece can have its own mechanical function or purpose, but together they do not serve a mechanical function.
-The message of the piece can be hacked by replacing one object with another that does not belong to the same 
-family, such as a sausage or a political message.
+Each piece can have its own mechanical function or purpose, but together they do not serve a mechanical 
+function. The message of the piece can be hacked by replacing one object with another that does not belong 
+to the same family, such as a sausage or a political message.
 
 ```
 
