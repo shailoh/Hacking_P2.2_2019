@@ -49,3 +49,4 @@ It can also be used to beat something or cover something. An Ipad or a computer 
 <br>to cut, to embarrass, to annoy, to disconcert, to confuse, to cope with, to manage, to accomplish, to tolerate, to comprehend, to hesitate in speech, to stammer, to break, to indiscriminate, to chop off
 
 ![drawing collage](/IMG_1900.jpg)
+![drawing collage](/IMG_2255.jpg)
