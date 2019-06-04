@@ -3,10 +3,10 @@
 
 #### Keywords/Woordenlijst:
 - Hacken:  Het vinden van toepassingen die niet door de maker van het middel bedoeld zijn, speciaal met betrekking tot computers. Complexiteit speelt hierbij geen rol, integendeel, gemakkelijke en snelle alternatieve oplossingen hebben de voorkeur. 
-- white hat hacker, gray hat hacker, black hat hacker. 
-- lifehack, computer, interface, chindogu, 
-- systeem, constructie, connectie, routine, gewoonte, cultuur, eten,
-- veranderen, verbreken, los maken, anders toepassen, overdenken,  
+- white hat hacker, gray hat hacker, black hat hacker
+- lifehack, computer, interface, chindogu, prank, algoritme
+- systeem, constructie, connectie, routine, gewoonte, cultuur, eten
+- veranderen, verbreken, los maken, anders toepassen, overdenken  
 
 #### Observatieoefeningen inspection tools
 Als inspection tool had ik een spiegel meegenomen. Tijdens de opdrachten heb ik dit geschreven:
@@ -24,11 +24,32 @@ De opdrachten voor het bestuderen van de inspection tool vond ik leuk bedacht ma
 #### Lessen van Shailoh and Joana
 
 #### Les van Florian Cramer
-De geschiedenis van Hacken begint volgens velen bij de studentengroep Tech Modal Railroad Club. Zij 'hackte' modeltreintjes en verbeterde de circuits dit was in 1946. 
-In de capn crunch pakken zaten fluitjes die precies de goede toon had om gratis mee te kunnen bellen. Hier kwam John Draper in de jaren 70 achter. 
-https://www.ad.nl/tech/hackerslegende-captain-crunch-beveilig-je-smartphone~a577b788/ 
-Youth international party line: YIPL opgericht in 1971 door Abbie Hoffman en Al Bell. Was een magazine waarin hacks werden gedeeld. 
-The Pirate Bay: download programma's voor muziek, films, games enz. 
+- De geschiedenis van Hacken begint volgens velen bij de studentengroep Tech Modal Railroad Club. Zij 'hackte' modeltreintjes en verbeterde de circuits dit was in 1946. 
+- In de capn crunch pakken zaten fluitjes die precies de goede toon had om gratis mee te kunnen bellen. Hier kwam John Draper in de jaren 70 achter. (artiekel hierover: https://www.ad.nl/tech/hackerslegende-captain-crunch-beveilig-je-smartphone~a577b788/ )
+- Youth international party line: YIPL opgericht in 1971 door Abbie Hoffman en Al Bell. Was een magazine waarin hacks werden gedeeld. 
+- The Pirate Bay: download programma's voor muziek, films, games enz. 
+---
+###### Sites om te gebruiken in de toekomst:
+- http://ubu.com/ 
+- https://aaaaarg.fail/
+- https://monoskop.org/log/
+
+--- 
+###### Voorbeelden van hacks:
+- Foodstation
+- Sexual hacking, worm rotterdam
+- Cornelia Sollfrank
+- Rop gropgrpijp
+- The yes man
+- Ingold airlines
+- AH bonuskaart
+- Graffiti bot, institude of applied autonomy
+- R. Mutt, Marchel Duchamp, hacking the artsystem
+enz.
+
+         Hacking: Picking a object and put it in an other concept.
+
+Ik vond de les van Florian erg interessant, het was veel nieuwe informatie en kon mijn hoofd er goed bijhouden. Ik vond al de voorbeelden leuk om te horen en het gaf mij een beter en breder beeld over wat hacking precies allemaal inhoud. 
 
 #### Workshops bij Varia
 De workshop bij Varia ging over foodhacking. dit was geinspireerd op de Victoria sponge cake, dit is de cake van de bruiloft van koningin Victoria waarbij de taart in kleine stukjes voor heel duur werden verkocht. De workshop ging over het hacken van eten, verschillende culturen, afkomst van producten en manieren om iets te bereiden. We gingen soep maken, de eerste soep avn het ingredient wat iedereen had meegenomen zonder te weten wat we er mee zouden doen, en de tweede met een recept en ingredienten die daar bij hoorde. Het idee achter de eerste opdracht was naar mijn idee dat iedereen een product mee had zonder te weten dat het voor soep gebruikt zou worden, sommige ingredienten worden dus op een andere manier gebruikt dan ten eerste bedoeld is, ze zijn dus gehackt. Daarnaast was het hele idee van soep maken nu niet meer om een lekker kommetje soep te eten maar meer om na te denken over de producten en om met elkaar iets te maken. De soep word dus voor een ander doel gebruikt, namelijk een leer en sociaal doeleinde. Ik vond dit een interessant gegeven ook als ik kijk naar mijn eigen studie, dat je door bijvoorbeeld een gebruik te hacken dit kunt gebruiken voor een les/workshop. Het tweede deel van de workshop waarin we bestaande recepten gingen veranden/hacken sloot aan op het eerste deel maar hier ging het meer om de keuze wat we in het recept hielden, toevoede of hetzelde lieten. Wij hebben met ons deel van de groep een tomatensoep gemaakt met ingredienten die zo veel mogenlijk mensen mogen en willen eten en die niet van ver hoeven te komen. Zo hebben wij de creme fresh, en kruiden uit verre landen buiten wegen gelaten en meer groente en kruiden van hier toegevoegd. 
@@ -39,6 +60,8 @@ In de middag kregen we nog een les van Joana over choreografie. Ik heb hierbij g
 
 #### Workshop van Joseph Hughes
 Ik vond de wijze waarin Joseph zijn les gaf erg inspirerend, doordat hij veel opdrachten gaf zoals bijvoorbeeld: aan mensen om de deur dicht te doen en ze de stappen op te laten schrijven. En iedereen en stuk fruit mee te laten nemen om uiteindelijk een gezamelijke smoothie van te maken, leerde ik ongemerkt zonder lang naar een verhaal te luisteren toch best een hoop. Ook de opdracht om met foto's van mijn lichaam, mezelf te hacken vond ik erg leuk. Hier kon ik lekker bezig zijn en ontstonden er vanzelf steeds meer ideen. 
+
+            'Hacking is a way of seeing the world differently'
 
    Powers of Ten:          https://www.youtube.com/watch?v=0fKBhvDjuy0
    
@@ -56,11 +79,13 @@ Door de vorm van animatie en een verhaatje hebben wij hacken een minder zwaar be
 #### Refelctie practice Hacking
 
 
-##### Eigen interesses
+##### Dingen die ik tegenkwam en waarbij ik aan hacken moest denken:
 -   https://www.instagram.com/mvrc.t/
 -   https://www.instagram.com/randy.cano/
 -   https://www.instagram.com/antonitudisco/
 -   https://www.dubbelfrisss.nl/lifehack/
+-   https://www.instagram.com/p/BubbPeGnLME/
+-   https://www.instagram.com/p/BYUVDSsjbs_/
 
 1. select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
 2. write down a reflection paragraph on the observational tool exercises (tip: you can link to images/ drawings);
