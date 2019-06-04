@@ -49,7 +49,6 @@ Since it is one of my most important everyday objects, I decided to bring my key
 - wrenching the keychain around hand
 - Soundcreating (jingle-like)
 
-
 **Groupmembers' object:**
 Smartphone with cover - Most striking details are its soft shape rounded corners, smooth screen, back cover textured. The screen cracked, cover from leather, with a purse on the back next to a small hole for the camera and a zipper made from metal
 
@@ -61,6 +60,17 @@ Smartphone with cover - Most striking details are its soft shape rounded corners
 - Speaker
 - Notebook
 - Photo album
+
+### SEEING LOOKING OBSERVING & INTERVENING WITH JOSEPH HUGHES
+
+Hacking is an attitude. It’s a way of seeing the world differently and to understand the relationship between habits and beliefs. I learned about difference between looking and seeing, observing and intervening.
+<br>The lesson was built up in several exercises:
+
+**Creating a hack** in pairs of 2 in 20 minutes was a pressure cooking project to get a mindset of hacks that are not perfect in the first place but have a spontaneous character, like Chindogu, a japanese movement of ridiculous hacks, that started out as a prank and are taken as something serious in western culture.
+
+**Anatomical Drawing:**
+Dissecting the life-size scan of our body as an example of literal hacking.
+
 
 ## WEEK 2
 ## WEEK 3
