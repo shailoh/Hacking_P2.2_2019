@@ -110,7 +110,6 @@ Elevator - connected with screws and on a rope, take it off the system by switch
 
 ## WEEK 4
 **IDEA FINDING**
-
  <br>Hacking ownership -> from private art to public exhibition space
  <br>Transforming/Hacking existing art piece — Re-interpreting it 
  <br>Making the hidden art visible, reframing
