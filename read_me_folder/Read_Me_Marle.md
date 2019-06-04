@@ -36,7 +36,11 @@ And so for that, I didn't do it. She wanted to hack us but we hacked her back I 
 	our project
 	
 We were intrested in the system of the area around our school.
-As we sometimes don't feel seef
+As we sometimes don't feel safe around our school or didn't know much about it.
+So we made a doc on drive and everyone started doing researcht in:
+what makes something dangerous, what are the laws of streets, what are the most populair streets, how do the streests look, etc.
+Then we started browsing idea's about how to hack the way of how people feel and walk around those areas. 
+We desided we wanted to make people feel safer around a certain area (wich we chose after researching)
 
 
 
