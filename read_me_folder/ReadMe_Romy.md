@@ -101,6 +101,17 @@ Link to the drawing exercises:
 # TUESDAY 21th May
 Workshop with Niek at Varia
 
+Today I thought was a bit unexpected. We each brought an ingredient, which turned out to serve in a soup. All ingredients were mxed; pepper, chocolate, jam, cucumber, avocado, apple, onion, etc. Some students tried the soup, so did I and I thought it tasted okay, it only needed salt and then i would have actually eaten it. It turned out salt is quite essential in a soup.
+
+Then we got a little lecture about hacking receipes, with an example of the famous 'Elizabeth sponge cake' receipe. Honestly I do get that hacking a soup is a different insight on hacking but I think everything we learned was quite obvious and he could have taken it further for me in order to really show me something new and interesting to trigger me.
+
+After the lecture the group was devided in two, and each group hacked an existing receipe. We had a tomato soup, and left out the stock and replaced it with salt and locally grown herbs to make it more considerate. We also left out the sour cream because of the possible allergies and the use of animals. We thought of replacing both the fat from the stock and the sour cream with coconutmilk, but this had an E-number in it, which turned out to be having the alomst same molecules as plastic.
+Our soup turned out to be animal-, E-number- and foreign product free. I think we did a good job, but I wouldn't call this hacking.
+
+Why I wouldn't say this is hacking: you could have just made the soup according to the existing receipe but using local, biological and vegan ingredients. These days you don't even have to change a single thing about a receipe in order to make it considerate, as we did.
+Basically we did the same thing but we didn't have access to other ingredients other than what Niek already bought for us and had in his storage.
+Despite my critique I am glad we had a different class and setting; it was really light and open and there was no pressure. I also really loved the location. Altogether this morning lifted some of the heaviness of hacking from my shoulders.
+
 - Introduction about food hacking by Niek and making a soup with the ingredients we brought
 - Small presentation about hacking food
 - Hacking an existing receipe in a group, to make it as 'considerate' possible
