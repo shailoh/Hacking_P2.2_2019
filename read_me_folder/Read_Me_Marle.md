@@ -1,8 +1,8 @@
 ~Checked list of the Read_Me check list file~
 
 
-	Hacking keyword list
-(that keeps growing); invading, sharing, changing, food, ajusting, invisible, cheating, playing
+	Hacking keyword list :smile: 
+(that keeps growing); invading, sharing, changing, food, ajusting, invisible, cheating, playing, creating, deleting
 
 	Lessons
 The most intersting about the observational tool exercise was that I found out things I didn't know. 
@@ -32,8 +32,12 @@ We also had to walk and keep evenly space between us. There was also a sound tha
 But I could already sense that the teacher wanted/hoped we would walk faster without realizing it was due to the sound.
 And so for that, I didn't do it. She wanted to hack us but we hacked her back I think.
 
-Alt-H1
-=====
+	our project
+	
+We were intrested in the system of the area around our school.
+As we sometimes don't feel seef
+
+
 
 o change the visual representatino, how, figure that out
 o what did hacking bring you and what will you use it for in the future
