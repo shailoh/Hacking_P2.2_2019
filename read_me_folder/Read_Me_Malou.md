@@ -27,6 +27,7 @@ Core concepts in Hacking Anatomies class 02
 ======
 
 OBSERVATIONAL TOOL EXCERCISES
+
 Mijn inspectiontool was een oranje rolletje tape. 
 
 1. Performative qualities and affordances:
@@ -76,14 +77,20 @@ mentaal denken rondom systemen.
 
 Anatomical Anatomic Drawing Lesson class 03
 ======
-documentation
-keywords
+Tijdens de les van Joseph hebben we een start gemaakt met het opschrijven van alle acties die je verricht bij het sluiten van een deur. Bet bewust maken van stappen die je zet tijdens het doen van de dagelijkse dingen zijn interesant om over na te denken want wat zou er gebeuren als je een van deze dingen voortaan over slaat of veranderd? Interesante gedachte om op door te gaan. Bij het hacken van ons lichaam heb ik mezelf niet meteen iets geleerd of gezien dat iets nieuw was, een aantal voorbeelden van Joseph kende ik al. Leuke les en vooral het begin sprak me erg aan. 
 
 Hacking in Context and Fieldwork at VARIA class 04
 ======
-documentation
-keywords
-summary workshops at varia
+Soep maken met Niek @Varia
+1. bij het verzamelen van alle ingredienten van de personen hebben we ons bewust gemaakt over het feit waar deze producten vandaan komen en of er eventueel personen zijn die het product niet zouden eten. Van deze producten hebben we vervolgens een soep gemaakt en deze hebben enkelen van ons geproeft. 
+2. De tweede stap binnen het hacking van eten kregen we een recept en de ingredienten daarvan. De opdracht was om het recept zo te hacken dat het een soep wordt voor iedereen. Houdt er dus rekening mee dat veel mensen het kunnen eten (waaronder voornamelijk onze groepsgenoten) Ook hebben wij ingredienten geskipt die niet goed voor het milieu waren en producten gekozen die in Nederland te verkrijgen zijn. Ons groepje heeft een toMATEN soep gemaakt en deze ook gepost op smulweb. 
+
+
+3. lichaamsoefening met Joana. Hier kregen we inzicht over het feit hoe ons lichaam zich voelt als we diep nadenken over wat we eigenlijk voelen. Ik werd erg moe en ging heel erg wiebelen omdat je je zo focust op bepaalde dingen in je lichaam en je jezelf probeerd voor te stellen wat er gaande is. 
+
+4. 
+
+
 
 Anatomy of Connectologogy class 05
 ======
