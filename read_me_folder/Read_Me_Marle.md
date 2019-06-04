@@ -43,4 +43,4 @@ As we sometimes don't feel seef
 o change the visual representatino, how, figure that out
 o what did hacking bring you and what will you use it for in the future
 
-:sun: :sun: :sun:
+:shine: :star: 
