@@ -116,7 +116,7 @@ Elevator - connected with screws and on a rope, take it off the system by switch
  <br>Transforming/Hacking existing art piece — Re-interpreting it 
  <br>Making the hidden art visible, reframing
 
-Reinterpretation into 
+**Reinterpretation into:**
 
  - Sound
  - Taste 
