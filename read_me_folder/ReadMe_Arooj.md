@@ -25,7 +25,17 @@ https://hackinghabitat.com/en/about-hacking-habitat/
 
 4.	gather documentation on the two sessions with Shailoh and Joana;
 (Anatomy of Connectologogy : how things are connected, investigate possible ways of modifying or intervening in existing systems.)
+introduction to SCAMPER-Method
 
+Substitute
+Combine
+Adjust
+Modify, magnify
+Put to other uses
+Eliminate
+Reverse
+
+thinking of how to intevene into systems using this method, invetigating how the systems works and how to catergorize it .for expample an interactive screen is an electronic system and is omposed of glass screen electronics, wires, plastic,metal. it can also be seen as social as it communicates messages to people.
 
 
 5.	write a summary on the Hacking lecture by Florian Cramer;
