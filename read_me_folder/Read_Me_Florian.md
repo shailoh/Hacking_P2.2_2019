@@ -94,4 +94,14 @@ The method is a hacker mindset dealing with how the things in the world are conn
 <br>**_For Example:_**
 Elevator - connected with screws and on a rope, take it off the system by switching it off, social 
 
+**EXAMPLE:** Public Transport
+
+ -Metro
+  -Platform
+   -Gates
+    -LCD Screen in Gate
+     -Wires
+      -Screws
+       -Metal/Plastic
+
 ## WEEK 4
