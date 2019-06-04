@@ -28,7 +28,7 @@ How the Knife feels:
 I’m stuck. I'm litterally stuck. Just a moment ago someone decided to stick me into a piece of butter and leave me here. I can’t move on my own, you know? I rely on you to make the right decisions for me. I trust you. And yet here you are, sticking me into random foods again and again. Don’t you see my potential? I’m so much more that something that can slice through stuff. I don’t just want to destroy. 
 Put me in some ink and use me as a pen, I could create the most beautiful poetry for you. Pollish me and use me as a mirror, i’ll show you a mesmerising reflection. Hell throw me into a dartboard, i can be an entertainer. I can be any of these things for you but please, just take me out of this butter. It’s humiliating.
 
-# Hacking with Florian
+# Anatomical drawing
 We hacked into our own bodies by cutting into life size pictures of ourselves. This was an interesting way to start being creative with the concept of hacking. What i took out of this is that there's always ways to look at things differently and to hack into them by changing things up. Even in the things that seem realy set, like your own body. 
 
 # Hacking at Varia
