@@ -2,7 +2,7 @@
 
 ***
 
-## :checkered_flag:  Checklist  :checkered_flag:
+## :checkered_flag: Checklist :checkered_flag:
 
 
 - [x] select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
@@ -11,7 +11,7 @@
 
 - [x] grow the keywords/ glossary about what Hacking (tip: add your own references);
 
-- [ ] gather documentation on the two sessions with Shailoh and Joana;
+- [x] gather documentation on the two sessions with Shailoh and Joana;
 
 - [ ] write a summary on the Hacking lecture by Florian Cramer;
 
@@ -205,4 +205,9 @@ signs arguably provide a greater impact on society, as their "activation" is tri
 Further discussion in small groups led us to question the differences between a door and a window, and how it is necessary to be specific and precise with the system in which you are trying to intervene, otherwise the hack does not exist or is not effective.
 
 Quickly identifying elements and loopholes in everyday objects opened my understanding of what it means to hack a system. It provided clarity as to what can be an open system, and how easy it is to initiate a hacking process. I grew my hacker mindset by looking for weak links and simple changes to otherwise mundane systems through this exercise.
+
+***
+
+
+## :pager: Hacking Lecture by Florian Cramer :fax:
 
