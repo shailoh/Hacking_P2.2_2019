@@ -87,7 +87,7 @@ why this method?
 I thought this hacking course was very interesting. The filisofical thinking behind hacking is super cool and it has teached me to look futher than my normal mind does. Also the way we did this project was very interesting for me, I have never worked with animation or script writing before and therefore I learnd so much new stuff wich im taking further on my journey.
 
 
-
+(I'm also trying to upload images and recordings in this gidhup but it wont work)
 
 
 
