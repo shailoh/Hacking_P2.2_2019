@@ -26,10 +26,24 @@ Binnen deze bewegingen en systemen ontstaan neigingen om te gaan hacken. Je ziet
 Core concepts in Hacking Anatomies class 02
 ======
 
-observational tool exercises
+OBSERVATIONAL TOOL EXCERCISES
+Mijn inspectiontool was een oranje rolletje tape. 
+
+1. Performative qualities and affordances:
+Rollen, omvallen, plakken, afrollen, oprollen, wikkelen, loslaten, opvallen, aandacht trekken, bevestigen. 
+2. Als het zou spreken dan: 
+Ik ben bijna op, ik maak dingen aan elkaar vast, ik voeg een beetje kleur toe, ik ben klein, ik ben bang voor water, ik houd het meest van mijn plakkerige kant, deze plakkerige kant zorgt ervoor dat ik samen blijf, Ik besta uit lagen, ik heb drie verschillende kleuren, Ik krijg het steeds kouder en kouder, Ik kan me snel voortbewegen, ik heb twee verschillende mogelijkheiden om te staan of te liggen. 
+3. Wat heb ik gedaan:
+Ik heb gekeken, ik heb gezien, herinnerd, aangeraakt, gevoelt, geroken, gehoord, geluisterd, daarbij gebruikte ik mijn: ogen, mond, neus, oren, handen. 
+
+Ditzelfde hebben we gedaan bij de inspectiontool van mijn buurvrouw, een boek. 
+
+1. Ik kan liggen, ik kan staan, openen, dichtgaan, afkoelen, opwarmen, verdwijnen, verbranden, warmte geven, zacht zijn, leesbaar zijn, je iets vertellen, heb verschillende texturen. 
+2. I, the book: I am blauw, wit van binnen, een beetje plakkerig, ik vertel je iets, ik houd niet van water, ik houd niet van vuur, ik ruik een beetje vreemd, ik heb veel broers en zussen, iemand heeft mij geschreven, ik heb een prijs, mensen kunnen me verbuigen, ik besta uit cijfers en letters, ik zeg: Hallo. 
+3. Ik heb gekeken, ik heb gezien, herinnerd, aangeraakt, gevoelt, geroken, gehoord, geluisterd, daarbij gebruikte ik mijn: ogen, mond, neus, oren, handen. 
+
 
 LECTURE BY FLORIAN CRAMER 
-
 1. De geschiedenis van hacking: Het is allemaal begonnen met modeltreinen die werden toegepast op computers, er was behoefte aan het spelen met systemen en de grenzen hiervan opzoeken. 
 
 2. De Amerikaanse hack geschiedenis: Het Cap'n Crunch fluitje dat werd geleverd bij een pak cornflakes zorgde er met zijn toonhoogte voor dat mensen konden bellen zonder daarvoor te hoeven betalen. Deze ontdekking werd verspreid en mensen kwamen met alternatieven zoals de blue box met dezelfde toonhoogte. Blue Box dealers (o.a. Steve Jobs) verdienden geld met het doorverkopen hiervan. 
