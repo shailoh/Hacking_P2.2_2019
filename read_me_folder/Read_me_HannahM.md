@@ -46,9 +46,8 @@ Research Refs:
 - [Pink Panther: In the Pink of the Night, short](https://www.youtube.com/watch?v=Y3FEZJz55T0)
 - [Wallace and Gromit: their wake up contraptions](https://www.youtube.com/watch?v=CCfShqv1LjE)
  
-  
-  WORKSHOP DOCUMENTATION
-  (Add said documentaiton)
+WORKSHOP DOCUMENTATION
+#### W
   
   Florian's lecture, my summary:
   I will write this at somepoint
@@ -60,4 +59,19 @@ Research Refs:
   will post soon
   
   revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phygical systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/biased?);
+
+
+
+Hacking for us was funny annd light hearted, cuz we had seen the heavy and serious side of it, 
+we wanted to choose something familiar
+when you think of hacking you think of people who hack the government and banks
+
+why this method?
+  - an easy way to show multiple hacks at once
+  - helped show the bigger structure of the morning routine/process
+  - focusing more on the criticl statement than the actual hacks
+  - narratives/storytelling is an effective way to get a message across
+  - henry is like the combination of all of us, and our morning stuggles
+  - the hacks are supposed to be efficient, but its also good to not rush things
+  - critical statement, hacking can be good and bad, even if henry is fast and efficient he's not foolproof, hacking can be personal
 
