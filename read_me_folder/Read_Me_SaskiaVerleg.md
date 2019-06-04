@@ -132,21 +132,32 @@ Met groep diverse ideen bedacht. Uiteindelijk gekozen om het smokkelen van drugs
 
 **MEETING 2**
 
-some people made allready designes. We discusses what the best way of bringing your drugs to a festival can be. At first the idea was to made really jewelery and 'hide' the drugs in there but that wasn't our goal and then it wouln't be a hack. So we decide to make the drugs jewelery as open as possible. We went to the shops to get some jewerelry kit and then we discussed how we could test it and where. On thursday there was a party in Now&Wow, we didn't had much time so 4 of us bought a ticket. 
+some people made allready designes. We discusses what the best way of bringing your drugs to a festival can be. At first the idea was to made really jewelery and 'hide' the drugs in there but that wasn't our goal and then it wouln't be a hack. So we decide to make the drugs jewelery as visible as possible. We went to the shops to get a jewerelry kit and then we discussed how we could test it and where. On thursday there was a party in Now&Wow so 4 of us bought a ticket. 
 
-The day after 2 of us made the jewelery and later in the evening we went out to Now&Wow. 2 of us wore the neckalaces, armlaces and earrings, the other 2 were filming and document the test. It wasn't busy at all so it was going really fast. I even had a small chat with one guard because i didn't wanted to go inside so soon. It was hard to film and make photos due the dark and also because there where no other people at the door. When we were inside some people noticed the drugs and we started a conversation. A lot of people thought it was a nice hack and some of them even liked it as a jewelery. Also a lot of people only saw the drugs after we told them what we were doing. 
+Bacause we didn't want to do any illigal we bought multivitamine pills and paracetamol. These pills looked like real xtc pills. 
 
-(foto's) 
+**MEETING 3** 
+2 of us made the jewelery and later in the evening we went out to Now&Wow. 2 of us wore the neckalaces, armlaces and earrings, the other 2 were filming and document the test. It wasn't busy at all and it went really fast. I had a small chat with one guards because and even after the this he didn't noticed the drugs on me. 
 
-**MEETING 3**
+It was hard to film and make photos because of the dark and also because there where no other people at the door so it would be to obvious. When we were inside some people noticed the drugs and some didn't. Most of the people didn't saw it or didn't say anything. 
+
+process photos:
+https://imgur.com/a/FHXtMsU
+
+**MEETING 4**
 Now we had to go to the next step. How are we going to show our hack and how to improve the jewelery? We now know that you CAN smuggle drugs into a festival when you wear it really exposed. How to send this message? How to present and how can we send our message? 
 
 We decided to make a video of our test in combination with a  closeups of the jewelery. We split our group in teams. 2 thought about how to make the video, 2 were making the jewelery ready for the shoot and 1 was doing the voice over. It all went really well and everybody was continuously showing what they had found / did so we could give feedback on it. 
 
-The jewellery had to be handy, hold your drug and you have to take it of easilly. These things looked hard in the beginning but then we came with the idea of clips. So you can easilly put your pill in a clip and take it out. this was our starting point and then we made some test with it to see what did work and what didn't. At first I wanted to look pretty but after some hours in the metal station, when i still not made any progress i remembered that it isn't about the product itself but about the hack. So then i focused more on the function and how to wear it. We bought some extra jewelery tools to connect things to each other. 
+The jewellery had to be easy in use, hold your drug and you have to take the pill of easilly. With these things in mind we came with the idea of small clips. with this you can easilly put your pill in a clip and take it out and put it back again. this was our starting point and then we made some test with it, to see what worked and what didn't. At first I wanted it to look pretty but after an hour in the metal station, when i still didn't made any progress I remembered that it isn't about the product itself but about the hack. So then i focused more on the function and how to wear it then how it looked. We bought some extra jewelery tools to connect things to each other. Our end result :
 
-**MEETING 4** 
-shoot!  
+https://imgur.com/a/7MIXZrO
+
+**MEETING 5** 
+We started at 8:30 and made as many shots as possible. Because I was the model I couldn't really see what was going on so most of the time i just listened to what my teammates told me to do. I went really wel! and it was nice to see our end result on a body. 
+
+https://imgur.com/a/D1N2LXX
+
 
 
 
