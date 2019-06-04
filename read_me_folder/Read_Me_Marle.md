@@ -5,11 +5,15 @@
 	Hacking keyword list  
 (that keeps growing); invading, sharing, changing, food, ajusting, invisible, cheating, playing, creating, deleting
 
+
+
 	Lessons
 The most intersting about the observational tool exercise was that I found out things I didn't know. 
 My tool was key, wich have multiple things you can use them for. Opening doors, obviously. 
 But also cutting, stabbing, and the keychain was for recognizability. After the exercise with closing your eyes I forgot a lot of thing.
 Like that keys make a lot of sounds, are cold and that keys are a very messy object.
+
+
 
 ### Shailoh and Joana.
 The first one was about manuscripts and what they told us about hacking. 
@@ -32,6 +36,8 @@ I found the body realization exercise a bit difficult as i somethimes don't take
 We also had to walk and keep evenly space between us. There was also a sound that went faster and faster.
 But I could already sense that the teacher wanted/hoped we would walk faster without realizing it was due to the sound.
 And so for that, I didn't do it. She wanted to hack us but we hacked her back I think.
+
+
 
 	our project
 	
