@@ -11,7 +11,13 @@
 #### Observatieoefeningen inspection tools
 Als inspection tool had ik een spiegel meegenomen. tijdens de opdrachten heb ik dit geschreven:
 
-In deze spiegel kun je op een andere manier naar dingen kijken, in spiegelbeeld. Het spiegelbeeld kunnen je andre dingen laten zien dan je op het eerste gezicht ziet. Met de spiegel kun je je eigen gezicht zien en om een hoekje kijken zoals bijvoorbeeld met de achteruitkijkspiegel in de auto. Met meerdere spiegels kun je je zicht nog meer uitbereiden zodat je bv de achterkant van je eigen hoofd kunt zien. Daarnaast kun je met een spiegel ook meer licht creeren. 
+    In deze spiegel kun je op een andere manier naar dingen kijken, in spiegelbeeld. Het spiegelbeeld kunnen je andre dingen laten zien dan je op het eerste gezicht ziet. Met de spiegel kun je je eigen gezicht zien en om een hoekje kijken zoals bijvoorbeeld met de achteruitkijkspiegel in de auto. Met meerdere spiegels kun je je zicht nog meer uitbereiden zodat je bv de achterkant van je eigen hoofd kunt zien. Daarnaast kun je met een spiegel ook meer licht creeren. 
+
+    Ik ben een spiegel en ik zie dingen die jij niet altijd kan zien. Ik vind zelf dat ik een van de mooiste ben van onze familie. Ik schitter het mooiste en als je naar mij kijkt zie je de ware onvervormde schoonheid. Mensen zijn soms bang om naar mij te kijken omdat ze er onzeker van worden, andere kunnen hun ogen niet van mij afhouden. Ik vind het nooit leuk om mensen onzeker te maken maar ben toch blij dat ik niet op mijn broer lijk. Hij is een lachspiegel en vervormd dus alle waarheid. ALle mensen lachen hem uit. Mijn broer zou een inpection tool kunnen zijn voor een sociaal experiment maar veder niet echt zover ik weet. Ik kan daarintegen voor veel doeleinde ingezet worden.
+
+
+
+Link naar presentatie en opdrachten: http://joanachicau.com/Hacking.html 
 
 #### Lessen van Shailoh and Joana
 
