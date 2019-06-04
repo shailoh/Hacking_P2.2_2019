@@ -168,7 +168,7 @@ the paper should in fact be on top and not underneath.)
 
 ```
 
-Social system - piece of art
+Social System - piece of art
 Made up of phones, controllers, plugs, adapters, lights, beer, logos, vest, hat, pockets
 Each piece can have its own mechanical function or purpose, but together they do not serve a mechanical 
 function. The message of the piece can be hacked by replacing one object with another that does not belong 
@@ -182,5 +182,20 @@ to the same family, such as a sausage or a political message.
 
 ###### *Click image to view proper orientation*
 
+```
 
+Social System - electronic
+Light, battery, mount, power, glass, metal, symbol, green
+Provides directions for a specific purpose, provides a source of light. The use of color to indicate safety,
+a demonstration of what you should be doing, activated only in specific times, during which it switches
+from an electronic to a social system. The most interesting hack is changing the symbol itself to give 
+instructions about other tasks that humans should be doing in specific situations, like holding the door for
+somebody behind you, or washing your hands after using the bathroom. The potential for such necessary public
+signs arguably provide a greater impact on society, as their "activation" is triggered much more frequently.
+
+```
+
+Further discussion in small groups led us to question the differences between a door and a window, and how it is necessary to be specific and precise with the system in which you are trying to intervene, otherwise the hack does not exist or is not effective.
+
+Quickly identifying elements and loopholes in everyday objects opened my understanding of what it means to hack a system. It provided clarity as to what can be an open system, and how easy it is to initiate a hacking process. I grew my hacker mindset by looking for weak links and simple changes to otherwise mundane systems through this exercise.
 
