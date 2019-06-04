@@ -38,13 +38,14 @@ words of Hacking:2
   - repurposing
   - intervention
   - deviation
+  - open source 
 
 Research Refs:
 
 - [Hacking of the teeth-brushing routine](https://www.instagram.com/p/BYUVDSsjbs_/?igshid=k3k5cmweugsc)
-- 
-  
-  (ADD REFS)
+- [Pink Panther: In the Pink of the Night, short](https://www.youtube.com/watch?v=Y3FEZJz55T0)
+- [Wallace and Gromit: their wake up contraptions](https://www.youtube.com/watch?v=CCfShqv1LjE)
+ 
   
   WORKSHOP DOCUMENTATION
   (Add said documentaiton)
@@ -57,3 +58,6 @@ Research Refs:
   
   reflection about what i've seen and what hacking now means: 
   will post soon
+  
+  revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phygical systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/biased?);
+
