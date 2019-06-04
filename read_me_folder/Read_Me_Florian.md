@@ -118,11 +118,11 @@ Elevator - connected with screws and on a rope, take it off the system by switch
 
 Reinterpretation into 
 
- -Sound
- -Taste 
- -Feel
- -Seeing 
- -Smell
+ - Sound
+ - Taste 
+ - Feel
+ - Seeing 
+ - Smell
 
 **HOW WE ASSOCIATE SMELL WITH COLOR** 
 
