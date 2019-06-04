@@ -164,7 +164,7 @@ Biohacking 1 : is a social movement where you study biology and life science usi
 Biohacking 2 : we could bio hack our health for improving mental performances and energy for a more vibrant life
 
 ### Actual project:
-With our project we wanted to hack the system of the area around school, we were interested about why we felt so uncomfortable walking at those dangerous place, what made it so dangerous. So we split the taks and everyone had their own research on about the why, how and what. What I found interesting about my research is about the graffiti that where at those dangerous places we could hack this system also because I think and truly believe that there is a connection between those 2 topics/ communities (graffiti & hackers). The roots of these 2 are the same like having the skills and freedom. One is real life and the other on the web.
+With our project we wanted to hack the system of the area around school, we were interested about why we felt so uncomfortable walking at those dangerous place, what made it so dangerous. So we split the taks and everyone had their own research on the why, how and what part. What I found interesting about my research is about the graffiti that were at those dangerous places we could hack this system also because I think and truly believe that there is a connection between those 2 topics/ communities (graffiti & hackers). The roots of these 2 are the same like having the skills and freedom. One is real life and the other on the web.
 
 After this we looked into how to hack the walking pattern of the people around those areas. Eventually we decided to make the surrounding/ the dangerous place less dangerous and safer. 
 
