@@ -42,7 +42,7 @@ We had to bring an inspection tool. I choose for a scissor because I use a sciss
 After this assignment we had to switch our item. I got an passer and did the assignment again. It was hard to do this assignment becuase i couldn't really put the itemt out of its context. 
 ____
 
-##### Hackinglijst verlengen
+#### Hackinglijst verlengen
 
 adjust, durven, grenzen net niet overgaan, risico opzoeken, discussion piece, small adjustment big impact, change behaviour, limit, research, intervention, testing, making, doing, experience. 
 ___
@@ -60,6 +60,7 @@ _____
 
 Florian showed us more examples of hacking and told us about old hacks from years ago. One example was John Draper (Captain Crunch / Crunch or Crunchman) He is an american computer programmer and former of the legendary phone phreak. He managed to make free phone calls with a toy. 
 
+Hacking is about playing with systems and to do something unexpected with it. Florian showed a few examples from the past and for me it became really clear that hacking is really broad. I can be like a small detail and little adjustment. An example was the book with the title 'steal this book' by Abbie Hoffman. This showed for me that also in commercial ways you can use nice hacks to sell your prodcut or to tell your message. 
 
 Tech mode Railroad club (TMRC) MIT
 Massachusetts institute of Technology (MIT), 1946. FIRST HACKERS, PEOPLE WHO HACKED THEIR OWN SYSTEM 
@@ -73,7 +74,8 @@ _____
 ### class 27 mei (ziek)
 last class: hacking soup, change ingredients. 
 where is the line of hacking? : depends on context. 
-pushing boundary, not crossing 
+pushing boundary, not crossing
+
 ______
 
 ### class 13 mei aantekeningen
