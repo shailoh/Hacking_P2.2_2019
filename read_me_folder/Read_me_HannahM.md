@@ -46,8 +46,9 @@ Research Refs:
 - [Pink Panther: In the Pink of the Night, short](https://www.youtube.com/watch?v=Y3FEZJz55T0)
 - [Wallace and Gromit: their wake up contraptions](https://www.youtube.com/watch?v=CCfShqv1LjE)
  
-WORKSHOP DOCUMENTATION
-#### W
+
+#### Workshop/Classes Documentation
+The intructors gave us some interesting ideas about how to view Hacking. From social hacking to how to uderstanding how thing are connected, either physically or
   
   Florian's lecture, my summary:
   I will write this at somepoint
