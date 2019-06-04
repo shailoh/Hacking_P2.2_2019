@@ -161,12 +161,9 @@ For the group project it was nice to test it in real life. We never could have d
 
 With our hack we show our critic on the system. We didn't hide our stuff and still nobody saw it, even after an security check. Nobody would expect that you wear an illigal drug this exposed. We did the opposite of what you normally do when you do something illigal and in this way we hacked the security. The jewellery has to be easy for use, hold your drug and you have to take the pill of easilly. With these things in mind we came with the idea of small clips. with this you can easilly put your pill in a clip and take it out and put it back again. This was our starting point and then we made some test with it, to see what worked and what didn't. At first I wanted it to look pretty but after an hour in the metal station, when i still didn't made any progress I remembered that it isn't about the product itself but about the hack. So then i focused more on the function and how to wear it then how it looked. 
 
-The extra hack is that the this hack it's just only a way to smoggle your drugs into a festival, but you can even use your drugs it in a hidden way. Normally people have to take their drugs in the toilet or have to hide themself. With the jewelery you can easy take your pill at the dance floor and nobody wil notice. 
+The extra hack is that the this hack it's just only a way to smoggle your drugs into a festival, but you can even use your drugs it in a hidden way. Normally people have to take their drugs in the toilet or have to hide themself. With the jewelery you can easy take your pill at the dance floor and nobody wil notice. If more people would use this hack, to smoggle in drugs, I it's not allowed to wear jewelery to fesivals in the future. I think every 'hack' in the illigal world is just temporary, but it's funny to see that people are really creative when it comes to bypassing rules.  
 
-If more people would use this hack, to smoggle in drugs, I it's not allowed to wear jewelery to fesivals in the future. I think every 'hack' in the illigal world is just temporary, but it's funny to see that people are really creative when it comes to bypassing rules.  
-
-
-
+In the beginning it was hard for me to do the exercises. Especially the exercises in class where difficult. I couldn't focus and didn't saw the purpose of it. After a while i found out that you really have to put the product or system out of it context to change its context. You have to know the routine and system, otherwise you can't break in. I notice I look different to normal systems now and this is a nice new tool I hope to use more in my future projects. 
 
 
 
