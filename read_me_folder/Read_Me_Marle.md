@@ -15,19 +15,19 @@ Like that keys make a lot of sounds, are cold and that keys are a very messy obj
 
 
 
-### Shailoh and Joana.
+#### Shailoh and Joana.
 The first one was about manuscripts and what they told us about hacking. 
     For me the most intresting was that boy who just ranted about others being less good and he was amazing.
     A manuscript can be many things and many things can be a manusctript. Just like the term 'paper'
 The second was about learning about you obervation tool.
     You can see this coming but it was funny to see that your 'inspaction tool' has way more functions than you think. 
 
-### Florian Cramer
+#### Florian Cramer
 The hacking lecture by Florian Cramer was essencial for me understanding hacking. First I couldn't really keep up with what he was saying due to different terms.
 But later he showed examples of the first hackers (model train), the cap'n crunch whisle, karagarga, etc. 
 It made me realize that its super broad, the meaning hacking, and what it could be. He also told us about monoskop and ubuweb.
 
-### VARIA
+#### VARIA
 The workshop at varia was nice because it was very litteral. You can explain how to hack food and move on.
 But this time we also acutally did it. This way you can learn what can go wrong, see the detailss and the effects of your hack.
 And due to the fact that we took the time it sticks better in your memory so I won't forget this.
