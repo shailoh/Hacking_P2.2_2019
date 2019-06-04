@@ -72,7 +72,27 @@ The lesson was built up in several exercises:
 **Anatomical Drawing:**
 Dissecting the life-size scan of our body as an example of literal hacking.
 
-
 ## WEEK 2
+
+**VARIA**
+- Hacking the recipes of soups
+
 ## WEEK 3
+
+**CONNECTOLOGY 27TH WITH SHAILOH PHILLIPS**
+
+**„SCAMPER“-Method**
+
+- Substitute
+- Combine
+- Adjust
+- Modify, magnify
+- Put to other uses
+- Eliminate 
+- Reverse
+
+The method is a hacker mindset dealing with how the things in the world are connected or composed. An open system - surrounded by an environment, has input and output. This means there is mostly a way to “get inside“ of this system and do something with it. „Everything is connected“ is a way to describe the process behind this in a way that one object or procedure always contain multiple steps and bits and pieces that form one whole.
+<br>**_For Example_**
+<br>Elevator - connected with screws and on a rope, take it off the system by switching it off, social 
+
 ## WEEK 4
