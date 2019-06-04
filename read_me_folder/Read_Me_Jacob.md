@@ -211,3 +211,14 @@ Quickly identifying elements and loopholes in everyday objects opened my underst
 
 ## :pager: Hacking Lecture by Florian Cramer :fax:
 
+There was a lot of information to digest in this lecture, and there were quite a few examples that stood out to me:
+
+- The history of hacking originated outside of the digital realm
+- Targeted advertising told a woman that she was pregnant based on her purchasing trends
+- Cornelia Sollfrank and her efforts within net art and female representation within the hacking sphere
+- Postcode and racial profiling by Albert Heijn to cater stores toward specific demographics
+- Gemeente adopting laws to combat manipulation of fake adopted children- a "reverse hack"
+- Trevor Paglen's discovery of the CIA's fake Airlines in order to deport terrorists
+- Jacob Appelbaum's invention of the Tor browser, and using the protection of art installations to afford immunity to the servers
+
+Many of these hacks involve hiding information and intentionally misleading an outside group, however in some cases they are presented by an authoritative figure, and often along the lines of social hacking more-so than traditional technological hacking. They stay within orbit of the technological sphere, however the intent of these hacks are not technologically driven, which is an enlightening take on the hacking process that inspired me.
