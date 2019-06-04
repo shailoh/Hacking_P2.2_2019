@@ -77,7 +77,7 @@ mentaal denken rondom systemen.
 
 Anatomical Anatomic Drawing Lesson class 03
 ======
-Tijdens de les van Joseph hebben we een start gemaakt met het opschrijven van alle acties die je verricht bij het sluiten van een deur. Bet bewust maken van stappen die je zet tijdens het doen van de dagelijkse dingen zijn interesant om over na te denken want wat zou er gebeuren als je een van deze dingen voortaan over slaat of veranderd? Interesante gedachte om op door te gaan. Bij het hacken van ons lichaam heb ik mezelf niet meteen iets geleerd of gezien dat iets nieuw was, een aantal voorbeelden van Joseph kende ik al. Leuke les en vooral het begin sprak me erg aan. 
+Tijdens de les van Joseph hebben we een start gemaakt met het opschrijven van alle acties die je verricht bij het sluiten van een deur. Het bewust maken van stappen die je zet tijdens het doen van de dagelijkse dingen zijn interesant om over na te denken want wat zou er gebeuren als je een van deze dingen voortaan over slaat of veranderd? Interesante gedachte om op door te gaan. Bij het hacken van ons lichaam heb ik mezelf niet meteen iets geleerd of gezien dat iets nieuw was, een aantal voorbeelden van Joseph kende ik al. Leuke les en vooral het begin sprak me erg aan. 
 
 Hacking in Context and Fieldwork at VARIA class 04
 ======
@@ -88,22 +88,12 @@ Soep maken met Niek @Varia
 
 3. lichaamsoefening met Joana. Hier kregen we inzicht over het feit hoe ons lichaam zich voelt als we diep nadenken over wat we eigenlijk voelen. Ik werd erg moe en ging heel erg wiebelen omdat je je zo focust op bepaalde dingen in je lichaam en je jezelf probeerd voor te stellen wat er gaande is. 
 
-4. 
+4. Cybernetica, Het genereren van lichaamsbewegingen. MAAK BEWEGINGEN NIET OVER IETS MAAR ALS IETS. 
+Trisha Brown - beperkende systemen instellen. Voorbeelden: Kanalen in Nederland, Ikea tekeningen, Metro van Londen, Computer programmeren.
 
-
-
-Anatomy of Connectologogy class 05
-======
-documentation
-keywords
-
-Final Presentations class 06
-======
-documentation
-keywords
-
-GLOSSARY 
-======
-
-FINAL REFLECTION
-======
+5. Het maken van een eigen choreografie. Dit samen met de inspectiontool en doe hier een interventie op. WORTELS
+1. Eten - uitspugen - hergebruiken voor een gezichtsmasker. 
+2. Eten terwijl ze in de zak zitten, de wortel komt er niet uit. 
+3. Plastic eten in plaats van de wortels.
+4. Hergebruik het plastic, dit gaat nooit over de datum. Waarom staat de datum om het plastic en niet op ieder worteltje appart? 
+5. Laat het lang op een plek liggen en ga zien wat het gebeurd, ontploft het zakje of gaat het schimmelen in het zakje. Zie het als een kunstobject in plaats van als voedsel. 
