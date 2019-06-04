@@ -97,11 +97,11 @@ Elevator - connected with screws and on a rope, take it off the system by switch
 **EXAMPLE:** Public Transport
 
  - Metro
-   - Platform
-     - Gates
-       - LCD Screen in Gate
-         - Wires
-           - Screws
-             - Metal/Plastic
+ - Platform
+ - Gates
+ - LCD Screen in Gate
+ - Wires
+ - Screws
+ - Metal/Plastic
 
 ## WEEK 4
