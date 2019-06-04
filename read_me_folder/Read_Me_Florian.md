@@ -109,3 +109,29 @@ Elevator - connected with screws and on a rope, take it off the system by switch
  - Metal/Plastic
 
 ## WEEK 4
+
+**IDEA FINDING**
+
+ <br>Hacking ownership -> from private art to public exhibition space
+ <br>Transforming/Hacking existing art piece — Re-interpreting it 
+ <br>Making the hidden art visible, reframing
+
+Reinterpretation into 
+
+ -Sound
+ -Taste 
+ -Feel
+ -Seeing 
+ -Smell
+
+**HOW WE ASSOCIATE SMELL WITH COLOR** 
+
+pink and red = fruity
+orange = musty
+green and yellow = sour
+white/grey = neutral (plastic)
+
+Perfume, Spices, Soap, Flowers + Fruit
+
+Connecting colors with other senses like smell or taste is believed to be a perceptual phenomenon called synesthesia, a rare condition that links one of the five senses to something unrelated, such as being able to actually see sounds. However if directly exposed to multiple senses, these connections can be created as well.
+
