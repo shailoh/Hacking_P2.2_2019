@@ -133,6 +133,7 @@ properties of hacking:
 	The hacker attitude is to say that something IS possible, instead of not possible.
 
 **Given examples:**
+
 _Blue Box_
 A good example of accidental hacking is the Capn Crunch whistle. This whistle came as a toy in a cereal box, and it was discovered that the frequences of the sound could be used to hack the telephone system --> this evolved into “blue boxes” — little circuits to generate this tone and outsmart the phones, built by Steve Wozniak, one of Apple's founders. 
 
@@ -147,3 +148,59 @@ _E.g. Food station at school: Eating as a part of the academy instead of a servi
 7 one who enjoys the intellectual challenge of creatively overcoming or circumventing limitations
 8 [deprecated] a malicious meddler who tries to discover sensitive information by picking around
 
+
+## Inspecting and intervening
+-	Observing
+-	Noticing
+-	Intervening
+
+•	To see (perceiving)
+•	To look (noticing phenomena)
+•	To watch (brains organize sight)
+•	To observe (ultimate level – sight becomes intelligence)
+•	To view (by spectators – way of looking that involves a threat, an expectation..) (reference to self #GD major 2.1: society of the spectacle)
+
+Affordances (james Gibson, 1977)
+‘what you can do with stuff’ #GD major 2.2: materialresearch
+- The design on everyday things (All the ways you can perceive action)
+- Ways the world tells you how to interact with them (e,g. chair, door-handle, button etc.)
+
+Hacker mentality comes in:
+-	What other possibilities are there? 
+-	Different interactions that are not suggested by the way the item is designed
+-	Regain control about people’s behaviour
+
+“what if you would inspect with other senses? What if the eyes were distributed, and all senses come back to touch?”
+
+
+### Observational tool excercise: a reflection
+
+The inspection tool I brought to class was my triangle ruler; We looked at the tool from our own point of view describing it's affordances and then from the tool’s point of view. The change of perspective was a bit weird to me at first, but when I started thinking about 'why would we do this' and I had to write from the triangle ruler's point of view I started thinking about it in a way I had not done before. This shift in thinking is intriguing and might be crucial to be a successful hacker?! In order to hack a system (successfully) you need to be able think from within the system.
+
+| affordances | 
+| --- |
+| measuring (max. 14cm) |
+| drawing straight lines | 
+| draw perfect 90-angled squares |
+| sharp folds in paper | 
+| sharp corners punch holes in paper | 
+| hard plastic can be used to stirr liquids | 
+| not bendable | 
+
+### perspective change
+
+triangle: I'm geo, and I've known Julia for a while... it all started in highschool and I've always been a reliable measuring-tool for her. Nothing special, just maths classes! 
+But now she's in artschool she's been mistreating me a little. I am being used to mix paints, punch holes in paper, and she tried to cut clay using my body!!
+I enjoy helping her draw most of the times :) But I hate it when she uses me to measure things, because usually I'm too short (only 14cm) so it makes me insecure  about my size.
+
+
+## Joseph @ Drawing station
+
+
+
+## Class at VARIA
+
+_Hacking as a methodology_
+Cooking as a cultural outing (you could hack) - We made two soups. Firstly, we made a soup with random ingredients - nobody would know on forehand that we would make a soup so we just used what we had (e.g. chocolate, avocado, apples, onion and pasta) the message/idea behind this was that _without too much communication and by just throwing items together your project doesn't really result in a very exiting endproduct._  Secondly, we hacked a soup recipe by asking ourselfs whether the ingredients would be considerate - we all tried to made a soup which everyone would like according to the recipe.
+
+##
