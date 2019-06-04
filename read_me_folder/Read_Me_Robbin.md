@@ -72,7 +72,7 @@ What I brought as an example for hacking for the first lesson was an IKEA hack, 
 Still, I think that for my minor in the third year I won’t choose hacking. Some parts of it, like described in the rest of this read-me file, I surely will take with me, because I found them super interesting and informative. Overall, I think my mind doesn’t work the way it should to become a proper hacker. I enjoyed parts of this project, but I found that while I was working on our assignments, I wasn’t really enjoying myself the way I am while working on something of my own major.
 In the big group (not my own small group) I found myself listening to the conversations that were going on, while I wasn’t eager to join the conversations and for me that’s a clear pointer that this isn’t the right thing for me to do in the future.
 
-# A list of quotes / words / references I find interesting regarding to hacking:# 
+# A list of quotes / words / references I find interesting regarding to hacking # 
 
 “Hacken is het vinden van toepassingen die niet door de maker van het middel bedoeld zijn” = hacking is finding applications that are not intended by the creator of the appliance. https://nl.wikipedia.org/wiki/Hacken 
 
