@@ -160,19 +160,29 @@ Link to the article we inspected http://www.artikel430a.nl/overheid.html
 Link to the SCAMPER method I used https://www.designorate.com/a-guide-to-the-scamper-technique-for-creative-thinking/
 
 # FRIDAY 31th May
-#####Self directed working on a hack
+##### Self directed working on a hack
 
 #### With Oriane and Malou
 Today we gathered at the rooftop to collect references and decide on what exactly we want to hack.
+We made a list of references and a start up plan you that you can find below:
+### https://github.com/somsromy/Files/blob/master/Hacking.md
+
+After Malou left, Oriane and I went to the city centre to look for shoes that we coudl use and took some pictures.
 
 # MONDAY 3th June
-#####Self directed working on the production
+##### Self directed working on the production
+
+#### With Oriane
+Today we met at the city centre to start with buying shoes. We have a group chat, in which we shared our findings and together we chose a pair of shoes. We chose the Balenciaga Triple S shoe to go with. We already brought paint and possible additives for teh shoes from home. (Malou's granddad died this weekend, so unfortunately she couldn't be with us.) It was achtually really good that it was just the two of us, because we have each worked on a shoe for almost for hours, painting them identical.
+
+We experienced the proces and it brought us closer to the idea of the hack; it was not just about hacking a brand or a product, but it was about hacking the ### Value.
+
 
 # TUESDAY 4th June
-#####Self directed working on the marketing
+##### Self directed working on the marketing
 
 # WEDNESDAY 5th June
-#####Self directed working on the presentation
+##### Self directed working on the presentation
 
 # THURSDAY 6th June
-#####Final Presentations
+##### Final Presentations
