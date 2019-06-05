@@ -333,5 +333,8 @@ These tools are very much limited to the space in which they exist, as well as t
 ## :open_file_folder: In Conclusion :file_folder:
 
 I found this practice to be very insightful. I enjoyed the interventions and workshops that expanded on my understanding of hacking and subverting an open system. In my work, I am always looking for new approaches and innovations in my methodology, and these hacking practices have provided me with new tools to do so. I look forward to seeing how I can implement these new techniques I have learned into my work moving forward.
-
+***
+***
+***
+***
 :floppy_disk:
