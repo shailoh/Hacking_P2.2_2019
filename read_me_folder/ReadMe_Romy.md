@@ -196,7 +196,7 @@ This moring we prepared the presentation, which will be presented to you by Stef
 # THURSDAY 6th June
 ##### Final Presentations
 
-### So, what is our hack about?
+### So, what was our hack about?
 Our hack originates from hacking clothes, exploring the connections and systems within the industry, the designer world and cristicism. Big brands seem to have so much power that they can do anything, such as selling bricks and paperclips with theur name on it, for an absurd price. Wether it is completely ridiculous or genius I can't really decide. It's no more than the brand name or logo that gives the value. In this case value stand for the worth; the price that makes it something to take good care of and be proud to have. 
 
 We Chose a brand an a specific item that really 'breathes' the brand. We inspected the ways they work and build our hack around this. We decided to remake the Triple S model shoe in our own way, as a special edition and infiltrated the system.
