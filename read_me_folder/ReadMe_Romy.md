@@ -172,7 +172,7 @@ Today we met at the city centre to start with buying shoes. We have a group chat
 
 A link to the process of creating the shoe you can find here https://romyhacking.hotglue.me/?page%201
 
-# TUESDAY 4th June
+## TUESDAY 4th June
 ##### Self directed working on the marketing
 
 #### With Steffie, Malou and Oriane
