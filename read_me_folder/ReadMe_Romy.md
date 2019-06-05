@@ -9,7 +9,7 @@
 - Exploring the borders, see how far it can go
 - Anatomie
 
-Self added references:
+#### Self added references:
  
 - The Interventionists Users' Manual for the Creative Disruption of Everyday Life, a book I discovered a few years ago, while finding out about postmortal photography
 - Hacking clothes/wearables (example: Prada made a swimsuit that's not supposed to be used for actual swimming)
