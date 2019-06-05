@@ -17,7 +17,7 @@
 
 - [x] write a summary on the exercise you developed at Varia;
 
-- [ ] revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phy-gital (physical and/or digital) systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/biased?);
+- [x] revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phy-gital (physical and/or digital) systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/biased?);
 
 ***
 
@@ -310,13 +310,28 @@ The most extreme case of use for [facial recognition software comes from China](
 
 Interestingly, as I was not able to attend the initial lesson by Joana, I did not notice that the [Facial Weaponization Suite by Zach Blas](http://www.zachblas.info/works/facial-weaponization-suite/) was referenced, however I did find it during my exploration of the topic.
 
-
 #### _What is your hacking method?_
 
 We wanted to combine all of these elements into one. How can we maintain our privacy in a world where we are constantly being monitored? Our idea was to invent a form of mask that is public domain, that a user can wear in areas of public surveillance, and return when they are no longer in sight. Initially, the group came up with a mask design based on the [Asian Conical Hat,](https://en.wikipedia.org/wiki/Asian_conical_hat) that would be pulled over your face in order to hide your identity. We would then test it in a public space in which we found constant surveillance. We chose the elevator of the Wijnhaven building, as there is zero privacy, and we can have a steady stream of participants within a controlled environment. The initial idea was nice, but we were lacking a deeper element and a purpose toward this specific design as opposed to a balaclava or a hat and sunglasses.
 
-In order to adapt this, I proposed that we need to incorporate an element of personality back into the masks, so that you are only hiding for the camera and software itself, and not from the people around you. Instead of just one mask design, I suggested that we explore many different shapes and used the facial recognition software [OpenCV](https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/) in order to see how little or how much of the face should be blocked in order to be undetectable. In order to bring back personality, I also came up with the idea to incorporate white board markers that are located next to the masks, so that the participants may express themselves easily, displaying their identity in a way that speaks about who they are without being detected by the software. This became our final concept, and we made masks using plastic sheets and tinted window paper. I ended up making six different mask designs. I also designed the poster that instructed users on how to utilize our hack.
+In order to adapt this, I proposed that we need to incorporate an element of personality back into the masks, so that you are only hiding for the camera and software itself, and not from the people around you. Instead of just one mask design, I suggested that we explore many different shapes and used the facial recognition software [OpenCV](https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/) to see how little or how much of the face should be blocked in order to be undetectable. We needed to reintroduce the user's personality, so I came up with the idea to incorporate white board markers that are located next to the masks, so that the participants may express themselves easily, displaying their identity in a way that speaks about who they are without being detected by the software. This became our final concept, and we made masks using plastic sheets and tinted window paper. I ended up making six different mask designs. I also designed the poster that instructed users on how to utilize our hack.
 
 ![20190605_135442](https://user-images.githubusercontent.com/50584006/58954715-4131b200-879a-11e9-870b-865bea1f025e.jpg)
 ![FINALFlattened](https://user-images.githubusercontent.com/50584006/58954721-45f66600-879a-11e9-8df2-757f80a8a6c1.jpg)
 
+#### _How would you explain to someone else how to use it?_
+
+Our hack is very user-friendly, and easily accessible. All the user needs to do is to select a mask, draw on it as they wish, wear it for the duration of their elevator ride, and return it to the hangar on the destination floor for the next rider. It is a very simple form of privacy that is still playful and interesting for the user. You are not hiding from your peers, but from a controlling authority. 
+
+#### _In what way are these tools limited/biased?_
+
+These tools are very much limited to the space in which they exist, as well as their quantity. We can only provide anonymity for users up to the amount of produced masks, currently twelve. We are also limited to three masks per floor, and the uneven distribition of visitor frequency to the ground and top floors means that masks may become unevenly distributed among the floors, leaving some users exposed. We are entirely reliant on the goodwill of the participants not to steal the masks or treat them with care. There is also of course the lashback from authority figures monitoring these areas, as they will likely not take kindly to having their systems intervened in. This makes our mask project more of a demonstration than a solution. Ideally, there would be a great variety of masks in many public spaces, so that it becomes normalized as a form of privacy in an exposed and invasive public space. It is important to note that we at the academy also have the privilige of self-expression, questioning authority, and experimentation, so our testing environment is likely to yield a biased positive result due to the nature of our trial group.
+
+***
+
+
+## :open_file_folder: In Conclusion :file_folder:
+
+I found this practice to be very insightful. I enjoyed the interventions and workshops that expanded on my understanding of hacking and subverting an open system. In my work, I am always looking for new approaches and innovations in my methodology, and these hacking practices have provided me with new tools to do so. I look forward to seeing how I can implement these new techniques I have learned into my work moving forward.
+
+:floppy_disk:
