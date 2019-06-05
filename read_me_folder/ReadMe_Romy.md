@@ -167,7 +167,9 @@ Today we gathered at the rooftop to collect references and decide on what exactl
 We made a list of references and a start up plan you that you can find below:
 ### https://github.com/somsromy/Files/blob/master/Hacking.md
 
-After Malou left, Oriane and I went to the city centre to look for shoes that we coudl use and took some pictures.
+After Malou left, Oriane and I went to the city centre to look for shoes that we could use and took some pictures.
+You can find them here https://romyhacking.hotglue.me/
+* It was quite weird that the AXI Schoen already sold many exact cheap copies of popular expensice brands. Almost all the shoes here were copies, the Gucci one with the beads stood out to us.
 
 # MONDAY 3th June
 ##### Self directed working on the production
@@ -175,14 +177,39 @@ After Malou left, Oriane and I went to the city centre to look for shoes that we
 #### With Oriane
 Today we met at the city centre to start with buying shoes. We have a group chat, in which we shared our findings and together we chose a pair of shoes. We chose the Balenciaga Triple S shoe to go with. We already brought paint and possible additives for teh shoes from home. (Malou's granddad died this weekend, so unfortunately she couldn't be with us.) It was achtually really good that it was just the two of us, because we have each worked on a shoe for almost for hours, painting them identical.
 
-We experienced the proces and it brought us closer to the idea of the hack; it was not just about hacking a brand or a product, but it was about hacking the ### Value.
-
+A link to the process of creating the shoe you can find here https://romyhacking.hotglue.me/?page%201
 
 # TUESDAY 4th June
 ##### Self directed working on the marketing
 
+#### With Steffie, Malou and Oriane
+Today we were all here and we worked on the marketing. The previous day we contacted via WhatsApp and did some research about the posters and campaigns Balenciaga has. From there we did the styling and took some photos. Malou did the styling, Steffie did the modeling, Oriane did de directing and I took pictures. Afterward we divided the tasks of the editing, making a poster and putting them on the social platforms.
+
+You can find the results here https://romyhacking.hotglue.me/?page%202
+
 # WEDNESDAY 5th June
 ##### Self directed working on the presentation
 
+#### With Steffie, Malou and Oriane
+This moring we prepared the presentation, which will be presented to you by Steffie and Oriane, since Malou has a funeral and I have a wedding. I have edited the pictures of the 'making of' and printed the posters on A2 matte paper in the Publication Station.
+
 # THURSDAY 6th June
 ##### Final Presentations
+
+### So, what is our hack about?
+Our hack originates from hacking clothes, exploring the connections and systems within the industry, the designer world and cristicism. Big brands seem to have so much power that they can do anything, such as selling bricks and paperclips with theur name on it, for an absurd price. Wether it is completely ridiculous or genius I can't really decide. It's no more than the brand name or logo that gives the value. In this case value stand for the worth; the price that makes it something to take good care of and be proud to have. 
+
+We Chose a brand an a specific item that really 'breathes' the brand. We inspected the ways they work and build our hack around this. We decided to remake the Triple S model shoe in our own way, as a special edition and infiltrated the system.
+
+We experienced the proces and it brought us closer to the idea of the hack; it was not just about hacking a brand or a product, but it was about hacking the VALUE and making it more vauable because of making it more personal. About how you van INFILTRATE and about the CONTEXT.
+
+This hack gave me a lot of insight and know-how in the way these bigger brands work. I can now say that they are quite genius, and maybe even hacked the industry themselves. This hack is not a tool or a product; it is a way of thinking and experiencing. Only by doing we got closer to the ways of thinking of the big names, and it opened up a world for me, when in reality I have gotten nowhere. What remains of this hack and this practice for me, is the possibility and believing, that you can achieve so much as long as you infiltrate and really investigate in a system.
+
+Hacking is a way of living. Taking advantage of someone elses work and making something else, or even better out of it, is accepted en respected nowadays. Well, not in every way, but you get it.
+
+
+### Inspiration
+My biggest inspiration was Esmay Wagemans, a Science Fiction artist in Amsterdam. She studied at the Willem de Kooning Academy from 2012 - 2017 and did a minor in autonomous hacking (I only just found out about her minor). She re-creates the body as a second skin, and her work goes beyond wearables. I have always adored het work since I found out about her when she graduated. For me, her work is a perfect example of hacking the body.
+
+"Esmay Wagemans is an artist who sees the human as a creature of social reality as well as a creature of fiction. She reflects on the digitization and technologization of society by providing a feminine point of view on what these developments mean for the human body. By focusing on- and exploring the process of material, she aims to question what people perceive as their truth. Documenting her process and visualizing her research in an archive – like creating a personal material encyclopedia – is her signature work method." By Michelle Helena Janssen
+
