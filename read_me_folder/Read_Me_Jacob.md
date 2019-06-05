@@ -230,7 +230,7 @@ Many of these hacks involve hiding information and intentionally misleading an o
 
 As previously mentioned, I was not able to attend the lesson at Varia. I discussed the lesson with my classmates, and read through the documentation. While I was abroad, I searched for examples of hacking. One of these instances was while attending an exhibition relating to future designs and prototyping. Here are some of these examples:
 
-##### **_ The image orientation is only correct when clicked._**
+#### **_The image orientation is only correct when clicked._**
 
 ![20190521_150402](https://user-images.githubusercontent.com/50584006/58921705-23cbfc00-8738-11e9-8a36-a6c73f4122d8.jpg)
 ![20190521_150356](https://user-images.githubusercontent.com/50584006/58921722-35150880-8738-11e9-9574-e805d6b31e7e.jpg)
@@ -281,5 +281,11 @@ As previously mentioned, I was not able to attend the lesson at Varia. I discuss
 
 ![20190525_143022](https://user-images.githubusercontent.com/50584006/58922062-a0aba580-8739-11e9-8df0-1a51aeb0043a.jpg)
 
+This ancient runestone was repurposed as a building block centuries later, and now, another 700 years after that, has returned to its original significance, while also serving its secondary function.
+
 ![20190510_124150](https://user-images.githubusercontent.com/50584006/58922065-a99c7700-8739-11e9-8ceb-59dfb45959aa.jpg)
+
+The mirror by the train tracks create a piece of art from the warped industrial machinery through simply performing its duty as a mirror.
+
+These hacks highlight an element of the hacking mentality that I find particularly interesting. That is the speculative design and future building, in that hacking and subverting norms can incite impactful change in the dynamics of how we will live our lives.
 
