@@ -287,5 +287,5 @@ This ancient runestone was repurposed as a building block centuries later, and n
 
 The mirror by the train tracks create a piece of art from the warped industrial machinery through simply performing its duty as a mirror.
 
-These hacks highlight an element of the hacking mentality that I find particularly interesting. That is the speculative design and future building, in that hacking and subverting norms can incite impactful change in the dynamics of how we will live our lives.
+These hacks highlight an element of the hacking mentality that I find particularly interesting: the speculative design and future building. Hacking and subverting norms can incite impactful change in the dynamics of how we will live our lives, which is very exciting to me.
 
