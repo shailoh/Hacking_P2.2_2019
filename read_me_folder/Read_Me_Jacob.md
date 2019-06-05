@@ -15,7 +15,7 @@
 
 - [x] write a summary on the Hacking lecture by Florian Cramer;
 
-- [ ] write a summary on the exercise you developed at Varia;
+- [x] write a summary on the exercise you developed at Varia;
 
 - [ ] revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phy-gital (physical and/or digital) systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/biased?);
 
@@ -289,3 +289,23 @@ The mirror by the train tracks create a piece of art from the warped industrial 
 
 These hacks highlight an element of the hacking mentality that I find particularly interesting: the speculative design and future building. Hacking and subverting norms can incite impactful change in the dynamics of how we will live our lives, which is very exciting to me.
 
+***
+
+
+## :passport_control: Hacking Reflection :performing_arts:
+
+ #### _What is the context in which you operated?_
+ 
+I operated within a social/technological context on this project. This is based on the findings from the previous workshops and assignments, in which the projects tackling these topics (as mentioned above) were the most engaging and insightful for me. The primary goal was to hack a system that can bring a social change.
+ 
+ #### _What phy-gital (physical and/or digital) systems did you investigate?_
+ 
+I looked toward future developments in technology, and social issues that are on the rise. I began my research looking into facial recognition, and [the behavior of crows](https://www.nytimes.com/2008/08/26/science/26crow.html) and [their uses within society.](https://www.smithsonianmag.com/smart-news/french-theme-park-taught-crows-pick-trash-180969996/)
+ 
+This led me down the path of facial recognition software, and its implementation in society today - along with the concerns. I raised these points to the group, and we decided to explore it further.
+
+#### _What did you find?_
+
+The most extreme case of use for [facial recognition software comes from China](https://www.youtube.com/watch?v=eViswN602_k) - more specifically, within the Xinjiang region, in order to [control the Uighur ethnic minority group.](https://www.nytimes.com/2019/04/14/technology/china-surveillance-artificial-intelligence-racial-profiling.html)  The systematic oppression is a daunting look at a potential dystopian future for the world. We used this as our starting point, and researched different methods used by the populace in reacting toward the increasing governmental influence in China. [The Umbrella Movement](https://time.com/3471366/hong-kong-umbrella-revolution-occupy-central-democracy-explainer-6-questions/) utilized the everyday object of the umbrella as a symbol for their stance against the government. This is similar to the [yellow vest movement](https://www.aljazeera.com/news/2018/12/happening-france-yellow-vest-movement-explained-181204153014250.html) in France, as the umbrella is an object of public domain, and the yellow vest is a required accessory for all automobile owners in the event of an accident. The idea of public domain objects makes the protest much more convenient and accessible for participants, therefore allowing for a larger movement. 
+
+Interestingly, as I was not able to attend the initial lesson by Joana, I did not notice that the [Facial Weaponization Suite by Zach Blas](http://www.zachblas.info/works/facial-weaponization-suite/) was referenced, however I did find it during my exploration of the topic.
