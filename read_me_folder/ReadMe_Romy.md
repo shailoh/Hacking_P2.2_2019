@@ -1,4 +1,4 @@
-Checklist Hacking
+##### Checklist Hacking
 1. select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
 2. write down a reflection paragraph on the observational tool exercises (tip: you can link to images/ drawings);
 3. grow the keywords/ glossary about what Hacking (tip: add your own references);
@@ -145,26 +145,34 @@ Links to the notes from the soup and rechoreographing
 - Looking for an existing system and how it's connected, how and if it can be disconnected and what happens
 - Started brainstorming on our own idea of a hack, using the SCAMPER method.
 
-##### With Malou and Steffie
+#### With Malou and Steffie
 Today our project really started going because of Shailoh's introduction to the SCAMPER method.
 We each chose a piece of clothing and adjusted the method to it, which turned out to be harder than I thought. At first it seemed like all the questions were quite similar but put in different words. I chose to investigate a coat, that lead me to start questioning if such things as Gucci did with the bathing suit (making is so much 'designer' that it can't rwally function as a bathing suit anymore) is still considered hacking. How far can we go? 
-There are many links and steps here that we took in a short time. After Malou left Steffie and I dove into the rules and borders of public nudity; when a woman is considered naked, and if see through or really form fitting also is considered naked. We actually inspected article 430A by the department of justica that states about public nudity. Because even the article can't draw straight lines on the rules, I reached out to the department of justice myself. The lady replies that this was a great question and that she also couln't answer it, so the had to contact another department.
+There are many links and steps here that we took in a short time. After Malou left Steffie and I dove into the rules and borders of public nudity; when a woman is considered naked, and if see through or really form fitting also is considered naked. We actually inspected article 430A by the department of justice that states about public nudity. Because even the article can't draw straight lines on the rules, I reached out to the department of justice myself. The lady replies that this was a great question and that she also couln't answer it, so the had to contact another department.
 Because this took too lng for the time we had.
 
 Link to the notes I took (I'm really sorry that they are unreadable for anyone but muself, but this really works for me.)
+- https://github.com/somsromy/Files/blob/master/System%20and%20Connections.pdf
+- https://github.com/somsromy/Files/blob/master/SCAMPER.pdf
 
+Link to the article we inspected http://www.artikel430a.nl/overheid.html
+
+Link to the SCAMPER method I used https://www.designorate.com/a-guide-to-the-scamper-technique-for-creative-thinking/
 
 # FRIDAY 31th May
-Self directed working on a hack
+#####Self directed working on a hack
+
+#### With Oriane and Malou
+Today we gathered at the rooftop to collect references and decide on what exactly we want to hack.
 
 # MONDAY 3th June
-Self directed working on the production
+#####Self directed working on the production
 
 # TUESDAY 4th June
-Self directed working on the marketing
+#####Self directed working on the marketing
 
 # WEDNESDAY 5th June
-Self directed working on the presentation
+#####Self directed working on the presentation
 
 # THURSDAY 6th June
-Final Presentations
+#####Final Presentations
