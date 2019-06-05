@@ -23,7 +23,7 @@ Self added references:
 - Better a good steal than a bad creation
 
 # MONDAY 13th May
-Class with Shailoh and Joana
+##### Class with Shailoh and Joana
 
 The practice started with a detailed schedule and planning in GitHub that was sent to us by mail. I appreciated this, because (what I didn't know then) it was the tool we would be working with ourselves, a gentle way to introduce us to GitHub.
 Not only did it show what was expected from us, but also what we could be expecting from te practice.
@@ -52,7 +52,7 @@ Link to the text https://www.digitalmanifesto.net/manifestos/8/
 Link to my notes https://github.com/somsromy/Files/blob/master/Notes%20day%201.jpg
 
 # WEDNESDAY 15th May
-Lecture with Florian Cramer and exercises with Shailoh and Joana
+##### Lecture with Florian Cramer and exercises with Shailoh and Joana
 
 Florian is a great teacher, if you would ask me. He really cares about what he stands for and less about the rules and ways things are 'supposed' to be. In my dummy I made so many notes that I can't tell what hit me the most. Of course it was exciting that he gave us an insight of the illegal activities that a big part of hacking also consists of. What really intregues me was his ability to make these illegal activities seem legal, accessible and even 'fair'. In a way he hacked our minds, because we all know very well certain things are unacceptable, but he mastered the way of speaking and almost infiltrating in our minds, to make us doubt the damage these tings do.
 
@@ -68,7 +68,7 @@ Link to Florians website http://floriancramer.nl/
 
 Link to the notes I took from Florians lecture (I really enjoyed and absorbed everything) https://github.com/somsromy/Files/blob/master/Notes%20day%202.jpg (contains some of the notes from the next exercise)
 
-# Reflection on the observational tool exercises
+## Reflection on the observational tool exercises
 
 First of all, I think it's too bad that the scan I made of the notes in my dummy is so zoomed-in that you can't really see it as it's supposed to be immediately. Possibly my GitHub skills are to be blammed for this.
 The exercise made me feel and experience what the presentation was saying. The exercise was accessible and easy, but to be executed well in order to understand the concept. 
@@ -84,7 +84,7 @@ Link to the notes from the exercise with the inspection tool (I brought a 'water
 - https://github.com/somsromy/Files/blob/master/Notes%20day%202.3.jpg
 
 # THURSDAY 16th May
-Drawing Sation with Joseph Hughes
+##### Drawing Sation with Joseph Hughes
 
 - Introducing systems by closing a door and writing down the steps.
 - Collecting the fruit and making a smoothie
@@ -99,7 +99,7 @@ https://github.com/somsromy/Files/blob/master/Autnomous%20hacking.pdf
 Link to the drawing exercises:
 
 # TUESDAY 21th May
-Workshop with Niek at Varia
+##### Workshop with Niek at Varia
 
 Today I thought was a bit unexpected. We each brought an ingredient, which turned out to serve in a soup. All ingredients were mxed; pepper, chocolate, jam, cucumber, avocado, apple, onion, etc. Some students tried the soup, so did I and I thought it tasted okay, it only needed salt and then i would have actually eaten it. It turned out salt is quite essential in a soup.
 
@@ -125,18 +125,34 @@ Despite my critique I am glad we had a different class and setting; it was reall
 - Practice: work in groups and choose an object to inspect the choreography of it, make a new choreography.
 - Group presentations of choreographies
 
-Link to the curriculum of Varia: http://varia.zone/category/curriculum.html
+With the 'exercise we developed at Varia' I think you mean the new choreography we developed. We chose a bag of ready-to-eat carrots and started by looking at the common ritual of using them. We went through every possible way to prepare and eat them. We then looked at ways they're not supposed to be used, such as eating the plastic and throwing away the carrots, putting the entire thing on a shelf and let it become art; it will bow up, start to decay and maybe eventually explode. I really like the Idea ov living art, but the idea that we went with was using the carrots as a natural writing or coloring tool. we practiced in my dummy, they are the ideal size to hold. The only problem, which I found out after the class was finished, is that it becomes almost invisible after it has fully dried down.
 
-Link to the overview of terms and theories: https://github.com/somsromy/Files/blob/master/Connecting.jpg
+The afternoon, when we did some choreographies with Joana, I didn't quite get it. It would have worked way better if we'd have some more space. We walked around creating our own personal space ad listen to music. When the tempo got up, we apparently were supposed to be influsenced by the increasing tempo and start walking faster, but we did not. I get the Idea, but next time I would make some more space, so that we actually have the room to move freely.
+It was nice though to exoerience a complete different day and be out of the academy for a day.
 
-Link to the notes from the soup and rechoreographing: 
+Link to the curriculum of Varia http://varia.zone/category/curriculum.html
+
+Link to the overview of terms and theories https://github.com/somsromy/Files/blob/master/Connecting.jpg
+
+Links to the notes from the soup and rechoreographing 
+- https://github.com/somsromy/Files/blob/master/Notes%20day%204.jpg
+- https://github.com/somsromy/Files/blob/master/Notes%20day%204.1.jpg
 
 # MONDAY 27th May
-Workshop with Shailoh about the 'Anatomy of Connectology;'
+##### Workshop with Shailoh about the 'Anatomy of Connectology'
 
 - Shailoh explaining connectology and systems, and discussing with the class
 - Looking for an existing system and how it's connected, how and if it can be disconnected and what happens
 - Started brainstorming on our own idea of a hack, using the SCAMPER method.
+
+##### With Malou and Steffie
+Today our project really started going because of Shailoh's introduction to the SCAMPER method.
+We each chose a piece of clothing and adjusted the method to it, which turned out to be harder than I thought. At first it seemed like all the questions were quite similar but put in different words. I chose to investigate a coat, that lead me to start questioning if such things as Gucci did with the bathing suit (making is so much 'designer' that it can't rwally function as a bathing suit anymore) is still considered hacking. How far can we go? 
+There are many links and steps here that we took in a short time. After Malou left Steffie and I dove into the rules and borders of public nudity; when a woman is considered naked, and if see through or really form fitting also is considered naked. We actually inspected article 430A by the department of justica that states about public nudity. Because even the article can't draw straight lines on the rules, I reached out to the department of justice myself. The lady replies that this was a great question and that she also couln't answer it, so the had to contact another department.
+Because this took too lng for the time we had.
+
+Link to the notes I took (I'm really sorry that they are unreadable for anyone but muself, but this really works for me.)
+
 
 # FRIDAY 31th May
 Self directed working on a hack
