@@ -1,13 +1,6 @@
-##### Checklist Hacking
-1. select a list of keywords/ glossary about what Hacking is/ can be (tip: re-read the manifesto);
-2. write down a reflection paragraph on the observational tool exercises (tip: you can link to images/ drawings);
-3. grow the keywords/ glossary about what Hacking (tip: add your own references);
-4. gather documentation on the two sessions with Shailoh and Joana;
-5. write a summary on the Hacking lecture by Florian Cramer;
-6. write a summary on the exercise you developed at Varia;
-7. revise all the topics above and reflect on the possible meaning of 'Hacking' (Respond to the questions: What is the context in which you operated? What phygical systems did you investigate? What did you find? What is your hacking method? If your method is a tool set, how would you explain to someone else how to use it? In what way are these tools limited/based?)
+# Hacking with Romy; a Read Me file.
 
-# Collection of keywords that define/can be 'Hacking'
+## Collection of keywords that define/can be 'Hacking'
 
 - Seeing beyond existing connections and possibilities
 - Interfering in systems
@@ -22,7 +15,7 @@ Self added references:
 - Hacking clothes/wearables (example: Prada made a swimsuit that's not supposed to be used for actual swimming)
 - Better a good steal than a bad creation
 
-# MONDAY 13th May
+## MONDAY 13th May
 ##### Class with Shailoh and Joana
 
 The practice started with a detailed schedule and planning in GitHub that was sent to us by mail. I appreciated this, because (what I didn't know then) it was the tool we would be working with ourselves, a gentle way to introduce us to GitHub.
@@ -51,7 +44,7 @@ Link to the text https://www.digitalmanifesto.net/manifestos/8/
 
 Link to my notes https://github.com/somsromy/Files/blob/master/Notes%20day%201.jpg
 
-# WEDNESDAY 15th May
+## WEDNESDAY 15th May
 ##### Lecture with Florian Cramer and exercises with Shailoh and Joana
 
 Florian is a great teacher, if you would ask me. He really cares about what he stands for and less about the rules and ways things are 'supposed' to be. In my dummy I made so many notes that I can't tell what hit me the most. Of course it was exciting that he gave us an insight of the illegal activities that a big part of hacking also consists of. What really intregues me was his ability to make these illegal activities seem legal, accessible and even 'fair'. In a way he hacked our minds, because we all know very well certain things are unacceptable, but he mastered the way of speaking and almost infiltrating in our minds, to make us doubt the damage these tings do.
@@ -83,7 +76,7 @@ Link to the notes from the exercise with the inspection tool (I brought a 'water
 - https://github.com/somsromy/Files/blob/master/Notes%20day%202.2.jpg
 - https://github.com/somsromy/Files/blob/master/Notes%20day%202.3.jpg
 
-# THURSDAY 16th May
+## THURSDAY 16th May
 ##### Drawing Sation with Joseph Hughes
 
 - Introducing systems by closing a door and writing down the steps.
@@ -98,7 +91,7 @@ https://github.com/somsromy/Files/blob/master/Autnomous%20hacking.pdf
 
 Link to the drawing exercises:
 
-# TUESDAY 21th May
+## TUESDAY 21th May
 ##### Workshop with Niek at Varia
 
 Today I thought was a bit unexpected. We each brought an ingredient, which turned out to serve in a soup. All ingredients were mxed; pepper, chocolate, jam, cucumber, avocado, apple, onion, etc. Some students tried the soup, so did I and I thought it tasted okay, it only needed salt and then i would have actually eaten it. It turned out salt is quite essential in a soup.
@@ -138,7 +131,7 @@ Links to the notes from the soup and rechoreographing
 - https://github.com/somsromy/Files/blob/master/Notes%20day%204.jpg
 - https://github.com/somsromy/Files/blob/master/Notes%20day%204.1.jpg
 
-# MONDAY 27th May
+## MONDAY 27th May
 ##### Workshop with Shailoh about the 'Anatomy of Connectology'
 
 - Shailoh explaining connectology and systems, and discussing with the class
@@ -159,7 +152,7 @@ Link to the article we inspected http://www.artikel430a.nl/overheid.html
 
 Link to the SCAMPER method I used https://www.designorate.com/a-guide-to-the-scamper-technique-for-creative-thinking/
 
-# FRIDAY 31th May
+## FRIDAY 31th May
 ##### Self directed working on a hack
 
 #### With Oriane and Malou
@@ -171,7 +164,7 @@ After Malou left, Oriane and I went to the city centre to look for shoes that we
 You can find them here https://romyhacking.hotglue.me/
 * It was quite weird that the AXI Schoen already sold many exact cheap copies of popular expensice brands. Almost all the shoes here were copies, the Gucci one with the beads stood out to us.
 
-# MONDAY 3th June
+## MONDAY 3th June
 ##### Self directed working on the production
 
 #### With Oriane
@@ -187,13 +180,13 @@ Today we were all here and we worked on the marketing. The previous day we conta
 
 You can find the results here https://romyhacking.hotglue.me/?page%202
 
-# WEDNESDAY 5th June
+## WEDNESDAY 5th June
 ##### Self directed working on the presentation
 
 #### With Steffie, Malou and Oriane
 This moring we prepared the presentation, which will be presented to you by Steffie and Oriane, since Malou has a funeral and I have a wedding. I have edited the pictures of the 'making of' and printed the posters on A2 matte paper in the Publication Station.
 
-# THURSDAY 6th June
+## THURSDAY 6th June
 ##### Final Presentations
 
 ### So, what was our hack about?
