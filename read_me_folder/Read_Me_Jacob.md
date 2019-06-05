@@ -13,7 +13,7 @@
 
 - [x] gather documentation on the two sessions with Shailoh and Joana;
 
-- [ ] write a summary on the Hacking lecture by Florian Cramer;
+- [x] write a summary on the Hacking lecture by Florian Cramer;
 
 - [ ] write a summary on the exercise you developed at Varia;
 
@@ -222,3 +222,11 @@ There was a lot of information to digest in this lecture, and there were quite a
 - Jacob Appelbaum's invention of the Tor browser, and using the protection of art installations to afford immunity to the servers
 
 Many of these hacks involve hiding information and intentionally misleading an outside group, however in some cases they are presented by an authoritative figure, and often along the lines of social hacking more-so than traditional technological hacking. They stay within orbit of the technological sphere, however the intent of these hacks are not technologically driven, which is an enlightening take on the hacking process that inspired me.
+
+***
+
+
+## :stew: Exercise at Varia :airplane:
+
+As previously mentioned, I was not able to attend the lesson at Varia. I discussed the lesson with my classmates, and read through the documentation. While I was abroad, I searched for examples of hacking. One of these instances was while attending an exhibition relating to future designs and prototyping. Here are some of these examples
+
