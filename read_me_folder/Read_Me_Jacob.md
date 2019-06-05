@@ -228,5 +228,58 @@ Many of these hacks involve hiding information and intentionally misleading an o
 
 ## :stew: Exercise at Varia :airplane:
 
-As previously mentioned, I was not able to attend the lesson at Varia. I discussed the lesson with my classmates, and read through the documentation. While I was abroad, I searched for examples of hacking. One of these instances was while attending an exhibition relating to future designs and prototyping. Here are some of these examples
+As previously mentioned, I was not able to attend the lesson at Varia. I discussed the lesson with my classmates, and read through the documentation. While I was abroad, I searched for examples of hacking. One of these instances was while attending an exhibition relating to future designs and prototyping. Here are some of these examples:
+
+##### **_ The image orientation is only correct when clicked._**
+
+![20190521_150402](https://user-images.githubusercontent.com/50584006/58921705-23cbfc00-8738-11e9-8a36-a6c73f4122d8.jpg)
+![20190521_150356](https://user-images.githubusercontent.com/50584006/58921722-35150880-8738-11e9-9574-e805d6b31e7e.jpg)
+
+![20190521_150419](https://user-images.githubusercontent.com/50584006/58921782-80c7b200-8738-11e9-8786-9d0b096e0dc6.jpg)
+![20190521_150415](https://user-images.githubusercontent.com/50584006/58921785-83c2a280-8738-11e9-87b3-4bbcd97ba143.jpg)
+
+![20190521_150630](https://user-images.githubusercontent.com/50584006/58921832-b66c9b00-8738-11e9-990e-4db5d5a8d8d8.jpg)
+
+![20190521_150822](https://user-images.githubusercontent.com/50584006/58921816-a5238e80-8738-11e9-94b4-64c63dbd3d45.jpg)
+![20190521_150816](https://user-images.githubusercontent.com/50584006/58921830-b1a7e700-8738-11e9-9472-b0efb42ebcdb.jpg)
+
+![20190521_151029](https://user-images.githubusercontent.com/50584006/58921861-d4d29680-8738-11e9-8fce-66d69d70729d.jpg)
+
+![20190521_151122](https://user-images.githubusercontent.com/50584006/58921875-e1ef8580-8738-11e9-8f21-3f4d9447c3bb.jpg)
+![20190521_151112](https://user-images.githubusercontent.com/50584006/58921878-e6b43980-8738-11e9-9c59-18f4544c8acd.jpg)
+
+![20190521_151231](https://user-images.githubusercontent.com/50584006/58921904-021f4480-8739-11e9-9923-268185ab2e2d.jpg)
+![20190521_151225](https://user-images.githubusercontent.com/50584006/58921907-04819e80-8739-11e9-9d71-2e94039ed8b5.jpg)
+
+![20190521_151329](https://user-images.githubusercontent.com/50584006/58921929-22e79a00-8739-11e9-8245-e200f3cb4be7.jpg)
+
+![20190521_151447](https://user-images.githubusercontent.com/50584006/58921934-27ac4e00-8739-11e9-8a37-b533a8537611.jpg)
+![20190521_151436](https://user-images.githubusercontent.com/50584006/58921940-2d099880-8739-11e9-80cb-61caf22726b6.jpg)
+
+![20190521_151538](https://user-images.githubusercontent.com/50584006/58921953-3b57b480-8739-11e9-9519-25c591e86b6c.jpg)
+![20190521_151533](https://user-images.githubusercontent.com/50584006/58921961-3eeb3b80-8739-11e9-8cda-7dc8855318f9.jpg)
+
+![20190521_154015](https://user-images.githubusercontent.com/50584006/58921991-562a2900-8739-11e9-93f6-5c872e67da76.jpg)
+![20190521_154007](https://user-images.githubusercontent.com/50584006/58921993-59251980-8739-11e9-8d85-7ed903567db2.jpg)
+
+![20190521_154642](https://user-images.githubusercontent.com/50584006/58921998-5c200a00-8739-11e9-9a74-8e42e1553f11.jpg)
+![20190521_154636](https://user-images.githubusercontent.com/50584006/58922003-5e826400-8739-11e9-8e60-0c3eee6bdf4b.jpg)
+
+![20190521_155509](https://user-images.githubusercontent.com/50584006/58922010-6b06bc80-8739-11e9-9835-f42e63acccda.jpg)
+![20190521_155505](https://user-images.githubusercontent.com/50584006/58922014-6d691680-8739-11e9-8b97-d0a501b56209.jpg)
+
+![20190521_161235](https://user-images.githubusercontent.com/50584006/58922024-778b1500-8739-11e9-9dee-0d4e0eab1f29.jpg)
+![20190521_161231](https://user-images.githubusercontent.com/50584006/58922025-79ed6f00-8739-11e9-9c3f-5051c914e2d5.jpg)
+
+![20190521_161337](https://user-images.githubusercontent.com/50584006/58922031-7eb22300-8739-11e9-963c-4640b878a075.jpg)
+![20190521_161330](https://user-images.githubusercontent.com/50584006/58922032-807be680-8739-11e9-9b23-b0dc4a8e6b5c.jpg)
+
+![20190521_161519](https://user-images.githubusercontent.com/50584006/58922044-8a054e80-8739-11e9-9738-a69cc1c832c9.jpg)
+![20190521_161514](https://user-images.githubusercontent.com/50584006/58922047-8b367b80-8739-11e9-8b49-4525622c94ff.jpg)
+
+![20190521_162936](https://user-images.githubusercontent.com/50584006/58922055-9b4e5b00-8739-11e9-8774-87316c73dd64.jpg)
+
+![20190525_143022](https://user-images.githubusercontent.com/50584006/58922062-a0aba580-8739-11e9-8df0-1a51aeb0043a.jpg)
+
+![20190510_124150](https://user-images.githubusercontent.com/50584006/58922065-a99c7700-8739-11e9-8ceb-59dfb45959aa.jpg)
 
