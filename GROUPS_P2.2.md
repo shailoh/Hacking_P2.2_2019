@@ -10,7 +10,7 @@ Kim ter horst, Hanna Mansfeld, Rianne beijersbergen, Sientje, sylvia kloren
 Malou Weijs, Romy Onnink, Steffie Peters and Oriane Palacio
 
 * Group 04:
-Marine, Eva Luna, Eva, Mate, Jacob
+Marine, Eva Luna, Eva, Mate, Jacob, Jennifer
 
 * Group 05:
 Arooj,Hannah,Jamal, Florian, Yasheng ,Haemin
