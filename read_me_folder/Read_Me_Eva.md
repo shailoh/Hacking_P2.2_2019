@@ -57,3 +57,11 @@ After a while, the caterpillar was gone, out of my sight.
 I missed the Anatomical Anatomic Drawing Lessons with Joseph.
 Besides the hacking classes I was busy with writing text analyses and modernity essays for university. Foucault's ‘docile bodies’ and ‘the political anatomy of the detail’ interest me a lot. I hope I can find a way to connect hacking, anatomy, choreography to the final essay. - and other way around - if the political anatomy of the detail makes people into docile bodies (/ is this still the case in 2019?) , then (assuming you don’t want to be a docile body) how to take the docile out of the body and how to hack into this political anatomy.
 
+### TUE 21th May
+At Varia we first made a soup out of all the random ingredients that everyone brought. The soup was not very good but tasted better than I expected. We threw the rest of that soup away which is quite a waste of food I though, considering we were thinking about how to approach food in a considerate way.
+Then we hacked two recipes, we took the original recipe and then changed it into a more considerate way. This means more people can eat it since we took certain allergies in consideration and made it vegan. We also paid attention to how and where the ingredients were produced, whether we thought it was produced fairly and in a sustainable way. This is the link to the recipe: 
+https://www.smulweb.nl/recepten/1471235/Koolsoep-maar-dan-voor-iedereen
+
+Then we discussed some stuff that had to do with choreographies. I couldn't follow that part very well, I don't remember why, maybe it went too fast. I have a picture again of some notes that I made:
+I like the way how choreography could be interpreted in many ways. OI'm definately going to look into more of the sources on chreography. - I can also focus it again to foucault: our behaviors are internalised very detailed choreographies. - Maybe if focussing on executing the detailed movements the right way distracts from the purpose and makes someone into docile body in a system, then focussing on executing the detailed movements in a different/ 'wrong' way could be a hacking body in a system.
+
