@@ -13,7 +13,7 @@ Malou Weijs, Romy Onnink, Steffie Peters and Oriane Palacio
 Marine, Eva Luna, Eva, Mate, Jacob, Jennifer
 
 * Group 05:
-Arooj,Hannah,Jamal, Florian, Yasheng ,Haemin
+Arooj,Hannah,Jamal, Florian, Yasheng, Haemin
 
 * Group 06:
 Saskia, Kevin, Arman, Lode, Sinead
